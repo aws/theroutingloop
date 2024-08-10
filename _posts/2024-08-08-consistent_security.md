@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Consistent security across VPC deployment options"
-videoid: 
+videoid: 2220471625
 date:   2024-08-08 10:30:00 -0800
 abstract: "Many customers build landing zones on AWS leveraging multiple AWS accounts, shared and non-shared VPCs, and network security controls like Security Groups, and firewall implementations. Let's dive deeper into best practices for network security, access permissions, and how you can integrate consistent application security in your existing landing zone/network platform "
 hosts: "Alex Huides"
