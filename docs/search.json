@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Application networking with AWS PrivateLink",
+      "hosts"    : "Jamie Wenzel <br> Tom Adamski",
+      "url"      : "/2024/08/22/privatelink.html",
+      "date"     : "22 Aug 2024",
+      "abstract" : "Join us for an in-depth exploration of AWS PrivateLink, where you&#39;ll gain a solid understanding of its core principles and advanced use cases. We&#39;ll cover the essentials of how PrivateLink operates, dive into more complex architectures like cross-region and hybrid connectivity, and discuss strategies for migrating backend services with minimal downtime. Whether you&#39;re new to PrivateLink or looking to refine your knowledge, this session is designed to provide you with insights and practical guidance. Bring your questions and get ready to deepen your expertise."
+    } ,
+  
+    {
       "title"    : "The Routing Loop - What did we lauch so far in 2024?",
       "hosts"    : "Jamie Wenzel <br> Riggs Goodman",
       "url"      : "/2024/08/15/networkroundup.html",
