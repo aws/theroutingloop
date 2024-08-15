@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "The Routing Loop - What did we lauch so far in 2024?",
+      "hosts"    : "Jamie Wenzel <br> Riggs Goodman",
+      "url"      : "/2024/08/15/networkroundup.html",
+      "date"     : "15 Aug 2024",
+      "abstract" : "In this session we will cover the releases that have happened in AWS networking from January to August 2021. Riggs and Jamie will talk through as many of the releasees as they can, taking your questions in the process."
+    } ,
+  
+    {
       "title"    : "Consistent security across VPC deployment options",
       "hosts"    : "Alex Huides",
       "url"      : "/2024/08/08/consistent_security.html",

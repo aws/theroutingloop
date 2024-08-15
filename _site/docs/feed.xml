@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-07-29T14:24:33-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">AWS Application Load Balancer - Routing Algorithms and Health Checking</title><link href="/2024/08/01/alb_routing.html" rel="alternate" type="text/html" title="AWS Application Load Balancer - Routing Algorithms and Health Checking" /><published>2024-08-01T11:30:00-07:00</published><updated>2024-08-01T11:30:00-07:00</updated><id>/2024/08/01/alb_routing</id><content type="html" xml:base="/2024/08/01/alb_routing.html"><![CDATA[<div class="content-area">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-08-15T15:08:33-04:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">The Routing Loop - What did we lauch so far in 2024?</title><link href="/2024/08/15/networkroundup.html" rel="alternate" type="text/html" title="The Routing Loop - What did we lauch so far in 2024?" /><published>2024-08-15T14:30:00-04:00</published><updated>2024-08-15T14:30:00-04:00</updated><id>/2024/08/15/networkroundup</id><content type="html" xml:base="/2024/08/15/networkroundup.html"><![CDATA[<div class="content-area">
+  <span class="date">15 August 2024</span>
+
+  <h1>The Routing Loop - What did we lauch so far in 2024?</h1>
+
+  <p><b>Hosts:</b><br />Jamie Wenzel <br /> Riggs Goodman</p>
+  <p><b>Guests:</b><br /></p>
+  <div class="abstract">
+    <b>Abstract:</b><br />In this session we will cover the releases that have happened in AWS networking from January to August 2021. Riggs and Jamie will talk through as many of the releasees as they can, taking your questions in the process.
+  </div>
+
+  
+  
+     
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?video=2225110802&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+  
+
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[15 August 2024]]></summary></entry><entry><title type="html">Consistent security across VPC deployment options</title><link href="/2024/08/08/consistent_security.html" rel="alternate" type="text/html" title="Consistent security across VPC deployment options" /><published>2024-08-08T14:30:00-04:00</published><updated>2024-08-08T14:30:00-04:00</updated><id>/2024/08/08/consistent_security</id><content type="html" xml:base="/2024/08/08/consistent_security.html"><![CDATA[<div class="content-area">
+  <span class="date">8 August 2024</span>
+
+  <h1>Consistent security across VPC deployment options</h1>
+
+  <p><b>Hosts:</b><br />Alex Huides</p>
+  <p><b>Guests:</b><br />Justin Davies, Principal Product Manager, EC2 Networking</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />Many customers build landing zones on AWS leveraging multiple AWS accounts, shared and non-shared VPCs, and network security controls like Security Groups, and firewall implementations. Let's dive deeper into best practices for network security, access permissions, and how you can integrate consistent application security in your existing landing zone/network platform 
+  </div>
+
+  
+  
+     
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?video=2220471625&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+  
+
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[8 August 2024]]></summary></entry><entry><title type="html">AWS Application Load Balancer - Routing Algorithms and Health Checking</title><link href="/2024/08/01/alb_routing.html" rel="alternate" type="text/html" title="AWS Application Load Balancer - Routing Algorithms and Health Checking" /><published>2024-08-01T14:30:00-04:00</published><updated>2024-08-01T14:30:00-04:00</updated><id>/2024/08/01/alb_routing</id><content type="html" xml:base="/2024/08/01/alb_routing.html"><![CDATA[<div class="content-area">
   <span class="date">1 August 2024</span>
 
   <h1>AWS Application Load Balancer - Routing Algorithms and Health Checking</h1>
@@ -11,17 +53,15 @@
 
   
   
-  
-    <p>Session hasn't started. Join live on <b>1 August 2024 at 10:30AM PST / 1:30PM EST / 6:30PM GMT</b></p>
+     
     <div class="video-container">
-      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+      <iframe src="https://player.twitch.tv/?video=2213200773&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
     </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
   
 
   
-    <b>Video on demand will become available soon after the livestream</b>
-  
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[1 August 2024]]></summary></entry><entry><title type="html">Code Talk: Moving to Zero Trust architecture on AWS</title><link href="/2024/07/25/code_talk.html" rel="alternate" type="text/html" title="Code Talk: Moving to Zero Trust architecture on AWS" /><published>2024-07-25T11:30:00-07:00</published><updated>2024-07-25T11:30:00-07:00</updated><id>/2024/07/25/code_talk</id><content type="html" xml:base="/2024/07/25/code_talk.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[1 August 2024]]></summary></entry><entry><title type="html">Code Talk: Moving to Zero Trust architecture on AWS</title><link href="/2024/07/25/code_talk.html" rel="alternate" type="text/html" title="Code Talk: Moving to Zero Trust architecture on AWS" /><published>2024-07-25T14:30:00-04:00</published><updated>2024-07-25T14:30:00-04:00</updated><id>/2024/07/25/code_talk</id><content type="html" xml:base="/2024/07/25/code_talk.html"><![CDATA[<div class="content-area">
   <span class="date">25 July 2024</span>
 
   <h1>Code Talk: Moving to Zero Trust architecture on AWS</h1>
@@ -42,7 +82,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[25 July 2024]]></summary></entry><entry><title type="html">All Things Support, and Lessons Learned</title><link href="/2024/07/18/Lessons_learned_support_talk.html" rel="alternate" type="text/html" title="All Things Support, and Lessons Learned" /><published>2024-07-18T11:30:00-07:00</published><updated>2024-07-18T11:30:00-07:00</updated><id>/2024/07/18/Lessons_learned_support_talk</id><content type="html" xml:base="/2024/07/18/Lessons_learned_support_talk.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[25 July 2024]]></summary></entry><entry><title type="html">All Things Support, and Lessons Learned</title><link href="/2024/07/18/Lessons_learned_support_talk.html" rel="alternate" type="text/html" title="All Things Support, and Lessons Learned" /><published>2024-07-18T14:30:00-04:00</published><updated>2024-07-18T14:30:00-04:00</updated><id>/2024/07/18/Lessons_learned_support_talk</id><content type="html" xml:base="/2024/07/18/Lessons_learned_support_talk.html"><![CDATA[<div class="content-area">
   <span class="date">18 July 2024</span>
 
   <h1>All Things Support, and Lessons Learned</h1>
@@ -63,7 +103,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[18 July 2024]]></summary></entry><entry><title type="html">Supercharge Your Network Engineering: Harnessing GenAI Tools for Enhanced Productivity</title><link href="/2024/07/11/GenAI-Networking-2.html" rel="alternate" type="text/html" title="Supercharge Your Network Engineering: Harnessing GenAI Tools for Enhanced Productivity" /><published>2024-07-11T11:30:00-07:00</published><updated>2024-07-11T11:30:00-07:00</updated><id>/2024/07/11/GenAI-Networking-2</id><content type="html" xml:base="/2024/07/11/GenAI-Networking-2.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[18 July 2024]]></summary></entry><entry><title type="html">Supercharge Your Network Engineering: Harnessing GenAI Tools for Enhanced Productivity</title><link href="/2024/07/11/GenAI-Networking-2.html" rel="alternate" type="text/html" title="Supercharge Your Network Engineering: Harnessing GenAI Tools for Enhanced Productivity" /><published>2024-07-11T14:30:00-04:00</published><updated>2024-07-11T14:30:00-04:00</updated><id>/2024/07/11/GenAI-Networking-2</id><content type="html" xml:base="/2024/07/11/GenAI-Networking-2.html"><![CDATA[<div class="content-area">
   <span class="date">11 July 2024</span>
 
   <h1>Supercharge Your Network Engineering: Harnessing GenAI Tools for Enhanced Productivity</h1>
@@ -84,7 +124,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[11 July 2024]]></summary></entry><entry><title type="html">Evolution of enterprise networking in the cloud</title><link href="/2024/06/27/Large-industry-cloud-evolution.html" rel="alternate" type="text/html" title="Evolution of enterprise networking in the cloud" /><published>2024-06-27T11:30:00-07:00</published><updated>2024-06-27T11:30:00-07:00</updated><id>/2024/06/27/Large-industry-cloud-evolution</id><content type="html" xml:base="/2024/06/27/Large-industry-cloud-evolution.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[11 July 2024]]></summary></entry><entry><title type="html">Evolution of enterprise networking in the cloud</title><link href="/2024/06/27/Large-industry-cloud-evolution.html" rel="alternate" type="text/html" title="Evolution of enterprise networking in the cloud" /><published>2024-06-27T14:30:00-04:00</published><updated>2024-06-27T14:30:00-04:00</updated><id>/2024/06/27/Large-industry-cloud-evolution</id><content type="html" xml:base="/2024/06/27/Large-industry-cloud-evolution.html"><![CDATA[<div class="content-area">
   <span class="date">27 June 2024</span>
 
   <h1>Evolution of enterprise networking in the cloud</h1>
@@ -105,7 +145,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[27 June 2024]]></summary></entry><entry><title type="html">Simplify DNS management using Route 53 Profiles</title><link href="/2024/06/20/resolver_profiles.html" rel="alternate" type="text/html" title="Simplify DNS management using Route 53 Profiles" /><published>2024-06-20T11:30:00-07:00</published><updated>2024-06-20T11:30:00-07:00</updated><id>/2024/06/20/resolver_profiles</id><content type="html" xml:base="/2024/06/20/resolver_profiles.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[27 June 2024]]></summary></entry><entry><title type="html">Simplify DNS management using Route 53 Profiles</title><link href="/2024/06/20/resolver_profiles.html" rel="alternate" type="text/html" title="Simplify DNS management using Route 53 Profiles" /><published>2024-06-20T14:30:00-04:00</published><updated>2024-06-20T14:30:00-04:00</updated><id>/2024/06/20/resolver_profiles</id><content type="html" xml:base="/2024/06/20/resolver_profiles.html"><![CDATA[<div class="content-area">
   <span class="date">20 June 2024</span>
 
   <h1>Simplify DNS management using Route 53 Profiles</h1>
@@ -126,7 +166,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[20 June 2024]]></summary></entry><entry><title type="html">New Launch: AWS Cloud WAN Service Insertion</title><link href="/2024/06/13/service_insertion.html" rel="alternate" type="text/html" title="New Launch: AWS Cloud WAN Service Insertion" /><published>2024-06-13T11:30:00-07:00</published><updated>2024-06-13T11:30:00-07:00</updated><id>/2024/06/13/service_insertion</id><content type="html" xml:base="/2024/06/13/service_insertion.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[20 June 2024]]></summary></entry><entry><title type="html">New Launch: AWS Cloud WAN Service Insertion</title><link href="/2024/06/13/service_insertion.html" rel="alternate" type="text/html" title="New Launch: AWS Cloud WAN Service Insertion" /><published>2024-06-13T14:30:00-04:00</published><updated>2024-06-13T14:30:00-04:00</updated><id>/2024/06/13/service_insertion</id><content type="html" xml:base="/2024/06/13/service_insertion.html"><![CDATA[<div class="content-area">
   <span class="date">13 June 2024</span>
 
   <h1>New Launch: AWS Cloud WAN Service Insertion</h1>
@@ -147,7 +187,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[13 June 2024]]></summary></entry><entry><title type="html">World IPv6 Day (ALL DAY)</title><link href="/2024/06/06/ipv6_day.html" rel="alternate" type="text/html" title="World IPv6 Day (ALL DAY)" /><published>2024-06-06T11:00:00-07:00</published><updated>2024-06-06T11:00:00-07:00</updated><id>/2024/06/06/ipv6_day</id><content type="html" xml:base="/2024/06/06/ipv6_day.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[13 June 2024]]></summary></entry><entry><title type="html">World IPv6 Day (ALL DAY)</title><link href="/2024/06/06/ipv6_day.html" rel="alternate" type="text/html" title="World IPv6 Day (ALL DAY)" /><published>2024-06-06T14:00:00-04:00</published><updated>2024-06-06T14:00:00-04:00</updated><id>/2024/06/06/ipv6_day</id><content type="html" xml:base="/2024/06/06/ipv6_day.html"><![CDATA[<div class="content-area">
   <span class="date">6 June 2024</span>
   <h1>World IPv6 Day (ALL DAY)</h1>
   <div class="abstract">
@@ -195,46 +235,4 @@
 
   }
 </style>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[6 June 2024 World IPv6 Day (ALL DAY) Abstract:Join us for a whole day of sessions highlighting IPv6 within AWS networking. We'll have a mix of Guest Speakers, white boarding, a hands-on workshop, and presentations]]></summary></entry><entry><title type="html">Ask Me Anything with Alex and Scott</title><link href="/2024/05/30/AMA_net.html" rel="alternate" type="text/html" title="Ask Me Anything with Alex and Scott" /><published>2024-05-30T11:30:00-07:00</published><updated>2024-05-30T11:30:00-07:00</updated><id>/2024/05/30/AMA_net</id><content type="html" xml:base="/2024/05/30/AMA_net.html"><![CDATA[<div class="content-area">
-  <span class="date">30 May 2024</span>
-
-  <h1>Ask Me Anything with Alex and Scott</h1>
-
-  <p><b>Hosts:</b><br />Alex Huides</p>
-  <p><b>Guests:</b><br />Scott Morrison</p>
-  <div class="abstract">
-    <b>Abstract:</b><br />This is an ask me anything session where our audience brings their networking questions, and go over networking architectures with Alex Huides and Scott Morrison.
-  </div>
-
-  
-  
-     
-    <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video=2159549318&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
-  
-
-  
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[30 May 2024]]></summary></entry><entry><title type="html">Getting to know Amazon VPC IP Address Manager</title><link href="/2024/05/23/IPAM_net.html" rel="alternate" type="text/html" title="Getting to know Amazon VPC IP Address Manager" /><published>2024-05-23T11:30:00-07:00</published><updated>2024-05-23T11:30:00-07:00</updated><id>/2024/05/23/IPAM_net</id><content type="html" xml:base="/2024/05/23/IPAM_net.html"><![CDATA[<div class="content-area">
-  <span class="date">23 May 2024</span>
-
-  <h1>Getting to know Amazon VPC IP Address Manager</h1>
-
-  <p><b>Hosts:</b><br />Jamie Wenzel, Matt Lehwess</p>
-  <p><b>Guests:</b><br />Raunak Tibrewal, Ankit Chadha</p>
-  <div class="abstract">
-    <b>Abstract:</b><br />Amazon VPC IP Address Manager (IPAM) is a service that simplifies IP address management. This service helps you plan, track, allocate and monitor your IP adddresses in a unified operational view across your AWS environment. Join us for a service overview, and live demonstration
-  </div>
-
-  
-  
-     
-    <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video=2153446502&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
-  
-
-  
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[23 May 2024]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[6 June 2024 World IPv6 Day (ALL DAY) Abstract:Join us for a whole day of sessions highlighting IPv6 within AWS networking. We'll have a mix of Guest Speakers, white boarding, a hands-on workshop, and presentations]]></summary></entry></feed>
