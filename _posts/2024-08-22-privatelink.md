@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Application networking with AWS PrivateLink"
-videoid: 
+videoid: 2231174421
 date:   2024-08-22 10:30:00 -0800
 abstract: "Join us for an in-depth exploration of AWS PrivateLink, where you'll gain a solid understanding of its core principles and advanced use cases. We'll cover the essentials of how PrivateLink operates, dive into more complex architectures like cross-region and hybrid connectivity, and discuss strategies for migrating backend services with minimal downtime. Whether you're new to PrivateLink or looking to refine your knowledge, this session is designed to provide you with insights and practical guidance. Bring your questions and get ready to deepen your expertise."
 hosts: "Jamie Wenzel <br> Tom Adamski"
