@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-08-22T12:20:58-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Application networking with AWS PrivateLink</title><link href="/2024/08/22/privatelink.html" rel="alternate" type="text/html" title="Application networking with AWS PrivateLink" /><published>2024-08-22T11:30:00-07:00</published><updated>2024-08-22T11:30:00-07:00</updated><id>/2024/08/22/privatelink</id><content type="html" xml:base="/2024/08/22/privatelink.html"><![CDATA[<div class="content-area">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-08-26T20:35:40-04:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">AWS and Aviatrix - A chat about AWS Cloud Wan and all things cloud connectivity</title><link href="/2024/08/29/Aviatrix.html" rel="alternate" type="text/html" title="AWS and Aviatrix - A chat about AWS Cloud Wan and all things cloud connectivity" /><published>2024-08-29T14:30:00-04:00</published><updated>2024-08-29T14:30:00-04:00</updated><id>/2024/08/29/Aviatrix</id><content type="html" xml:base="/2024/08/29/Aviatrix.html"><![CDATA[<div class="content-area">
+  <span class="date">29 August 2024</span>
+
+  <h1>AWS and Aviatrix - A chat about AWS Cloud Wan and all things cloud connectivity</h1>
+
+  <p><b>Hosts:</b><br />Jamie, Matt, and Shridhar</p>
+  <p><b>Guests:</b><br />Christopher McHenry, VP of Product at Aviatrix</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />Join us to learn more about the AWS Cloud WAN Connector in partnership with Aviatrix.The AWS Cloud WAN Connector facilitates automatic integration of Aviatrix transit gateways with AWS Cloud WAN, allowing users to extend their AWS-centric operations to a multi-cloud strategy effortlessly.In this session, we’ll demonstrate how this solution automates the provisioning of transit gateways, the creation of network domains, and the establishment of BGP over GRE connections to Cloud WAN hubs, ensuring consistent network segmentation across environments.By leveraging event-driven automation and running on the Aviatrix Extensibility Framework, the connector streamlines network management, reduces manual intervention, and enhances operational efficiency for organizations using AWS as their primary cloud.We’ll also discuss how using the new CloudWAN Service Insertion integration, customers can now achieve centralized east-west and internet-egress inspection, secure multi-cloud connectivity, encrypt on-premises connectivity end-to-end, secure connectivity to AWS partitions such as AWS China and AWS GovCloud, and provide B2B connectivity with partners.
+  </div>
+
+  
+  
+  
+    <p>Session hasn't started. Join live on <b>29 August 2024 at 10:30AM PST / 1:30PM EST / 6:30PM GMT</b></p>
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+  
+
+  
+    <b>Video on demand will become available soon after the livestream</b>
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[29 August 2024]]></summary></entry><entry><title type="html">Application networking with AWS PrivateLink</title><link href="/2024/08/22/privatelink.html" rel="alternate" type="text/html" title="Application networking with AWS PrivateLink" /><published>2024-08-22T14:30:00-04:00</published><updated>2024-08-22T14:30:00-04:00</updated><id>/2024/08/22/privatelink</id><content type="html" xml:base="/2024/08/22/privatelink.html"><![CDATA[<div class="content-area">
   <span class="date">22 August 2024</span>
 
   <h1>Application networking with AWS PrivateLink</h1>
@@ -19,7 +42,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[22 August 2024]]></summary></entry><entry><title type="html">The Routing Loop - What did we lauch so far in 2024?</title><link href="/2024/08/15/networkroundup.html" rel="alternate" type="text/html" title="The Routing Loop - What did we lauch so far in 2024?" /><published>2024-08-15T11:30:00-07:00</published><updated>2024-08-15T11:30:00-07:00</updated><id>/2024/08/15/networkroundup</id><content type="html" xml:base="/2024/08/15/networkroundup.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[22 August 2024]]></summary></entry><entry><title type="html">The Routing Loop - What did we lauch so far in 2024?</title><link href="/2024/08/15/networkroundup.html" rel="alternate" type="text/html" title="The Routing Loop - What did we lauch so far in 2024?" /><published>2024-08-15T14:30:00-04:00</published><updated>2024-08-15T14:30:00-04:00</updated><id>/2024/08/15/networkroundup</id><content type="html" xml:base="/2024/08/15/networkroundup.html"><![CDATA[<div class="content-area">
   <span class="date">15 August 2024</span>
 
   <h1>The Routing Loop - What did we lauch so far in 2024?</h1>
@@ -40,7 +63,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[15 August 2024]]></summary></entry><entry><title type="html">Consistent security across VPC deployment options</title><link href="/2024/08/08/consistent_security.html" rel="alternate" type="text/html" title="Consistent security across VPC deployment options" /><published>2024-08-08T11:30:00-07:00</published><updated>2024-08-08T11:30:00-07:00</updated><id>/2024/08/08/consistent_security</id><content type="html" xml:base="/2024/08/08/consistent_security.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[15 August 2024]]></summary></entry><entry><title type="html">Consistent security across VPC deployment options</title><link href="/2024/08/08/consistent_security.html" rel="alternate" type="text/html" title="Consistent security across VPC deployment options" /><published>2024-08-08T14:30:00-04:00</published><updated>2024-08-08T14:30:00-04:00</updated><id>/2024/08/08/consistent_security</id><content type="html" xml:base="/2024/08/08/consistent_security.html"><![CDATA[<div class="content-area">
   <span class="date">8 August 2024</span>
 
   <h1>Consistent security across VPC deployment options</h1>
@@ -61,7 +84,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[8 August 2024]]></summary></entry><entry><title type="html">AWS Application Load Balancer - Routing Algorithms and Health Checking</title><link href="/2024/08/01/alb_routing.html" rel="alternate" type="text/html" title="AWS Application Load Balancer - Routing Algorithms and Health Checking" /><published>2024-08-01T11:30:00-07:00</published><updated>2024-08-01T11:30:00-07:00</updated><id>/2024/08/01/alb_routing</id><content type="html" xml:base="/2024/08/01/alb_routing.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[8 August 2024]]></summary></entry><entry><title type="html">AWS Application Load Balancer - Routing Algorithms and Health Checking</title><link href="/2024/08/01/alb_routing.html" rel="alternate" type="text/html" title="AWS Application Load Balancer - Routing Algorithms and Health Checking" /><published>2024-08-01T14:30:00-04:00</published><updated>2024-08-01T14:30:00-04:00</updated><id>/2024/08/01/alb_routing</id><content type="html" xml:base="/2024/08/01/alb_routing.html"><![CDATA[<div class="content-area">
   <span class="date">1 August 2024</span>
 
   <h1>AWS Application Load Balancer - Routing Algorithms and Health Checking</h1>
@@ -82,7 +105,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[1 August 2024]]></summary></entry><entry><title type="html">Code Talk: Moving to Zero Trust architecture on AWS</title><link href="/2024/07/25/code_talk.html" rel="alternate" type="text/html" title="Code Talk: Moving to Zero Trust architecture on AWS" /><published>2024-07-25T11:30:00-07:00</published><updated>2024-07-25T11:30:00-07:00</updated><id>/2024/07/25/code_talk</id><content type="html" xml:base="/2024/07/25/code_talk.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[1 August 2024]]></summary></entry><entry><title type="html">Code Talk: Moving to Zero Trust architecture on AWS</title><link href="/2024/07/25/code_talk.html" rel="alternate" type="text/html" title="Code Talk: Moving to Zero Trust architecture on AWS" /><published>2024-07-25T14:30:00-04:00</published><updated>2024-07-25T14:30:00-04:00</updated><id>/2024/07/25/code_talk</id><content type="html" xml:base="/2024/07/25/code_talk.html"><![CDATA[<div class="content-area">
   <span class="date">25 July 2024</span>
 
   <h1>Code Talk: Moving to Zero Trust architecture on AWS</h1>
@@ -103,7 +126,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[25 July 2024]]></summary></entry><entry><title type="html">All Things Support, and Lessons Learned</title><link href="/2024/07/18/Lessons_learned_support_talk.html" rel="alternate" type="text/html" title="All Things Support, and Lessons Learned" /><published>2024-07-18T11:30:00-07:00</published><updated>2024-07-18T11:30:00-07:00</updated><id>/2024/07/18/Lessons_learned_support_talk</id><content type="html" xml:base="/2024/07/18/Lessons_learned_support_talk.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[25 July 2024]]></summary></entry><entry><title type="html">All Things Support, and Lessons Learned</title><link href="/2024/07/18/Lessons_learned_support_talk.html" rel="alternate" type="text/html" title="All Things Support, and Lessons Learned" /><published>2024-07-18T14:30:00-04:00</published><updated>2024-07-18T14:30:00-04:00</updated><id>/2024/07/18/Lessons_learned_support_talk</id><content type="html" xml:base="/2024/07/18/Lessons_learned_support_talk.html"><![CDATA[<div class="content-area">
   <span class="date">18 July 2024</span>
 
   <h1>All Things Support, and Lessons Learned</h1>
@@ -124,7 +147,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[18 July 2024]]></summary></entry><entry><title type="html">Supercharge Your Network Engineering: Harnessing GenAI Tools for Enhanced Productivity</title><link href="/2024/07/11/GenAI-Networking-2.html" rel="alternate" type="text/html" title="Supercharge Your Network Engineering: Harnessing GenAI Tools for Enhanced Productivity" /><published>2024-07-11T11:30:00-07:00</published><updated>2024-07-11T11:30:00-07:00</updated><id>/2024/07/11/GenAI-Networking-2</id><content type="html" xml:base="/2024/07/11/GenAI-Networking-2.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[18 July 2024]]></summary></entry><entry><title type="html">Supercharge Your Network Engineering: Harnessing GenAI Tools for Enhanced Productivity</title><link href="/2024/07/11/GenAI-Networking-2.html" rel="alternate" type="text/html" title="Supercharge Your Network Engineering: Harnessing GenAI Tools for Enhanced Productivity" /><published>2024-07-11T14:30:00-04:00</published><updated>2024-07-11T14:30:00-04:00</updated><id>/2024/07/11/GenAI-Networking-2</id><content type="html" xml:base="/2024/07/11/GenAI-Networking-2.html"><![CDATA[<div class="content-area">
   <span class="date">11 July 2024</span>
 
   <h1>Supercharge Your Network Engineering: Harnessing GenAI Tools for Enhanced Productivity</h1>
@@ -145,7 +168,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[11 July 2024]]></summary></entry><entry><title type="html">Evolution of enterprise networking in the cloud</title><link href="/2024/06/27/Large-industry-cloud-evolution.html" rel="alternate" type="text/html" title="Evolution of enterprise networking in the cloud" /><published>2024-06-27T11:30:00-07:00</published><updated>2024-06-27T11:30:00-07:00</updated><id>/2024/06/27/Large-industry-cloud-evolution</id><content type="html" xml:base="/2024/06/27/Large-industry-cloud-evolution.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[11 July 2024]]></summary></entry><entry><title type="html">Evolution of enterprise networking in the cloud</title><link href="/2024/06/27/Large-industry-cloud-evolution.html" rel="alternate" type="text/html" title="Evolution of enterprise networking in the cloud" /><published>2024-06-27T14:30:00-04:00</published><updated>2024-06-27T14:30:00-04:00</updated><id>/2024/06/27/Large-industry-cloud-evolution</id><content type="html" xml:base="/2024/06/27/Large-industry-cloud-evolution.html"><![CDATA[<div class="content-area">
   <span class="date">27 June 2024</span>
 
   <h1>Evolution of enterprise networking in the cloud</h1>
@@ -166,7 +189,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[27 June 2024]]></summary></entry><entry><title type="html">Simplify DNS management using Route 53 Profiles</title><link href="/2024/06/20/resolver_profiles.html" rel="alternate" type="text/html" title="Simplify DNS management using Route 53 Profiles" /><published>2024-06-20T11:30:00-07:00</published><updated>2024-06-20T11:30:00-07:00</updated><id>/2024/06/20/resolver_profiles</id><content type="html" xml:base="/2024/06/20/resolver_profiles.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[27 June 2024]]></summary></entry><entry><title type="html">Simplify DNS management using Route 53 Profiles</title><link href="/2024/06/20/resolver_profiles.html" rel="alternate" type="text/html" title="Simplify DNS management using Route 53 Profiles" /><published>2024-06-20T14:30:00-04:00</published><updated>2024-06-20T14:30:00-04:00</updated><id>/2024/06/20/resolver_profiles</id><content type="html" xml:base="/2024/06/20/resolver_profiles.html"><![CDATA[<div class="content-area">
   <span class="date">20 June 2024</span>
 
   <h1>Simplify DNS management using Route 53 Profiles</h1>
@@ -187,25 +210,4 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[20 June 2024]]></summary></entry><entry><title type="html">New Launch: AWS Cloud WAN Service Insertion</title><link href="/2024/06/13/service_insertion.html" rel="alternate" type="text/html" title="New Launch: AWS Cloud WAN Service Insertion" /><published>2024-06-13T11:30:00-07:00</published><updated>2024-06-13T11:30:00-07:00</updated><id>/2024/06/13/service_insertion</id><content type="html" xml:base="/2024/06/13/service_insertion.html"><![CDATA[<div class="content-area">
-  <span class="date">13 June 2024</span>
-
-  <h1>New Launch: AWS Cloud WAN Service Insertion</h1>
-
-  <p><b>Hosts:</b><br />Alex &amp; Matt</p>
-  <p><b>Guests:</b><br /></p>
-  <div class="abstract">
-    <b>Abstract:</b><br />Join us for a live demo of the new Cloud WAN service insertion feature we launched at re:Inforce on 6/11! We’ll review centralized inspection architectures and see the step by step configuration options!
-  </div>
-
-  
-  
-     
-    <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video=2171257466&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
-  
-
-  
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[13 June 2024]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[20 June 2024]]></summary></entry></feed>
