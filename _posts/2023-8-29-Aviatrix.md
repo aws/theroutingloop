@@ -4,8 +4,8 @@ title:  "AWS and Aviatrix - A chat about AWS Cloud Wan and all things cloud conn
 videoid: 
 date:   2024-08-29 10:30:00 -0800
 abstract: "Join us to learn more about the AWS Cloud WAN Connector in partnership with Aviatrix. <br> <br> The AWS Cloud WAN Connector facilitates automatic integration of Aviatrix transit gateways with AWS Cloud WAN, allowing users to extend their AWS-centric operations to a multi-cloud strategy effortlessly. <br> <br> In this session, we’ll demonstrate how this solution automates the provisioning of transit gateways, the creation of network domains, and the establishment of BGP over GRE connections to Cloud WAN hubs, ensuring consistent network segmentation across environments. <br> <br> By leveraging event-driven automation and running on the Aviatrix Extensibility Framework, the connector streamlines network management, reduces manual intervention, and enhances operational efficiency for organizations using AWS as their primary cloud. <br> <br> We’ll also discuss how using the new CloudWAN Service Insertion integration, customers can now achieve centralized east-west and internet-egress inspection, secure multi-cloud connectivity, encrypt on-premises connectivity end-to-end, secure connectivity to AWS partitions such as AWS China and AWS GovCloud, and provide B2B connectivity with partners."
-hosts: "Jamie, Matt, and Shridhar"
-guests: "Christopher McHenry, VP of Product at Aviatrix"
+hosts: "Jamie and Matt"
+guests: "Shridhar Kulkarni, Principal Product Manager EC2N <br> Christopher McHenry, VP of Product at Aviatrix"
 ---
 <div class="content-area">
   <span class="date">{{ page.date | date: "%-d %B %Y" }}</span>
