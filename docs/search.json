@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Whats New with ELB - Config Idle Timeout feature for NLB and GWLB",
+      "hosts"    : "Jamie",
+      "url"      : "/2024/09/05/Whats-new-with-ELB.html",
+      "date"     : "05 Sep 2024",
+      "abstract" : "Join Milind and Felipe to learn more about the new feature just launched on 9/4/2024 Configurable Idle Timeout on Network Load Balancer and Gateway Load Balancer. We will discuss why this is important, where this is useful and how to configure it in the console and API. We will also discuss some caveats with the service."
+    } ,
+  
+    {
       "title"    : "AWS and Aviatrix - A chat about AWS Cloud Wan and all things cloud connectivity",
       "hosts"    : "Jamie and Matt",
       "url"      : "/2024/08/29/Aviatrix.html",

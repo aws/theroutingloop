@@ -1,25 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-26T20:35:53-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">AWS and Aviatrix - A chat about AWS Cloud Wan and all things cloud connectivity</title><link href="http://localhost:4000/2024/08/29/Aviatrix.html" rel="alternate" type="text/html" title="AWS and Aviatrix - A chat about AWS Cloud Wan and all things cloud connectivity" /><published>2024-08-29T14:30:00-04:00</published><updated>2024-08-29T14:30:00-04:00</updated><id>http://localhost:4000/2024/08/29/Aviatrix</id><content type="html" xml:base="http://localhost:4000/2024/08/29/Aviatrix.html"><![CDATA[<div class="content-area">
-  <span class="date">29 August 2024</span>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-05T16:37:29-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Whats New with ELB - Config Idle Timeout feature for NLB and GWLB</title><link href="http://localhost:4000/2024/09/05/Whats-new-with-ELB.html" rel="alternate" type="text/html" title="Whats New with ELB - Config Idle Timeout feature for NLB and GWLB" /><published>2024-09-05T14:30:00-04:00</published><updated>2024-09-05T14:30:00-04:00</updated><id>http://localhost:4000/2024/09/05/Whats-new-with-ELB</id><content type="html" xml:base="http://localhost:4000/2024/09/05/Whats-new-with-ELB.html"><![CDATA[<div class="content-area">
+  <span class="date">5 September 2024</span>
 
-  <h1>AWS and Aviatrix - A chat about AWS Cloud Wan and all things cloud connectivity</h1>
+  <h1>Whats New with ELB - Config Idle Timeout feature for NLB and GWLB</h1>
 
-  <p><b>Hosts:</b><br />Jamie, Matt, and Shridhar</p>
-  <p><b>Guests:</b><br />Christopher McHenry, VP of Product at Aviatrix</p>
+  <p><b>Hosts:</b><br />Jamie</p>
+  <p><b>Guests:</b><br />Milind Kulkarni, Principal Product Manager EC2N <br /> Felipe de Silva, Principal Solutions Architect</p>
   <div class="abstract">
-    <b>Abstract:</b><br />Join us to learn more about the AWS Cloud WAN Connector in partnership with Aviatrix.The AWS Cloud WAN Connector facilitates automatic integration of Aviatrix transit gateways with AWS Cloud WAN, allowing users to extend their AWS-centric operations to a multi-cloud strategy effortlessly.In this session, we’ll demonstrate how this solution automates the provisioning of transit gateways, the creation of network domains, and the establishment of BGP over GRE connections to Cloud WAN hubs, ensuring consistent network segmentation across environments.By leveraging event-driven automation and running on the Aviatrix Extensibility Framework, the connector streamlines network management, reduces manual intervention, and enhances operational efficiency for organizations using AWS as their primary cloud.We’ll also discuss how using the new CloudWAN Service Insertion integration, customers can now achieve centralized east-west and internet-egress inspection, secure multi-cloud connectivity, encrypt on-premises connectivity end-to-end, secure connectivity to AWS partitions such as AWS China and AWS GovCloud, and provide B2B connectivity with partners.
+    <b>Abstract:</b><br />Join Milind and Felipe to learn more about the new feature just launched on 9/4/2024 Configurable Idle Timeout on Network Load Balancer and Gateway Load Balancer. We will discuss why this is important, where this is useful and how to configure it in the console and API. We will also discuss some caveats with the service.
   </div>
 
   
   
-  
-    <p>Session hasn't started. Join live on <b>29 August 2024 at 10:30AM PST / 1:30PM EST / 6:30PM GMT</b></p>
+     
     <div class="video-container">
-      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+      <iframe src="https://player.twitch.tv/?video=2243485840&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
     </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
   
 
   
-    <b>Video on demand will become available soon after the livestream</b>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[5 September 2024]]></summary></entry><entry><title type="html">AWS and Aviatrix - A chat about AWS Cloud Wan and all things cloud connectivity</title><link href="http://localhost:4000/2024/08/29/Aviatrix.html" rel="alternate" type="text/html" title="AWS and Aviatrix - A chat about AWS Cloud Wan and all things cloud connectivity" /><published>2024-08-29T14:30:00-04:00</published><updated>2024-08-29T14:30:00-04:00</updated><id>http://localhost:4000/2024/08/29/Aviatrix</id><content type="html" xml:base="http://localhost:4000/2024/08/29/Aviatrix.html"><![CDATA[<div class="content-area">
+  <span class="date">29 August 2024</span>
+
+  <h1>AWS and Aviatrix - A chat about AWS Cloud Wan and all things cloud connectivity</h1>
+
+  <p><b>Hosts:</b><br />Jamie and Matt</p>
+  <p><b>Guests:</b><br />Shridhar Kulkarni, Principal Product Manager EC2N <br /> Christopher McHenry, VP of Product at Aviatrix</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />Join us to learn more about the AWS Cloud WAN Connector in partnership with Aviatrix. <br /> <br /> The AWS Cloud WAN Connector facilitates automatic integration of Aviatrix transit gateways with AWS Cloud WAN, allowing users to extend their AWS-centric operations to a multi-cloud strategy effortlessly. <br /> <br /> In this session, we’ll demonstrate how this solution automates the provisioning of transit gateways, the creation of network domains, and the establishment of BGP over GRE connections to Cloud WAN hubs, ensuring consistent network segmentation across environments. <br /> <br /> By leveraging event-driven automation and running on the Aviatrix Extensibility Framework, the connector streamlines network management, reduces manual intervention, and enhances operational efficiency for organizations using AWS as their primary cloud. <br /> <br /> We’ll also discuss how using the new CloudWAN Service Insertion integration, customers can now achieve centralized east-west and internet-egress inspection, secure multi-cloud connectivity, encrypt on-premises connectivity end-to-end, secure connectivity to AWS partitions such as AWS China and AWS GovCloud, and provide B2B connectivity with partners.
+  </div>
+
+  
+  
+     
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?video=2237271103&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+  
+
   
 </div>]]></content><author><name></name></author><summary type="html"><![CDATA[29 August 2024]]></summary></entry><entry><title type="html">Application networking with AWS PrivateLink</title><link href="http://localhost:4000/2024/08/22/privatelink.html" rel="alternate" type="text/html" title="Application networking with AWS PrivateLink" /><published>2024-08-22T14:30:00-04:00</published><updated>2024-08-22T14:30:00-04:00</updated><id>http://localhost:4000/2024/08/22/privatelink</id><content type="html" xml:base="http://localhost:4000/2024/08/22/privatelink.html"><![CDATA[<div class="content-area">
   <span class="date">22 August 2024</span>
@@ -189,25 +208,4 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[27 June 2024]]></summary></entry><entry><title type="html">Simplify DNS management using Route 53 Profiles</title><link href="http://localhost:4000/2024/06/20/resolver_profiles.html" rel="alternate" type="text/html" title="Simplify DNS management using Route 53 Profiles" /><published>2024-06-20T14:30:00-04:00</published><updated>2024-06-20T14:30:00-04:00</updated><id>http://localhost:4000/2024/06/20/resolver_profiles</id><content type="html" xml:base="http://localhost:4000/2024/06/20/resolver_profiles.html"><![CDATA[<div class="content-area">
-  <span class="date">20 June 2024</span>
-
-  <h1>Simplify DNS management using Route 53 Profiles</h1>
-
-  <p><b>Hosts:</b><br />Riggs</p>
-  <p><b>Guests:</b><br /> Adhish Bhobe, Sr. Product Manager <br /> Anusha Burla, Sr. Software Dev Engineer</p>
-  <div class="abstract">
-    <b>Abstract:</b><br />Sharing and managing Route 53 resources and settings across your organization can quickly get complex and costly, as you scale to multiple VPCs and accounts. In this session of the Routing Loop, we will introduce Route 53 Profiles, a new capability that allows you to create a standard DNS configuration that may include one or more Route 53 private hosted zones, Route 53 Resolver DNS Firewall rule groups, and/or Resolver rules, and share the configuration across your VPCs and AWS accounts. Route 53 Profiles simplifies the management and association of Route 53 resources and settings across your organization, by enforcing a consistent configuration.
-  </div>
-
-  
-  
-     
-    <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video=2177093237&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
-  
-
-  
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[20 June 2024]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[27 June 2024]]></summary></entry></feed>
