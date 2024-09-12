@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Amazon VPC Lattice - Best Practices, Migrations, and How it all Works",
+      "hosts"    : "Jamie and Matt",
+      "url"      : "/2024/09/12/VPC-Lattice-Best-Practices.html",
+      "date"     : "12 Sep 2024",
+      "abstract" : "Join Jamie and Matt as we talk to Justin Davies the Principal Product Manager of Amazon VPC Lattice. We will talk about best practices, where Lattice fits in this new crazy world of networking, and how to migrate to Lattice. We will also talk about how things work under the hood to give a better picture on what is going on with your packets! Bring your questions!"
+    } ,
+  
+    {
       "title"    : "Whats New with ELB - Config Idle Timeout feature for NLB and GWLB",
       "hosts"    : "Jamie",
       "url"      : "/2024/09/05/Whats-new-with-ELB.html",
