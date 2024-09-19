@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "The Routing Loop - Ask Me Anything",
+      "hosts"    : "Jamie and Riggs",
+      "url"      : "/2024/09/19/Ask-me-anything.html",
+      "date"     : "19 Sep 2024",
+      "abstract" : "Join Jamie and Riggs where you ask us questions. We will answer things for any network service including Cloud Wan, TGW peering, PrivateLink, CloudFront vs Global Acclerator and of course Riggs will also talk a little on AI. Bring your questions!"
+    } ,
+  
+    {
       "title"    : "Amazon VPC Lattice - Best Practices, Migrations, and How it all Works",
       "hosts"    : "Jamie and Matt",
       "url"      : "/2024/09/12/VPC-Lattice-Best-Practices.html",
