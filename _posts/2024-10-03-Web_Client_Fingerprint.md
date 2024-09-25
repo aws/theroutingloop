@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Web Client fingerprinting at the edge"
+title:  "Web Client JA3 fingerprinting at the edge"
 videoid: 2225110802
 date:   2024-10-03 10:30:00 -0800
 abstract: "Sharing tips on how to improve visibility into client behavior, and bolster protection against sophisticated web attacks. Hands on session with precisely identifying suspicious encrypted traffic and enforcing granular access control policies for API based workloads."
