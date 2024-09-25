@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Web Client fingerprinting at the edge",
+      "hosts"    : "Tom Adamski",
+      "url"      : "/2024/10/03/Web_Client_Fingerprint.html",
+      "date"     : "03 Oct 2024",
+      "abstract" : "Sharing tips on how to improve visibility into client behavior, and bolster protection against sophisticated web attacks. Hands on session with precisely identifying suspicious encrypted traffic and enforcing granular access control policies for API based workloads."
+    } ,
+  
+    {
       "title"    : "The Routing Loop - Ask Me Anything",
       "hosts"    : "Jamie and Riggs",
       "url"      : "/2024/09/19/Ask-me-anything.html",
