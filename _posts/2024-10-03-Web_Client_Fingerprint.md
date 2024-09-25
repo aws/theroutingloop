@@ -1,9 +1,9 @@
 ---
 layout: default
 title:  "Web Client JA3 fingerprinting at the edge"
-videoid: 2225110802
+videoid: 
 date:   2024-10-03 10:30:00 -0800
-abstract: "Sharing tips on how to improve visibility into client behavior, and bolster protection against sophisticated web attacks. Hands on session with precisely identifying suspicious encrypted traffic and enforcing granular access control policies for API based workloads."
+abstract: "Gain deep visibility into client behavior and bolster protection against advanced web threats using the power of AWS WAF and AWS CloudFront. In this hands-on session, you'll learn how to precisely identify suspicious encrypted traffic and enforce granular access control policies for your API-driven workloads."
 hosts: "Tom Adamski"
 guests: "Oleksandr Golovatyi, Sr. Technical Account Manager <br> Maksim Akifev, Sr. Product Manager <br> Alex Moening, Sr. Specialist Solutions Architect " 
 

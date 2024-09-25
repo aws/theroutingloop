@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-09-25T09:30:16-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Web Client JA3 fingerprinting at the edge</title><link href="/2024/10/03/Web_Client_Fingerprint.html" rel="alternate" type="text/html" title="Web Client JA3 fingerprinting at the edge" /><published>2024-10-03T11:30:00-07:00</published><updated>2024-10-03T11:30:00-07:00</updated><id>/2024/10/03/Web_Client_Fingerprint</id><content type="html" xml:base="/2024/10/03/Web_Client_Fingerprint.html"><![CDATA[<div class="content-area">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-09-25T10:09:35-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Web Client JA3 fingerprinting at the edge</title><link href="/2024/10/03/Web_Client_Fingerprint.html" rel="alternate" type="text/html" title="Web Client JA3 fingerprinting at the edge" /><published>2024-10-03T11:30:00-07:00</published><updated>2024-10-03T11:30:00-07:00</updated><id>/2024/10/03/Web_Client_Fingerprint</id><content type="html" xml:base="/2024/10/03/Web_Client_Fingerprint.html"><![CDATA[<div class="content-area">
   <span class="date">3 October 2024</span>
 
   <h1>Web Client JA3 fingerprinting at the edge</h1>
@@ -6,7 +6,7 @@
   <p><b>Hosts:</b><br />Tom Adamski</p>
   <p><b>Guests:</b><br />Oleksandr Golovatyi, Sr. Technical Account Manager <br /> Maksim Akifev, Sr. Product Manager <br /> Alex Moening, Sr. Specialist Solutions Architect </p>
   <div class="abstract">
-    <b>Abstract:</b><br />Sharing tips on how to improve visibility into client behavior, and bolster protection against sophisticated web attacks. Hands on session with precisely identifying suspicious encrypted traffic and enforcing granular access control policies for API based workloads.
+    <b>Abstract:</b><br />Gain deep visibility into client behavior and bolster protection against advanced web threats using the power of AWS WAF and AWS CloudFront. In this hands-on session, you'll learn how to precisely identify suspicious encrypted traffic and enforce granular access control policies for your API-driven workloads.
   </div>
 
   
@@ -18,6 +18,8 @@
     </div>
   
 
+  
+    <b>Video on demand will become available soon after the livestream</b>
   
 </div>]]></content><author><name></name></author><summary type="html"><![CDATA[3 October 2024]]></summary></entry><entry><title type="html">The Routing Loop - Ask Me Anything</title><link href="/2024/09/19/Ask-me-anything.html" rel="alternate" type="text/html" title="The Routing Loop - Ask Me Anything" /><published>2024-09-19T11:30:00-07:00</published><updated>2024-09-19T11:30:00-07:00</updated><id>/2024/09/19/Ask-me-anything</id><content type="html" xml:base="/2024/09/19/Ask-me-anything.html"><![CDATA[<div class="content-area">
   <span class="date">19 September 2024</span>
