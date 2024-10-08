@@ -1,25 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-09-25T09:16:35-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Web Client fingerprinting at the edge</title><link href="http://localhost:4000/2024/10/03/Web_Client_Fingerprint.html" rel="alternate" type="text/html" title="Web Client fingerprinting at the edge" /><published>2024-10-03T11:30:00-07:00</published><updated>2024-10-03T11:30:00-07:00</updated><id>http://localhost:4000/2024/10/03/Web_Client_Fingerprint</id><content type="html" xml:base="http://localhost:4000/2024/10/03/Web_Client_Fingerprint.html"><![CDATA[<div class="content-area">
-  <span class="date">3 October 2024</span>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-10-08T11:25:19-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Automating Networking Monitoring and Alerting on AWS, and the AWS Solutions Library</title><link href="http://localhost:4000/2024/10/10/Automating-network-monitoring.html" rel="alternate" type="text/html" title="Automating Networking Monitoring and Alerting on AWS, and the AWS Solutions Library" /><published>2024-10-10T14:30:00-04:00</published><updated>2024-10-10T14:30:00-04:00</updated><id>http://localhost:4000/2024/10/10/Automating-network-monitoring</id><content type="html" xml:base="http://localhost:4000/2024/10/10/Automating-network-monitoring.html"><![CDATA[<div class="content-area">
+  <span class="date">10 October 2024</span>
 
-  <h1>Web Client fingerprinting at the edge</h1>
+  <h1>Automating Networking Monitoring and Alerting on AWS, and the AWS Solutions Library</h1>
 
-  <p><b>Hosts:</b><br />Tom Adamski</p>
-  <p><b>Guests:</b><br />Oleksandr Golovatyi, Sr. Technical Account Manager <br /> Maksim Akifev, Sr. Product Manager <br /> Alex Moening, Sr. Specialist Solutions Architect </p>
+  <p><b>Hosts:</b><br />Jamie and Matt</p>
+  <p><b>Guests:</b><br />Luis Guirigay - Head, Solutions, AWS Solutions Library, AWS <br /> Daniel Zilberman - Sr SA, AWS Solutions Library, AWS <br /> Zoran Pucar - Principal TAM, AWS</p>
   <div class="abstract">
-    <b>Abstract:</b><br />Sharing tips on how to improve visibility into client behavior, and bolster protection against sophisticated web attacks. Hands on session with precisely identifying suspicious encrypted traffic and enforcing granular access control policies for API based workloads.
+    <b>Abstract:</b><br />In this session, we'll dive into guidance for Automating Network Monitoring and Alerting on AWS, a must have for any network focused cloud engineer. We'll also take some time to dive into the AWS Solutions Library, and other solutions that are on offer. Bring your questions!
   </div>
 
   
   
   
-    <p>Session hasn't started. Join live on <b>3 October 2024 at 10:30AM PST / 1:30PM EST / 6:30PM GMT</b></p>
+    <p>Session hasn't started. Join live on <b>10 October 2024 at 10:30AM PST / 1:30PM EST / 6:30PM GMT</b></p>
     <div class="video-container">
       <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
     </div>
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[3 October 2024]]></summary></entry><entry><title type="html">The Routing Loop - Ask Me Anything</title><link href="http://localhost:4000/2024/09/19/Ask-me-anything.html" rel="alternate" type="text/html" title="The Routing Loop - Ask Me Anything" /><published>2024-09-19T11:30:00-07:00</published><updated>2024-09-19T11:30:00-07:00</updated><id>http://localhost:4000/2024/09/19/Ask-me-anything</id><content type="html" xml:base="http://localhost:4000/2024/09/19/Ask-me-anything.html"><![CDATA[<div class="content-area">
+    <b>Video on demand will become available soon after the livestream</b>
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[10 October 2024]]></summary></entry><entry><title type="html">Web Client JA3 fingerprinting at the edge</title><link href="http://localhost:4000/2024/10/03/Web_Client_Fingerprint.html" rel="alternate" type="text/html" title="Web Client JA3 fingerprinting at the edge" /><published>2024-10-03T14:30:00-04:00</published><updated>2024-10-03T14:30:00-04:00</updated><id>http://localhost:4000/2024/10/03/Web_Client_Fingerprint</id><content type="html" xml:base="http://localhost:4000/2024/10/03/Web_Client_Fingerprint.html"><![CDATA[<div class="content-area">
+  <span class="date">3 October 2024</span>
+
+  <h1>Web Client JA3 fingerprinting at the edge</h1>
+
+  <p><b>Hosts:</b><br />Tom Adamski</p>
+  <p><b>Guests:</b><br />Oleksandr Golovatyi, Sr. Technical Account Manager <br /> Maksim Akifev, Sr. Product Manager <br /> Alex Moening, Sr. Specialist Solutions Architect </p>
+  <div class="abstract">
+    <b>Abstract:</b><br />Gain deep visibility into client behavior and bolster protection against advanced web threats using the power of AWS WAF and AWS CloudFront. In this hands-on session, you'll learn how to precisely identify suspicious encrypted traffic and enforce granular access control policies for your API-driven workloads.
+  </div>
+
+  
+  
+     
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?video=2266804067&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+  
+
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[3 October 2024]]></summary></entry><entry><title type="html">The Routing Loop - Ask Me Anything</title><link href="http://localhost:4000/2024/09/19/Ask-me-anything.html" rel="alternate" type="text/html" title="The Routing Loop - Ask Me Anything" /><published>2024-09-19T14:30:00-04:00</published><updated>2024-09-19T14:30:00-04:00</updated><id>http://localhost:4000/2024/09/19/Ask-me-anything</id><content type="html" xml:base="http://localhost:4000/2024/09/19/Ask-me-anything.html"><![CDATA[<div class="content-area">
   <span class="date">19 September 2024</span>
 
   <h1>The Routing Loop - Ask Me Anything</h1>
@@ -40,7 +63,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[19 September 2024]]></summary></entry><entry><title type="html">Amazon VPC Lattice - Best Practices, Migrations, and How it all Works</title><link href="http://localhost:4000/2024/09/12/VPC-Lattice-Best-Practices.html" rel="alternate" type="text/html" title="Amazon VPC Lattice - Best Practices, Migrations, and How it all Works" /><published>2024-09-12T11:30:00-07:00</published><updated>2024-09-12T11:30:00-07:00</updated><id>http://localhost:4000/2024/09/12/VPC-Lattice-Best-Practices</id><content type="html" xml:base="http://localhost:4000/2024/09/12/VPC-Lattice-Best-Practices.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[19 September 2024]]></summary></entry><entry><title type="html">Amazon VPC Lattice - Best Practices, Migrations, and How it all Works</title><link href="http://localhost:4000/2024/09/12/VPC-Lattice-Best-Practices.html" rel="alternate" type="text/html" title="Amazon VPC Lattice - Best Practices, Migrations, and How it all Works" /><published>2024-09-12T14:30:00-04:00</published><updated>2024-09-12T14:30:00-04:00</updated><id>http://localhost:4000/2024/09/12/VPC-Lattice-Best-Practices</id><content type="html" xml:base="http://localhost:4000/2024/09/12/VPC-Lattice-Best-Practices.html"><![CDATA[<div class="content-area">
   <span class="date">12 September 2024</span>
 
   <h1>Amazon VPC Lattice - Best Practices, Migrations, and How it all Works</h1>
@@ -61,7 +84,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[12 September 2024]]></summary></entry><entry><title type="html">Whats New with ELB - Config Idle Timeout feature for NLB and GWLB</title><link href="http://localhost:4000/2024/09/05/Whats-new-with-ELB.html" rel="alternate" type="text/html" title="Whats New with ELB - Config Idle Timeout feature for NLB and GWLB" /><published>2024-09-05T11:30:00-07:00</published><updated>2024-09-05T11:30:00-07:00</updated><id>http://localhost:4000/2024/09/05/Whats-new-with-ELB</id><content type="html" xml:base="http://localhost:4000/2024/09/05/Whats-new-with-ELB.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[12 September 2024]]></summary></entry><entry><title type="html">Whats New with ELB - Config Idle Timeout feature for NLB and GWLB</title><link href="http://localhost:4000/2024/09/05/Whats-new-with-ELB.html" rel="alternate" type="text/html" title="Whats New with ELB - Config Idle Timeout feature for NLB and GWLB" /><published>2024-09-05T14:30:00-04:00</published><updated>2024-09-05T14:30:00-04:00</updated><id>http://localhost:4000/2024/09/05/Whats-new-with-ELB</id><content type="html" xml:base="http://localhost:4000/2024/09/05/Whats-new-with-ELB.html"><![CDATA[<div class="content-area">
   <span class="date">5 September 2024</span>
 
   <h1>Whats New with ELB - Config Idle Timeout feature for NLB and GWLB</h1>
@@ -82,7 +105,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[5 September 2024]]></summary></entry><entry><title type="html">AWS and Aviatrix - A chat about AWS Cloud Wan and all things cloud connectivity</title><link href="http://localhost:4000/2024/08/29/Aviatrix.html" rel="alternate" type="text/html" title="AWS and Aviatrix - A chat about AWS Cloud Wan and all things cloud connectivity" /><published>2024-08-29T11:30:00-07:00</published><updated>2024-08-29T11:30:00-07:00</updated><id>http://localhost:4000/2024/08/29/Aviatrix</id><content type="html" xml:base="http://localhost:4000/2024/08/29/Aviatrix.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[5 September 2024]]></summary></entry><entry><title type="html">AWS and Aviatrix - A chat about AWS Cloud Wan and all things cloud connectivity</title><link href="http://localhost:4000/2024/08/29/Aviatrix.html" rel="alternate" type="text/html" title="AWS and Aviatrix - A chat about AWS Cloud Wan and all things cloud connectivity" /><published>2024-08-29T14:30:00-04:00</published><updated>2024-08-29T14:30:00-04:00</updated><id>http://localhost:4000/2024/08/29/Aviatrix</id><content type="html" xml:base="http://localhost:4000/2024/08/29/Aviatrix.html"><![CDATA[<div class="content-area">
   <span class="date">29 August 2024</span>
 
   <h1>AWS and Aviatrix - A chat about AWS Cloud Wan and all things cloud connectivity</h1>
@@ -103,7 +126,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[29 August 2024]]></summary></entry><entry><title type="html">Application networking with AWS PrivateLink</title><link href="http://localhost:4000/2024/08/22/privatelink.html" rel="alternate" type="text/html" title="Application networking with AWS PrivateLink" /><published>2024-08-22T11:30:00-07:00</published><updated>2024-08-22T11:30:00-07:00</updated><id>http://localhost:4000/2024/08/22/privatelink</id><content type="html" xml:base="http://localhost:4000/2024/08/22/privatelink.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[29 August 2024]]></summary></entry><entry><title type="html">Application networking with AWS PrivateLink</title><link href="http://localhost:4000/2024/08/22/privatelink.html" rel="alternate" type="text/html" title="Application networking with AWS PrivateLink" /><published>2024-08-22T14:30:00-04:00</published><updated>2024-08-22T14:30:00-04:00</updated><id>http://localhost:4000/2024/08/22/privatelink</id><content type="html" xml:base="http://localhost:4000/2024/08/22/privatelink.html"><![CDATA[<div class="content-area">
   <span class="date">22 August 2024</span>
 
   <h1>Application networking with AWS PrivateLink</h1>
@@ -124,7 +147,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[22 August 2024]]></summary></entry><entry><title type="html">The Routing Loop - What did we lauch so far in 2024?</title><link href="http://localhost:4000/2024/08/15/networkroundup.html" rel="alternate" type="text/html" title="The Routing Loop - What did we lauch so far in 2024?" /><published>2024-08-15T11:30:00-07:00</published><updated>2024-08-15T11:30:00-07:00</updated><id>http://localhost:4000/2024/08/15/networkroundup</id><content type="html" xml:base="http://localhost:4000/2024/08/15/networkroundup.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[22 August 2024]]></summary></entry><entry><title type="html">The Routing Loop - What did we lauch so far in 2024?</title><link href="http://localhost:4000/2024/08/15/networkroundup.html" rel="alternate" type="text/html" title="The Routing Loop - What did we lauch so far in 2024?" /><published>2024-08-15T14:30:00-04:00</published><updated>2024-08-15T14:30:00-04:00</updated><id>http://localhost:4000/2024/08/15/networkroundup</id><content type="html" xml:base="http://localhost:4000/2024/08/15/networkroundup.html"><![CDATA[<div class="content-area">
   <span class="date">15 August 2024</span>
 
   <h1>The Routing Loop - What did we lauch so far in 2024?</h1>
@@ -145,7 +168,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[15 August 2024]]></summary></entry><entry><title type="html">Consistent security across VPC deployment options</title><link href="http://localhost:4000/2024/08/08/consistent_security.html" rel="alternate" type="text/html" title="Consistent security across VPC deployment options" /><published>2024-08-08T11:30:00-07:00</published><updated>2024-08-08T11:30:00-07:00</updated><id>http://localhost:4000/2024/08/08/consistent_security</id><content type="html" xml:base="http://localhost:4000/2024/08/08/consistent_security.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[15 August 2024]]></summary></entry><entry><title type="html">Consistent security across VPC deployment options</title><link href="http://localhost:4000/2024/08/08/consistent_security.html" rel="alternate" type="text/html" title="Consistent security across VPC deployment options" /><published>2024-08-08T14:30:00-04:00</published><updated>2024-08-08T14:30:00-04:00</updated><id>http://localhost:4000/2024/08/08/consistent_security</id><content type="html" xml:base="http://localhost:4000/2024/08/08/consistent_security.html"><![CDATA[<div class="content-area">
   <span class="date">8 August 2024</span>
 
   <h1>Consistent security across VPC deployment options</h1>
@@ -166,7 +189,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[8 August 2024]]></summary></entry><entry><title type="html">AWS Application Load Balancer - Routing Algorithms and Health Checking</title><link href="http://localhost:4000/2024/08/01/alb_routing.html" rel="alternate" type="text/html" title="AWS Application Load Balancer - Routing Algorithms and Health Checking" /><published>2024-08-01T11:30:00-07:00</published><updated>2024-08-01T11:30:00-07:00</updated><id>http://localhost:4000/2024/08/01/alb_routing</id><content type="html" xml:base="http://localhost:4000/2024/08/01/alb_routing.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[8 August 2024]]></summary></entry><entry><title type="html">AWS Application Load Balancer - Routing Algorithms and Health Checking</title><link href="http://localhost:4000/2024/08/01/alb_routing.html" rel="alternate" type="text/html" title="AWS Application Load Balancer - Routing Algorithms and Health Checking" /><published>2024-08-01T14:30:00-04:00</published><updated>2024-08-01T14:30:00-04:00</updated><id>http://localhost:4000/2024/08/01/alb_routing</id><content type="html" xml:base="http://localhost:4000/2024/08/01/alb_routing.html"><![CDATA[<div class="content-area">
   <span class="date">1 August 2024</span>
 
   <h1>AWS Application Load Balancer - Routing Algorithms and Health Checking</h1>
@@ -187,25 +210,4 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[1 August 2024]]></summary></entry><entry><title type="html">Code Talk: Moving to Zero Trust architecture on AWS</title><link href="http://localhost:4000/2024/07/25/code_talk.html" rel="alternate" type="text/html" title="Code Talk: Moving to Zero Trust architecture on AWS" /><published>2024-07-25T11:30:00-07:00</published><updated>2024-07-25T11:30:00-07:00</updated><id>http://localhost:4000/2024/07/25/code_talk</id><content type="html" xml:base="http://localhost:4000/2024/07/25/code_talk.html"><![CDATA[<div class="content-area">
-  <span class="date">25 July 2024</span>
-
-  <h1>Code Talk: Moving to Zero Trust architecture on AWS</h1>
-
-  <p><b>Hosts:</b><br />Tom Adamski</p>
-  <p><b>Guests:</b><br /> Adam Palmer, Principal Solutions Architect, Networking <br /> Pablo Sánchez Carmona, Sr. Solutions Architect, Networking <br /> Satish Katpally, Principal Specialist, Networking</p>
-  <div class="abstract">
-    <b>Abstract:</b><br />This is a Code Talk, so time to learn while we code! Today, learn how you can use AWS Verified Access and Amazon VPC Lattice to implement a Zero Trust security model on AWS. Learn best practices to create least-privilege access and microsegmentation across workloads. Additionally, find out how infrastructure as code can enable automated deployment and management of robust Zero Trust environments. Sounds good? Join us!
-  </div>
-
-  
-  
-     
-    <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video=2207182410&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
-  
-
-  
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[25 July 2024]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[1 August 2024]]></summary></entry></feed>

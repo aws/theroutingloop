@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "Automating Networking Monitoring and Alerting on AWS, and the AWS Solutions Library",
+      "hosts"    : "Jamie and Matt",
+      "url"      : "/2024/10/10/Automating-network-monitoring.html",
+      "date"     : "10 Oct 2024",
+      "abstract" : "In this session, we&#39;ll dive into guidance for Automating Network Monitoring and Alerting on AWS, a must have for any network focused cloud engineer. We&#39;ll also take some time to dive into the AWS Solutions Library, and other solutions that are on offer. Bring your questions!"
+    } ,
+  
+    {
+      "title"    : "Web Client JA3 fingerprinting at the edge",
+      "hosts"    : "Tom Adamski",
+      "url"      : "/2024/10/03/Web_Client_Fingerprint.html",
+      "date"     : "03 Oct 2024",
+      "abstract" : "Gain deep visibility into client behavior and bolster protection against advanced web threats using the power of AWS WAF and AWS CloudFront. In this hands-on session, you&#39;ll learn how to precisely identify suspicious encrypted traffic and enforce granular access control policies for your API-driven workloads."
+    } ,
+  
+    {
       "title"    : "The Routing Loop - Ask Me Anything",
       "hosts"    : "Jamie and Riggs",
       "url"      : "/2024/09/19/Ask-me-anything.html",
