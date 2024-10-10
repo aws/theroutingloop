@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Automating Networking Monitoring and Alerting on AWS, and the AWS Solutions Library"
-videoid: 
+videoid: 2272612595
 date:   2024-10-10 10:30:00 -0800
 abstract: "In this session, we'll dive into guidance for Automating Network Monitoring and Alerting on AWS, a must have for any network focused cloud engineer. We'll also take some time to dive into the AWS Solutions Library, and other solutions that are on offer. Bring your questions!"
 hosts: "Jamie and Matt"
