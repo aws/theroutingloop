@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "New Launch: Introducing Amazon VPC security groups associations and sharing",
+      "hosts"    : "Alexandra Huides, Tom Adamski",
+      "url"      : "/2024/10/31/sg_new_launch.html",
+      "date"     : "31 Oct 2024",
+      "abstract" : "Join us to learn about recently launched features that simplify Security Group management. We&#39;ll cover Security Group Association, which allows you to use the same Security Group across VPCs within the same account, and Security Group Sharing, which enables cross-account sharing in a VPC sharing model"
+    } ,
+  
+    {
       "title"    : "How to migrate to Amazon VPC Lattice and use DNS to simplify service discovery",
       "hosts"    : "Alexandra Huides",
       "url"      : "/2024/10/17/lattice_dns.html",
