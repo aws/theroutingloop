@@ -1,6 +1,30 @@
 [
   
     {
+      "title"    : "Tailscale Concepts and applying them to your AWS Workloads",
+      "hosts"    : "Tom Adamski",
+      "url"      : "/2024/11/07/partner_tailscale.html",
+      "date"     : "07 Nov 2024",
+      "abstract" : "Join us for an educational dive into Tailscale&#39;s core networking concepts and discover how to effectively implement them across your AWS infrastructure. This live stream bridges the gap between Tailscale&#39;s zero-trust networking principles and practical AWS deployments, helping you build more secure and manageable cloud environments."
+    } ,
+  
+    {
+      "title"    : "New Launch: Introducing Amazon VPC security groups associations and sharing",
+      "hosts"    : "Alexandra Huides, Tom Adamski",
+      "url"      : "/2024/10/31/sg_new_launch.html",
+      "date"     : "31 Oct 2024",
+      "abstract" : "Join us to learn about recently launched features that simplify Security Group management. We&#39;ll cover Security Group Association, which allows you to use the same Security Group across VPCs within the same account, and Security Group Sharing, which enables cross-account sharing in a VPC sharing model"
+    } ,
+  
+    {
+      "title"    : "How to migrate to Amazon VPC Lattice and use DNS to simplify service discovery",
+      "hosts"    : "Alexandra Huides",
+      "url"      : "/2024/10/17/lattice_dns.html",
+      "date"     : "17 Oct 2024",
+      "abstract" : "This session is an in-depth exploration of migrating to Amazon VPC Lattice. We will whiteboard DNS migration options, do a live demo of a new automated DNS configuration solution for VPC Lattice, and answer questions. The goal is to help you understand how you can leverage VPC Lattice to simplify service discovery and ease the migration process for clients and applications."
+    } ,
+  
+    {
       "title"    : "Automating Networking Monitoring and Alerting on AWS, and the AWS Solutions Library",
       "hosts"    : "Jamie and Matt",
       "url"      : "/2024/10/10/Automating-network-monitoring.html",

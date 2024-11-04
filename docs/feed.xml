@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-10-31T12:12:10-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">New Launch: Introducing Amazon VPC security groups associations and sharing</title><link href="/2024/10/31/sg_new_launch.html" rel="alternate" type="text/html" title="New Launch: Introducing Amazon VPC security groups associations and sharing" /><published>2024-10-31T11:30:00-07:00</published><updated>2024-10-31T11:30:00-07:00</updated><id>/2024/10/31/sg_new_launch</id><content type="html" xml:base="/2024/10/31/sg_new_launch.html"><![CDATA[<div class="content-area">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-11-04T08:54:36-08:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Tailscale Concepts and applying them to your AWS Workloads</title><link href="/2024/11/07/partner_tailscale.html" rel="alternate" type="text/html" title="Tailscale Concepts and applying them to your AWS Workloads" /><published>2024-11-07T10:30:00-08:00</published><updated>2024-11-07T10:30:00-08:00</updated><id>/2024/11/07/partner_tailscale</id><content type="html" xml:base="/2024/11/07/partner_tailscale.html"><![CDATA[<div class="content-area">
+  <span class="date">7 November 2024</span>
+
+  <h1>Tailscale Concepts and applying them to your AWS Workloads</h1>
+
+  <p><b>Hosts:</b><br />Tom Adamski</p>
+  <p><b>Guests:</b><br />Alex Kretzschmar, DevRel Manager <br /> Allen Vailliencourt, Partner Solutions Engineer</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />Join us for an educational dive into Tailscale's core networking concepts and discover how to effectively implement them across your AWS infrastructure. This live stream bridges the gap between Tailscale's zero-trust networking principles and practical AWS deployments, helping you build more secure and manageable cloud environments.
+  </div>
+
+  
+  
+  
+    <p>Session hasn't started. Join live on <b>7 November 2024 at 10:30AM PST / 1:30PM EST / 6:30PM GMT</b></p>
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+  
+
+  
+    <b>Video on demand will become available soon after the livestream</b>
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[7 November 2024]]></summary></entry><entry><title type="html">New Launch: Introducing Amazon VPC security groups associations and sharing</title><link href="/2024/10/31/sg_new_launch.html" rel="alternate" type="text/html" title="New Launch: Introducing Amazon VPC security groups associations and sharing" /><published>2024-10-31T11:30:00-07:00</published><updated>2024-10-31T11:30:00-07:00</updated><id>/2024/10/31/sg_new_launch</id><content type="html" xml:base="/2024/10/31/sg_new_launch.html"><![CDATA[<div class="content-area">
   <span class="date">31 October 2024</span>
 
   <h1>New Launch: Introducing Amazon VPC security groups associations and sharing</h1>
@@ -187,25 +210,4 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[22 August 2024]]></summary></entry><entry><title type="html">The Routing Loop - What did we lauch so far in 2024?</title><link href="/2024/08/15/networkroundup.html" rel="alternate" type="text/html" title="The Routing Loop - What did we lauch so far in 2024?" /><published>2024-08-15T11:30:00-07:00</published><updated>2024-08-15T11:30:00-07:00</updated><id>/2024/08/15/networkroundup</id><content type="html" xml:base="/2024/08/15/networkroundup.html"><![CDATA[<div class="content-area">
-  <span class="date">15 August 2024</span>
-
-  <h1>The Routing Loop - What did we lauch so far in 2024?</h1>
-
-  <p><b>Hosts:</b><br />Jamie Wenzel <br /> Riggs Goodman</p>
-  <p><b>Guests:</b><br /></p>
-  <div class="abstract">
-    <b>Abstract:</b><br />In this session we will cover the releases that have happened in AWS networking from January to August 2021. Riggs and Jamie will talk through as many of the releasees as they can, taking your questions in the process.
-  </div>
-
-  
-  
-     
-    <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video=2225110802&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
-  
-
-  
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[15 August 2024]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[22 August 2024]]></summary></entry></feed>
