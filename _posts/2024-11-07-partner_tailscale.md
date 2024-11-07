@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Tailscale Concepts and applying them to your AWS Workloads"
-videoid: 
+videoid: 2296061709
 date:   2024-11-7 10:30:00 -0800
 abstract: "Join us for an educational dive into Tailscale's core networking concepts and discover how to effectively implement them across your AWS infrastructure. This live stream bridges the gap between Tailscale's zero-trust networking principles and practical AWS deployments, helping you build more secure and manageable cloud environments."
 hosts: "Tom Adamski"
