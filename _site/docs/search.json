@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "New Launch - VPC Lattice and ECS!",
+      "hosts"    : "Alex",
+      "url"      : "/2024/11/21/VPC-Lattice-And-ECS.html",
+      "date"     : "21 Nov 2024",
+      "abstract" : "VPC Lattice keeps moving forward. Now we are announcing ECS support for VPC Lattice. Join us for a walk through on how it works, a live demo, and architectures! Join Justin Davies, Ryan Lymburner hosted by Alex!"
+    } ,
+  
+    {
       "title"    : "Cost Optimization for Networking",
       "hosts"    : "Jamie and Matt",
       "url"      : "/2024/11/14/Network-cost-optimization.html",

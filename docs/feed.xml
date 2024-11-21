@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-11-14T15:16:24-05:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Cost Optimization for Networking</title><link href="/2024/11/14/Network-cost-optimization.html" rel="alternate" type="text/html" title="Cost Optimization for Networking" /><published>2024-11-14T13:30:00-05:00</published><updated>2024-11-14T13:30:00-05:00</updated><id>/2024/11/14/Network-cost-optimization</id><content type="html" xml:base="/2024/11/14/Network-cost-optimization.html"><![CDATA[<div class="content-area">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-11-21T16:54:08-05:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">New Launch - VPC Lattice and ECS!</title><link href="/2024/11/21/VPC-Lattice-And-ECS.html" rel="alternate" type="text/html" title="New Launch - VPC Lattice and ECS!" /><published>2024-11-21T13:30:00-05:00</published><updated>2024-11-21T13:30:00-05:00</updated><id>/2024/11/21/VPC-Lattice-And-ECS</id><content type="html" xml:base="/2024/11/21/VPC-Lattice-And-ECS.html"><![CDATA[<div class="content-area">
+  <span class="date">21 November 2024</span>
+
+  <h1>New Launch - VPC Lattice and ECS!</h1>
+
+  <p><b>Hosts:</b><br />Alex</p>
+  <p><b>Guests:</b><br />Justin Davies - Principal Product Manager, AWS <br /> Ryan Lymburner - SDE VPC Lattice, AWS</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />VPC Lattice keeps moving forward. Now we are announcing ECS support for VPC Lattice. Join us for a walk through on how it works, a live demo, and architectures! Join Justin Davies, Ryan Lymburner hosted by Alex!
+  </div>
+
+  
+  
+     
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?video=2307698699&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+  
+
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[21 November 2024]]></summary></entry><entry><title type="html">Cost Optimization for Networking</title><link href="/2024/11/14/Network-cost-optimization.html" rel="alternate" type="text/html" title="Cost Optimization for Networking" /><published>2024-11-14T13:30:00-05:00</published><updated>2024-11-14T13:30:00-05:00</updated><id>/2024/11/14/Network-cost-optimization</id><content type="html" xml:base="/2024/11/14/Network-cost-optimization.html"><![CDATA[<div class="content-area">
   <span class="date">14 November 2024</span>
 
   <h1>Cost Optimization for Networking</h1>
@@ -187,25 +208,4 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[5 September 2024]]></summary></entry><entry><title type="html">AWS and Aviatrix - A chat about AWS Cloud Wan and all things cloud connectivity</title><link href="/2024/08/29/Aviatrix.html" rel="alternate" type="text/html" title="AWS and Aviatrix - A chat about AWS Cloud Wan and all things cloud connectivity" /><published>2024-08-29T14:30:00-04:00</published><updated>2024-08-29T14:30:00-04:00</updated><id>/2024/08/29/Aviatrix</id><content type="html" xml:base="/2024/08/29/Aviatrix.html"><![CDATA[<div class="content-area">
-  <span class="date">29 August 2024</span>
-
-  <h1>AWS and Aviatrix - A chat about AWS Cloud Wan and all things cloud connectivity</h1>
-
-  <p><b>Hosts:</b><br />Jamie and Matt</p>
-  <p><b>Guests:</b><br />Shridhar Kulkarni, Principal Product Manager EC2N <br /> Christopher McHenry, VP of Product at Aviatrix</p>
-  <div class="abstract">
-    <b>Abstract:</b><br />Join us to learn more about the AWS Cloud WAN Connector in partnership with Aviatrix. <br /> <br /> The AWS Cloud WAN Connector facilitates automatic integration of Aviatrix transit gateways with AWS Cloud WAN, allowing users to extend their AWS-centric operations to a multi-cloud strategy effortlessly. <br /> <br /> In this session, we’ll demonstrate how this solution automates the provisioning of transit gateways, the creation of network domains, and the establishment of BGP over GRE connections to Cloud WAN hubs, ensuring consistent network segmentation across environments. <br /> <br /> By leveraging event-driven automation and running on the Aviatrix Extensibility Framework, the connector streamlines network management, reduces manual intervention, and enhances operational efficiency for organizations using AWS as their primary cloud. <br /> <br /> We’ll also discuss how using the new CloudWAN Service Insertion integration, customers can now achieve centralized east-west and internet-egress inspection, secure multi-cloud connectivity, encrypt on-premises connectivity end-to-end, secure connectivity to AWS partitions such as AWS China and AWS GovCloud, and provide B2B connectivity with partners.
-  </div>
-
-  
-  
-     
-    <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video=2237271103&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
-  
-
-  
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[29 August 2024]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[5 September 2024]]></summary></entry></feed>
