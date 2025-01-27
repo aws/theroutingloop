@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "New Launch - VPC Lattice and ECS!",
+      "hosts"    : "Alex",
+      "url"      : "/2024/11/21/VPC-Lattice-And-ECS.html",
+      "date"     : "21 Nov 2024",
+      "abstract" : "VPC Lattice keeps moving forward. Now we are announcing ECS support for VPC Lattice. Join us for a walk through on how it works, a live demo, and architectures! Join Justin Davies, Ryan Lymburner hosted by Alex!"
+    } ,
+  
+    {
+      "title"    : "Cost Optimization for Networking",
+      "hosts"    : "Jamie and Matt",
+      "url"      : "/2024/11/14/Network-cost-optimization.html",
+      "date"     : "14 Nov 2024",
+      "abstract" : "Why is my data transfer costs so high? What would be the cost if I changed from centralized to decentralized inspection. How are my charges going to look when we double or triple our traffic? If you have questions like this then tune in with Dave DeRicco, Matt and Jamie break this all down and talk about it."
+    } ,
+  
+    {
       "title"    : "Tailscale Concepts and applying them to your AWS Workloads",
       "hosts"    : "Tom Adamski",
       "url"      : "/2024/11/07/partner_tailscale.html",

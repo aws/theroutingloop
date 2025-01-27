@@ -1,4 +1,50 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-01-27T13:38:04-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Tailscale Concepts and applying them to your AWS Workloads</title><link href="http://localhost:4000/2024/11/07/partner_tailscale.html" rel="alternate" type="text/html" title="Tailscale Concepts and applying them to your AWS Workloads" /><published>2024-11-07T10:30:00-08:00</published><updated>2024-11-07T10:30:00-08:00</updated><id>http://localhost:4000/2024/11/07/partner_tailscale</id><content type="html" xml:base="http://localhost:4000/2024/11/07/partner_tailscale.html"><![CDATA[<div class="content-area">
+=======
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-21T16:54:18-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">New Launch - VPC Lattice and ECS!</title><link href="http://localhost:4000/2024/11/21/VPC-Lattice-And-ECS.html" rel="alternate" type="text/html" title="New Launch - VPC Lattice and ECS!" /><published>2024-11-21T13:30:00-05:00</published><updated>2024-11-21T13:30:00-05:00</updated><id>http://localhost:4000/2024/11/21/VPC-Lattice-And-ECS</id><content type="html" xml:base="http://localhost:4000/2024/11/21/VPC-Lattice-And-ECS.html"><![CDATA[<div class="content-area">
+  <span class="date">21 November 2024</span>
+
+  <h1>New Launch - VPC Lattice and ECS!</h1>
+
+  <p><b>Hosts:</b><br />Alex</p>
+  <p><b>Guests:</b><br />Justin Davies - Principal Product Manager, AWS <br /> Ryan Lymburner - SDE VPC Lattice, AWS</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />VPC Lattice keeps moving forward. Now we are announcing ECS support for VPC Lattice. Join us for a walk through on how it works, a live demo, and architectures! Join Justin Davies, Ryan Lymburner hosted by Alex!
+  </div>
+
+  
+  
+     
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?video=2307698699&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+  
+
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[21 November 2024]]></summary></entry><entry><title type="html">Cost Optimization for Networking</title><link href="http://localhost:4000/2024/11/14/Network-cost-optimization.html" rel="alternate" type="text/html" title="Cost Optimization for Networking" /><published>2024-11-14T13:30:00-05:00</published><updated>2024-11-14T13:30:00-05:00</updated><id>http://localhost:4000/2024/11/14/Network-cost-optimization</id><content type="html" xml:base="http://localhost:4000/2024/11/14/Network-cost-optimization.html"><![CDATA[<div class="content-area">
+  <span class="date">14 November 2024</span>
+
+  <h1>Cost Optimization for Networking</h1>
+
+  <p><b>Hosts:</b><br />Jamie and Matt</p>
+  <p><b>Guests:</b><br />Dave DeRicco - Sr. TAM, AWS</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />Why is my data transfer costs so high? What would be the cost if I changed from centralized to decentralized inspection. How are my charges going to look when we double or triple our traffic? If you have questions like this then tune in with Dave DeRicco, Matt and Jamie break this all down and talk about it.
+  </div>
+
+  
+  
+     
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?video=2301837273&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+  
+
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[14 November 2024]]></summary></entry><entry><title type="html">Tailscale Concepts and applying them to your AWS Workloads</title><link href="http://localhost:4000/2024/11/07/partner_tailscale.html" rel="alternate" type="text/html" title="Tailscale Concepts and applying them to your AWS Workloads" /><published>2024-11-07T13:30:00-05:00</published><updated>2024-11-07T13:30:00-05:00</updated><id>http://localhost:4000/2024/11/07/partner_tailscale</id><content type="html" xml:base="http://localhost:4000/2024/11/07/partner_tailscale.html"><![CDATA[<div class="content-area">
+>>>>>>> 4e54dd5c3dc54a84a176d5acfd6a8d23b91e7cad
   <span class="date">7 November 2024</span>
 
   <h1>Tailscale Concepts and applying them to your AWS Workloads</h1>
@@ -19,7 +65,11 @@
   
 
   
+<<<<<<< HEAD
 </div>]]></content><author><name></name></author><summary type="html"><![CDATA[7 November 2024]]></summary></entry><entry><title type="html">New Launch: Introducing Amazon VPC security groups associations and sharing</title><link href="http://localhost:4000/2024/10/31/sg_new_launch.html" rel="alternate" type="text/html" title="New Launch: Introducing Amazon VPC security groups associations and sharing" /><published>2024-10-31T11:30:00-07:00</published><updated>2024-10-31T11:30:00-07:00</updated><id>http://localhost:4000/2024/10/31/sg_new_launch</id><content type="html" xml:base="http://localhost:4000/2024/10/31/sg_new_launch.html"><![CDATA[<div class="content-area">
+=======
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[7 November 2024]]></summary></entry><entry><title type="html">New Launch: Introducing Amazon VPC security groups associations and sharing</title><link href="http://localhost:4000/2024/10/31/sg_new_launch.html" rel="alternate" type="text/html" title="New Launch: Introducing Amazon VPC security groups associations and sharing" /><published>2024-10-31T14:30:00-04:00</published><updated>2024-10-31T14:30:00-04:00</updated><id>http://localhost:4000/2024/10/31/sg_new_launch</id><content type="html" xml:base="http://localhost:4000/2024/10/31/sg_new_launch.html"><![CDATA[<div class="content-area">
+>>>>>>> 4e54dd5c3dc54a84a176d5acfd6a8d23b91e7cad
   <span class="date">31 October 2024</span>
 
   <h1>New Launch: Introducing Amazon VPC security groups associations and sharing</h1>
@@ -40,7 +90,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[31 October 2024]]></summary></entry><entry><title type="html">How to migrate to Amazon VPC Lattice and use DNS to simplify service discovery</title><link href="http://localhost:4000/2024/10/17/lattice_dns.html" rel="alternate" type="text/html" title="How to migrate to Amazon VPC Lattice and use DNS to simplify service discovery" /><published>2024-10-17T11:30:00-07:00</published><updated>2024-10-17T11:30:00-07:00</updated><id>http://localhost:4000/2024/10/17/lattice_dns</id><content type="html" xml:base="http://localhost:4000/2024/10/17/lattice_dns.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[31 October 2024]]></summary></entry><entry><title type="html">How to migrate to Amazon VPC Lattice and use DNS to simplify service discovery</title><link href="http://localhost:4000/2024/10/17/lattice_dns.html" rel="alternate" type="text/html" title="How to migrate to Amazon VPC Lattice and use DNS to simplify service discovery" /><published>2024-10-17T14:30:00-04:00</published><updated>2024-10-17T14:30:00-04:00</updated><id>http://localhost:4000/2024/10/17/lattice_dns</id><content type="html" xml:base="http://localhost:4000/2024/10/17/lattice_dns.html"><![CDATA[<div class="content-area">
   <span class="date">17 October 2024</span>
 
   <h1>How to migrate to Amazon VPC Lattice and use DNS to simplify service discovery</h1>
@@ -61,7 +111,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[17 October 2024]]></summary></entry><entry><title type="html">Automating Networking Monitoring and Alerting on AWS, and the AWS Solutions Library</title><link href="http://localhost:4000/2024/10/10/Automating-network-monitoring.html" rel="alternate" type="text/html" title="Automating Networking Monitoring and Alerting on AWS, and the AWS Solutions Library" /><published>2024-10-10T11:30:00-07:00</published><updated>2024-10-10T11:30:00-07:00</updated><id>http://localhost:4000/2024/10/10/Automating-network-monitoring</id><content type="html" xml:base="http://localhost:4000/2024/10/10/Automating-network-monitoring.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[17 October 2024]]></summary></entry><entry><title type="html">Automating Networking Monitoring and Alerting on AWS, and the AWS Solutions Library</title><link href="http://localhost:4000/2024/10/10/Automating-network-monitoring.html" rel="alternate" type="text/html" title="Automating Networking Monitoring and Alerting on AWS, and the AWS Solutions Library" /><published>2024-10-10T14:30:00-04:00</published><updated>2024-10-10T14:30:00-04:00</updated><id>http://localhost:4000/2024/10/10/Automating-network-monitoring</id><content type="html" xml:base="http://localhost:4000/2024/10/10/Automating-network-monitoring.html"><![CDATA[<div class="content-area">
   <span class="date">10 October 2024</span>
 
   <h1>Automating Networking Monitoring and Alerting on AWS, and the AWS Solutions Library</h1>
@@ -82,7 +132,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[10 October 2024]]></summary></entry><entry><title type="html">Web Client JA3 fingerprinting at the edge</title><link href="http://localhost:4000/2024/10/03/Web_Client_Fingerprint.html" rel="alternate" type="text/html" title="Web Client JA3 fingerprinting at the edge" /><published>2024-10-03T11:30:00-07:00</published><updated>2024-10-03T11:30:00-07:00</updated><id>http://localhost:4000/2024/10/03/Web_Client_Fingerprint</id><content type="html" xml:base="http://localhost:4000/2024/10/03/Web_Client_Fingerprint.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[10 October 2024]]></summary></entry><entry><title type="html">Web Client JA3 fingerprinting at the edge</title><link href="http://localhost:4000/2024/10/03/Web_Client_Fingerprint.html" rel="alternate" type="text/html" title="Web Client JA3 fingerprinting at the edge" /><published>2024-10-03T14:30:00-04:00</published><updated>2024-10-03T14:30:00-04:00</updated><id>http://localhost:4000/2024/10/03/Web_Client_Fingerprint</id><content type="html" xml:base="http://localhost:4000/2024/10/03/Web_Client_Fingerprint.html"><![CDATA[<div class="content-area">
   <span class="date">3 October 2024</span>
 
   <h1>Web Client JA3 fingerprinting at the edge</h1>
@@ -103,7 +153,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[3 October 2024]]></summary></entry><entry><title type="html">The Routing Loop - Ask Me Anything</title><link href="http://localhost:4000/2024/09/19/Ask-me-anything.html" rel="alternate" type="text/html" title="The Routing Loop - Ask Me Anything" /><published>2024-09-19T11:30:00-07:00</published><updated>2024-09-19T11:30:00-07:00</updated><id>http://localhost:4000/2024/09/19/Ask-me-anything</id><content type="html" xml:base="http://localhost:4000/2024/09/19/Ask-me-anything.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[3 October 2024]]></summary></entry><entry><title type="html">The Routing Loop - Ask Me Anything</title><link href="http://localhost:4000/2024/09/19/Ask-me-anything.html" rel="alternate" type="text/html" title="The Routing Loop - Ask Me Anything" /><published>2024-09-19T14:30:00-04:00</published><updated>2024-09-19T14:30:00-04:00</updated><id>http://localhost:4000/2024/09/19/Ask-me-anything</id><content type="html" xml:base="http://localhost:4000/2024/09/19/Ask-me-anything.html"><![CDATA[<div class="content-area">
   <span class="date">19 September 2024</span>
 
   <h1>The Routing Loop - Ask Me Anything</h1>
@@ -124,7 +174,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[19 September 2024]]></summary></entry><entry><title type="html">Amazon VPC Lattice - Best Practices, Migrations, and How it all Works</title><link href="http://localhost:4000/2024/09/12/VPC-Lattice-Best-Practices.html" rel="alternate" type="text/html" title="Amazon VPC Lattice - Best Practices, Migrations, and How it all Works" /><published>2024-09-12T11:30:00-07:00</published><updated>2024-09-12T11:30:00-07:00</updated><id>http://localhost:4000/2024/09/12/VPC-Lattice-Best-Practices</id><content type="html" xml:base="http://localhost:4000/2024/09/12/VPC-Lattice-Best-Practices.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[19 September 2024]]></summary></entry><entry><title type="html">Amazon VPC Lattice - Best Practices, Migrations, and How it all Works</title><link href="http://localhost:4000/2024/09/12/VPC-Lattice-Best-Practices.html" rel="alternate" type="text/html" title="Amazon VPC Lattice - Best Practices, Migrations, and How it all Works" /><published>2024-09-12T14:30:00-04:00</published><updated>2024-09-12T14:30:00-04:00</updated><id>http://localhost:4000/2024/09/12/VPC-Lattice-Best-Practices</id><content type="html" xml:base="http://localhost:4000/2024/09/12/VPC-Lattice-Best-Practices.html"><![CDATA[<div class="content-area">
   <span class="date">12 September 2024</span>
 
   <h1>Amazon VPC Lattice - Best Practices, Migrations, and How it all Works</h1>
@@ -145,7 +195,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[12 September 2024]]></summary></entry><entry><title type="html">Whats New with ELB - Config Idle Timeout feature for NLB and GWLB</title><link href="http://localhost:4000/2024/09/05/Whats-new-with-ELB.html" rel="alternate" type="text/html" title="Whats New with ELB - Config Idle Timeout feature for NLB and GWLB" /><published>2024-09-05T11:30:00-07:00</published><updated>2024-09-05T11:30:00-07:00</updated><id>http://localhost:4000/2024/09/05/Whats-new-with-ELB</id><content type="html" xml:base="http://localhost:4000/2024/09/05/Whats-new-with-ELB.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[12 September 2024]]></summary></entry><entry><title type="html">Whats New with ELB - Config Idle Timeout feature for NLB and GWLB</title><link href="http://localhost:4000/2024/09/05/Whats-new-with-ELB.html" rel="alternate" type="text/html" title="Whats New with ELB - Config Idle Timeout feature for NLB and GWLB" /><published>2024-09-05T14:30:00-04:00</published><updated>2024-09-05T14:30:00-04:00</updated><id>http://localhost:4000/2024/09/05/Whats-new-with-ELB</id><content type="html" xml:base="http://localhost:4000/2024/09/05/Whats-new-with-ELB.html"><![CDATA[<div class="content-area">
   <span class="date">5 September 2024</span>
 
   <h1>Whats New with ELB - Config Idle Timeout feature for NLB and GWLB</h1>
@@ -166,46 +216,4 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[5 September 2024]]></summary></entry><entry><title type="html">AWS and Aviatrix - A chat about AWS Cloud Wan and all things cloud connectivity</title><link href="http://localhost:4000/2024/08/29/Aviatrix.html" rel="alternate" type="text/html" title="AWS and Aviatrix - A chat about AWS Cloud Wan and all things cloud connectivity" /><published>2024-08-29T11:30:00-07:00</published><updated>2024-08-29T11:30:00-07:00</updated><id>http://localhost:4000/2024/08/29/Aviatrix</id><content type="html" xml:base="http://localhost:4000/2024/08/29/Aviatrix.html"><![CDATA[<div class="content-area">
-  <span class="date">29 August 2024</span>
-
-  <h1>AWS and Aviatrix - A chat about AWS Cloud Wan and all things cloud connectivity</h1>
-
-  <p><b>Hosts:</b><br />Jamie and Matt</p>
-  <p><b>Guests:</b><br />Shridhar Kulkarni, Principal Product Manager EC2N <br /> Christopher McHenry, VP of Product at Aviatrix</p>
-  <div class="abstract">
-    <b>Abstract:</b><br />Join us to learn more about the AWS Cloud WAN Connector in partnership with Aviatrix. <br /> <br /> The AWS Cloud WAN Connector facilitates automatic integration of Aviatrix transit gateways with AWS Cloud WAN, allowing users to extend their AWS-centric operations to a multi-cloud strategy effortlessly. <br /> <br /> In this session, we’ll demonstrate how this solution automates the provisioning of transit gateways, the creation of network domains, and the establishment of BGP over GRE connections to Cloud WAN hubs, ensuring consistent network segmentation across environments. <br /> <br /> By leveraging event-driven automation and running on the Aviatrix Extensibility Framework, the connector streamlines network management, reduces manual intervention, and enhances operational efficiency for organizations using AWS as their primary cloud. <br /> <br /> We’ll also discuss how using the new CloudWAN Service Insertion integration, customers can now achieve centralized east-west and internet-egress inspection, secure multi-cloud connectivity, encrypt on-premises connectivity end-to-end, secure connectivity to AWS partitions such as AWS China and AWS GovCloud, and provide B2B connectivity with partners.
-  </div>
-
-  
-  
-     
-    <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video=2237271103&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
-  
-
-  
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[29 August 2024]]></summary></entry><entry><title type="html">Application networking with AWS PrivateLink</title><link href="http://localhost:4000/2024/08/22/privatelink.html" rel="alternate" type="text/html" title="Application networking with AWS PrivateLink" /><published>2024-08-22T11:30:00-07:00</published><updated>2024-08-22T11:30:00-07:00</updated><id>http://localhost:4000/2024/08/22/privatelink</id><content type="html" xml:base="http://localhost:4000/2024/08/22/privatelink.html"><![CDATA[<div class="content-area">
-  <span class="date">22 August 2024</span>
-
-  <h1>Application networking with AWS PrivateLink</h1>
-
-  <p><b>Hosts:</b><br />Jamie Wenzel <br /> Tom Adamski</p>
-  <p><b>Guests:</b><br /></p>
-  <div class="abstract">
-    <b>Abstract:</b><br />Join us for an in-depth exploration of AWS PrivateLink, where you'll gain a solid understanding of its core principles and advanced use cases. We'll cover the essentials of how PrivateLink operates, dive into more complex architectures like cross-region and hybrid connectivity, and discuss strategies for migrating backend services with minimal downtime. Whether you're new to PrivateLink or looking to refine your knowledge, this session is designed to provide you with insights and practical guidance. Bring your questions and get ready to deepen your expertise.
-  </div>
-
-  
-  
-     
-    <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video=2231174421&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
-  
-
-  
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[22 August 2024]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[5 September 2024]]></summary></entry></feed>
