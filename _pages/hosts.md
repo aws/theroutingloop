@@ -68,22 +68,6 @@ permalink: /hosts/
   </div>
   <div class="col-md-4 mb-5">
     <div class="card border-0 shadow h-100">
-      <img class="card-img-top" src="/assets/image/riggs.jpg" alt="" />
-      <div class="card-body">
-        <h4 class="card-title">Riggs Goodman</h4>
-        <p class="card-title"><b>Global Tech Lead for the Networking Partner Segment </b></p>
-        <p class="card-title"><b>AWS </b></p>
-        <p class="card-text">
-          Riggs is based in Atlanta, Georgia, Riggs has over 16 years of experience designing and architecting networking solutions for both partners and customers.
-        </p>
-      </div>
-      <div class="card-footer">
-        <a href="https://www.linkedin.com/in/riggsgoodman/" class="btn btn-primary">LinkedIn Profile</a>
-      </div>
-    </div>
-  </div>
-  <div class="col-md-4 mb-5">
-    <div class="card border-0 shadow h-100">
       <img class="card-img-top" src="/assets/image/sid.jpg" alt="" />
       <div class="card-body">
         <h4 class="card-title">Sidhartha Chauhan</h4>
@@ -100,10 +84,10 @@ permalink: /hosts/
   </div>
   <div class="col-md-4 mb-5">
     <div class="card border-0 shadow h-100">
-      <img class="card-img-top" src="/assets/image/tom.jpeg" alt="" />
+      <img class="card-img-top" src="/assets/image/tom.png" alt="" />
       <div class="card-body">
         <h4 class="card-title">Tom Adamski</h4>
-        <p class="card-title"><b>Worldwide Solutions Archtecture Lead - Networking </b></p>
+        <p class="card-title"><b>Principal Solutions Architect - Networking </b></p>
         <p class="card-title"><b>AWS </b></p>
         <p class="card-text">
           Tom has over 15 years of experience building networks and security solutions across various industries – from telcos and ISPs to small startups. He has spent the last 5 years helping AWS customers build their network environments in the AWS Cloud. In his spare time Tom can be found hunting for waves to surf around the California coast.
