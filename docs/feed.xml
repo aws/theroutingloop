@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-02-03T15:10:57-08:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">re:Invent 2024 - Chalk Talks - Simplify secure communication: A guide to mutual TLS on AWS</title><link href="/2025/02/12/riv2024_mtls.html" rel="alternate" type="text/html" title="re:Invent 2024 - Chalk Talks - Simplify secure communication: A guide to mutual TLS on AWS" /><published>2025-02-12T11:00:00-08:00</published><updated>2025-02-12T11:00:00-08:00</updated><id>/2025/02/12/riv2024_mtls</id><content type="html" xml:base="/2025/02/12/riv2024_mtls.html"><![CDATA[<div class="content-area">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-02-03T15:20:51-08:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">re:Invent 2024 - Chalk Talks - How to integrate Amazon VPC Lattice into your existing environment This field is configured so only Editors and up can edit it</title><link href="/2025/02/19/lattice.html" rel="alternate" type="text/html" title="re:Invent 2024 - Chalk Talks - How to integrate Amazon VPC Lattice into your existing environment This field is configured so only Editors and up can edit it" /><published>2025-02-19T11:00:00-08:00</published><updated>2025-02-19T11:00:00-08:00</updated><id>/2025/02/19/lattice</id><content type="html" xml:base="/2025/02/19/lattice.html"><![CDATA[<div class="content-area">
+  <span class="date">19 February 2025</span>
+
+  <h1>re:Invent 2024 - Chalk Talks - How to integrate Amazon VPC Lattice into your existing environment This field is configured so only Editors and up can edit it </h1>
+
+  <p><b>Hosts:</b><br />Jamie Wenzel</p>
+  <p><b>Guests:</b><br />Yves Fauser, Sr. Specialist SA Containers, <br /> Justin Davies, Principal Product Manager, Lattice</p>
+  <div class="abstract">
+    <b>Abstract:</b><br /> Amazon VPC Lattice offers powerful features to enhance network security, simplify routing, and streamline load balancing for your backend applications. However, changing your network design can be a daunting and time-consuming task. In this engaging chalk talk, explore architectural best practices, strategies, and proven techniques to seamlessly integrate VPC Lattice into your existing environment, enhancing your security posture and simplifying connectivity.
+  </div>
+
+  
+  
+  
+    <p>Session hasn't started. Join live on <b>19 February 2025 at 11 AM PT / 2 PM ET / 7 PM UK</b></p>
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+  
+
+  
+    <b>Video on demand will become available soon after the livestream</b>
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[19 February 2025]]></summary></entry><entry><title type="html">re:Invent 2024 - Chalk Talks - Simplify secure communication: A guide to mutual TLS on AWS</title><link href="/2025/02/12/riv2024_mtls.html" rel="alternate" type="text/html" title="re:Invent 2024 - Chalk Talks - Simplify secure communication: A guide to mutual TLS on AWS" /><published>2025-02-12T11:00:00-08:00</published><updated>2025-02-12T11:00:00-08:00</updated><id>/2025/02/12/riv2024_mtls</id><content type="html" xml:base="/2025/02/12/riv2024_mtls.html"><![CDATA[<div class="content-area">
   <span class="date">12 February 2025</span>
 
   <h1>re:Invent 2024 - Chalk Talks - Simplify secure communication: A guide to mutual TLS on AWS </h1>
@@ -7,6 +30,29 @@
   <p><b>Guests:</b><br />Leonardo Azize, Enterprise Solutions Architect</p>
   <div class="abstract">
     <b>Abstract:</b><br />Mutual TLS (mTLS) is a widely used technique for authenticating and encrypting communication between clients and servers on AWS. This mechanism is valuable for securing both internet-bound and in-VPC traffic. In this chalk talk, learn how to use mTLS across various AWS services, such as Elastic Load Balancer, Amazon API Gateway, and Amazon VPC Lattice. Explore use cases, benefits, and implementation strategies to secure APIs with reliable authentication and protect sensitive data during transit with encryption. Learn how to utilize mTLS to enhance the security posture of your AWS applications.
+  </div>
+
+  
+  
+  
+    <p>Session hasn't started. Join live on <b>12 February 2025 at 11 AM PT / 2 PM ET / 7 PM UK</b></p>
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+  
+
+  
+    <b>Video on demand will become available soon after the livestream</b>
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[12 February 2025]]></summary></entry><entry><title type="html">re:Invent 2024 - Chalk Talks - Bringing your own networking to AWS</title><link href="/2025/02/12/byo_network.html" rel="alternate" type="text/html" title="re:Invent 2024 - Chalk Talks - Bringing your own networking to AWS" /><published>2025-02-12T11:00:00-08:00</published><updated>2025-02-12T11:00:00-08:00</updated><id>/2025/02/12/byo_network</id><content type="html" xml:base="/2025/02/12/byo_network.html"><![CDATA[<div class="content-area">
+  <span class="date">12 February 2025</span>
+
+  <h1>re:Invent 2024 - Chalk Talks - Bringing your own networking to AWS </h1>
+
+  <p><b>Hosts:</b><br />Jamie Wenzel, Tom Adamski</p>
+  <p><b>Guests:</b><br />Christian Elsen, Sr. SA Manager, Networking <br /> Steve Seymour, WW Tech Leader, Networking</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />We bring the ASN, IPv4, and IPv6 prefixes, you bring your questions! This chalk talk demonstrates the full process of bringing your IP resources to AWS, advertising them to the world, and allocating them to AWS services using Amazon VPC IP Address Manager (IPAM). Walk away with a clearer understanding of the steps required to efficiently use your own address space for your workloads.
   </div>
 
   
@@ -170,46 +216,4 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[10 October 2024]]></summary></entry><entry><title type="html">Web Client JA3 fingerprinting at the edge</title><link href="/2024/10/03/Web_Client_Fingerprint.html" rel="alternate" type="text/html" title="Web Client JA3 fingerprinting at the edge" /><published>2024-10-03T11:30:00-07:00</published><updated>2024-10-03T11:30:00-07:00</updated><id>/2024/10/03/Web_Client_Fingerprint</id><content type="html" xml:base="/2024/10/03/Web_Client_Fingerprint.html"><![CDATA[<div class="content-area">
-  <span class="date">3 October 2024</span>
-
-  <h1>Web Client JA3 fingerprinting at the edge</h1>
-
-  <p><b>Hosts:</b><br />Tom Adamski</p>
-  <p><b>Guests:</b><br />Oleksandr Golovatyi, Sr. Technical Account Manager <br /> Maksim Akifev, Sr. Product Manager <br /> Alex Moening, Sr. Specialist Solutions Architect </p>
-  <div class="abstract">
-    <b>Abstract:</b><br />Gain deep visibility into client behavior and bolster protection against advanced web threats using the power of AWS WAF and AWS CloudFront. In this hands-on session, you'll learn how to precisely identify suspicious encrypted traffic and enforce granular access control policies for your API-driven workloads.
-  </div>
-
-  
-  
-     
-    <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video=2266804067&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
-  
-
-  
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[3 October 2024]]></summary></entry><entry><title type="html">The Routing Loop - Ask Me Anything</title><link href="/2024/09/19/Ask-me-anything.html" rel="alternate" type="text/html" title="The Routing Loop - Ask Me Anything" /><published>2024-09-19T11:30:00-07:00</published><updated>2024-09-19T11:30:00-07:00</updated><id>/2024/09/19/Ask-me-anything</id><content type="html" xml:base="/2024/09/19/Ask-me-anything.html"><![CDATA[<div class="content-area">
-  <span class="date">19 September 2024</span>
-
-  <h1>The Routing Loop - Ask Me Anything</h1>
-
-  <p><b>Hosts:</b><br />Jamie and Riggs</p>
-  <p><b>Guests:</b><br />All of our audience!</p>
-  <div class="abstract">
-    <b>Abstract:</b><br />Join Jamie and Riggs where you ask us questions. We will answer things for any network service including Cloud Wan, TGW peering, PrivateLink, CloudFront vs Global Acclerator and of course Riggs will also talk a little on AI. Bring your questions!
-  </div>
-
-  
-  
-     
-    <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video=2255211710&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
-  
-
-  
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[19 September 2024]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[10 October 2024]]></summary></entry></feed>
