@@ -4,7 +4,7 @@ title:  "re:Invent 2024 - Chalk Talks - Bringing your own networking to AWS "
 videoid: 
 date:   2025-02-26 11:00:00 -0800
 abstract: "We bring the ASN, IPv4, and IPv6 prefixes, you bring your questions! This chalk talk demonstrates the full process of bringing your IP resources to AWS, advertising them to the world, and allocating them to AWS services using Amazon VPC IP Address Manager (IPAM). Walk away with a clearer understanding of the steps required to efficiently use your own address space for your workloads."
-hosts: "Jamie Wenzel, Tom Adamski"
+hosts: "Jamie Wenzel"
 guests: "Christian Elsen, Sr. SA Manager, Networking <br> Steve Seymour, WW Tech Leader, Networking"
 ---
 <div class="content-area">
