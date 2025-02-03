@@ -1,4 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-01-27T13:40:22-08:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">New Launch - VPC Lattice and ECS!</title><link href="/2024/11/21/VPC-Lattice-And-ECS.html" rel="alternate" type="text/html" title="New Launch - VPC Lattice and ECS!" /><published>2024-11-21T10:30:00-08:00</published><updated>2024-11-21T10:30:00-08:00</updated><id>/2024/11/21/VPC-Lattice-And-ECS</id><content type="html" xml:base="/2024/11/21/VPC-Lattice-And-ECS.html"><![CDATA[<div class="content-area">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-02-03T15:10:57-08:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">re:Invent 2024 - Chalk Talks - Simplify secure communication: A guide to mutual TLS on AWS</title><link href="/2025/02/12/riv2024_mtls.html" rel="alternate" type="text/html" title="re:Invent 2024 - Chalk Talks - Simplify secure communication: A guide to mutual TLS on AWS" /><published>2025-02-12T11:00:00-08:00</published><updated>2025-02-12T11:00:00-08:00</updated><id>/2025/02/12/riv2024_mtls</id><content type="html" xml:base="/2025/02/12/riv2024_mtls.html"><![CDATA[<div class="content-area">
+  <span class="date">12 February 2025</span>
+
+  <h1>re:Invent 2024 - Chalk Talks - Simplify secure communication: A guide to mutual TLS on AWS </h1>
+
+  <p><b>Hosts:</b><br />Jamie Wenzel, Tom Adamski</p>
+  <p><b>Guests:</b><br />Leonardo Azize, Enterprise Solutions Architect</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />Mutual TLS (mTLS) is a widely used technique for authenticating and encrypting communication between clients and servers on AWS. This mechanism is valuable for securing both internet-bound and in-VPC traffic. In this chalk talk, learn how to use mTLS across various AWS services, such as Elastic Load Balancer, Amazon API Gateway, and Amazon VPC Lattice. Explore use cases, benefits, and implementation strategies to secure APIs with reliable authentication and protect sensitive data during transit with encryption. Learn how to utilize mTLS to enhance the security posture of your AWS applications.
+  </div>
+
+  
+  
+  
+    <p>Session hasn't started. Join live on <b>12 February 2025 at 11 AM PT / 2 PM ET / 7 PM UK</b></p>
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+  
+
+  
+    <b>Video on demand will become available soon after the livestream</b>
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[12 February 2025]]></summary></entry><entry><title type="html">re:Invent 2024 AWS Networking recap</title><link href="/2025/02/05/riv2024_recap.html" rel="alternate" type="text/html" title="re:Invent 2024 AWS Networking recap" /><published>2025-02-05T11:00:00-08:00</published><updated>2025-02-05T11:00:00-08:00</updated><id>/2025/02/05/riv2024_recap</id><content type="html" xml:base="/2025/02/05/riv2024_recap.html"><![CDATA[<div class="content-area">
+  <span class="date">5 February 2025</span>
+
+  <h1>re:Invent 2024 AWS Networking recap</h1>
+
+  <p><b>Hosts:</b><br />Alexandra Huides, Matt Lehwess, Tom Adamski</p>
+  <p><b>Guests:</b><br /></p>
+  <div class="abstract">
+    <b>Abstract:</b><br />We will recap all re:Invent 2024 networking and content delivery launches, from IPv6 and VPC IPAM features, to VPC Lattice support for TCP Resources, cross-Region support for AWS PrivateLink endpoints, and Amazon CloudFront support for anycast IPs and private VPC Origins.
+  </div>
+
+  
+  
+  
+    <p>Session hasn't started. Join live on <b>5 February 2025 at 11 AM PT / 2 PM ET / 7 PM UK</b></p>
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+  
+
+  
+    <b>Video on demand will become available soon after the livestream</b>
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[5 February 2025]]></summary></entry><entry><title type="html">New Launch - VPC Lattice and ECS!</title><link href="/2024/11/21/VPC-Lattice-And-ECS.html" rel="alternate" type="text/html" title="New Launch - VPC Lattice and ECS!" /><published>2024-11-21T10:30:00-08:00</published><updated>2024-11-21T10:30:00-08:00</updated><id>/2024/11/21/VPC-Lattice-And-ECS</id><content type="html" xml:base="/2024/11/21/VPC-Lattice-And-ECS.html"><![CDATA[<div class="content-area">
   <span class="date">21 November 2024</span>
 
   <h1>New Launch - VPC Lattice and ECS!</h1>
@@ -166,46 +212,4 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[19 September 2024]]></summary></entry><entry><title type="html">Amazon VPC Lattice - Best Practices, Migrations, and How it all Works</title><link href="/2024/09/12/VPC-Lattice-Best-Practices.html" rel="alternate" type="text/html" title="Amazon VPC Lattice - Best Practices, Migrations, and How it all Works" /><published>2024-09-12T11:30:00-07:00</published><updated>2024-09-12T11:30:00-07:00</updated><id>/2024/09/12/VPC-Lattice-Best-Practices</id><content type="html" xml:base="/2024/09/12/VPC-Lattice-Best-Practices.html"><![CDATA[<div class="content-area">
-  <span class="date">12 September 2024</span>
-
-  <h1>Amazon VPC Lattice - Best Practices, Migrations, and How it all Works</h1>
-
-  <p><b>Hosts:</b><br />Jamie and Matt</p>
-  <p><b>Guests:</b><br />Justin Davies, Principal Product Manager EC2N</p>
-  <div class="abstract">
-    <b>Abstract:</b><br />Join Jamie and Matt as we talk to Justin Davies the Principal Product Manager of Amazon VPC Lattice. We will talk about best practices, where Lattice fits in this new crazy world of networking, and how to migrate to Lattice. We will also talk about how things work under the hood to give a better picture on what is going on with your packets! Bring your questions!
-  </div>
-
-  
-  
-     
-    <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video=2249374019&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
-  
-
-  
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[12 September 2024]]></summary></entry><entry><title type="html">Whats New with ELB - Config Idle Timeout feature for NLB and GWLB</title><link href="/2024/09/05/Whats-new-with-ELB.html" rel="alternate" type="text/html" title="Whats New with ELB - Config Idle Timeout feature for NLB and GWLB" /><published>2024-09-05T11:30:00-07:00</published><updated>2024-09-05T11:30:00-07:00</updated><id>/2024/09/05/Whats-new-with-ELB</id><content type="html" xml:base="/2024/09/05/Whats-new-with-ELB.html"><![CDATA[<div class="content-area">
-  <span class="date">5 September 2024</span>
-
-  <h1>Whats New with ELB - Config Idle Timeout feature for NLB and GWLB</h1>
-
-  <p><b>Hosts:</b><br />Jamie</p>
-  <p><b>Guests:</b><br />Milind Kulkarni, Principal Product Manager EC2N <br /> Felipe de Silva, Principal Solutions Architect</p>
-  <div class="abstract">
-    <b>Abstract:</b><br />Join Milind and Felipe to learn more about the new feature just launched on 9/4/2024 Configurable Idle Timeout on Network Load Balancer and Gateway Load Balancer. We will discuss why this is important, where this is useful and how to configure it in the console and API. We will also discuss some caveats with the service.
-  </div>
-
-  
-  
-     
-    <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video=2243485840&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
-  
-
-  
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[5 September 2024]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[19 September 2024]]></summary></entry></feed>

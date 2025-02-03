@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "re:Invent 2024 - Chalk Talks - Simplify secure communication: A guide to mutual TLS on AWS ",
+      "hosts"    : "Jamie Wenzel, Tom Adamski",
+      "url"      : "/2025/02/12/riv2024_mtls.html",
+      "date"     : "12 Feb 2025",
+      "abstract" : "Mutual TLS (mTLS) is a widely used technique for authenticating and encrypting communication between clients and servers on AWS. This mechanism is valuable for securing both internet-bound and in-VPC traffic. In this chalk talk, learn how to use mTLS across various AWS services, such as Elastic Load Balancer, Amazon API Gateway, and Amazon VPC Lattice. Explore use cases, benefits, and implementation strategies to secure APIs with reliable authentication and protect sensitive data during transit with encryption. Learn how to utilize mTLS to enhance the security posture of your AWS applications."
+    } ,
+  
+    {
+      "title"    : "re:Invent 2024 AWS Networking recap",
+      "hosts"    : "Alexandra Huides, Matt Lehwess, Tom Adamski",
+      "url"      : "/2025/02/05/riv2024_recap.html",
+      "date"     : "05 Feb 2025",
+      "abstract" : "We will recap all re:Invent 2024 networking and content delivery launches, from IPv6 and VPC IPAM features, to VPC Lattice support for TCP Resources, cross-Region support for AWS PrivateLink endpoints, and Amazon CloudFront support for anycast IPs and private VPC Origins."
+    } ,
+  
+    {
       "title"    : "New Launch - VPC Lattice and ECS!",
       "hosts"    : "Alex",
       "url"      : "/2024/11/21/VPC-Lattice-And-ECS.html",
