@@ -1,0 +1,38 @@
+---
+layout: default
+title:  "re:Invent 2024 - Chalk Talks - Monitoring and troubleshooting your cloud network on AWS  "
+videoid: 
+date:   2025-03-26 11:00:00 -0800
+abstract: "In the cloud, make failure your friend. When network issues arise on and off the cloud, having the right diagnostic tools is crucial for quick resolution. In this interactive session, discover how to proactively monitor and swiftly troubleshoot cloud and hybrid networks on AWS. Learn to leverage services like Amazon CloudWatch Network Monitor, Amazon CloudWatch Internet Monitor, Infrastructure Performance, VPC Reachability Analyzer, and VPC Flow Logs to gain deep visibility, identify impairments, and resolve problems efficiently. Walk away empowered to maintain a bird's eye view and optimize your cloud network's reliability, performance, and cost-effectiveness."
+hosts: "Matt Lehwess"
+guests: "Nicola Arnoldi, Principal Solutions Architect <br> Victor Babasanmi, Sr. Specialist SA, Networking"
+---
+<div class="content-area">
+  <span class="date">{{ page.date | date: "%-d %B %Y" }}</span>
+
+  <h1>{{ page.title }}</h1>
+
+  <p><b>Hosts:</b><br>{{ page.hosts }}</p>
+  <p><b>Guests:</b><br>{{ page.guests }}</p>
+  <div class="abstract">
+    <b>Abstract:</b><br>{{ page.abstract }}
+  </div>
+
+  {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+  {% capture posttime %}{{page.date | date: '%s'}}{% endcapture %}
+  {% if posttime < nowunix %}   
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?video={{ page.videoid }}&parent=www.theroutingloop.net&parent=127.0.0.1&autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+  {% else %}
+    <p>Session hasn't started. Join live on <b>{{ page.date | date: "%-d %B %Y" }} at 11 AM PT / 2 PM ET / 7 PM UK</b></p>
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?channel=aws&parent=www.theroutingloop.net&parent=127.0.0.1&autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+  {% endif %}
+
+  {% if page.videoid == null %}
+    <b>Video on demand will become available soon after the livestream</b>
+  {% endif %}
+</div>

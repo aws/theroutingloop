@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "re:Invent 2024 - Chalk Talks - Monitoring and troubleshooting your cloud network on AWS  ",
+      "hosts"    : "Matt Lehwess",
+      "url"      : "/2025/03/26/observability.html",
+      "date"     : "26 Mar 2025",
+      "abstract" : "In the cloud, make failure your friend. When network issues arise on and off the cloud, having the right diagnostic tools is crucial for quick resolution. In this interactive session, discover how to proactively monitor and swiftly troubleshoot cloud and hybrid networks on AWS. Learn to leverage services like Amazon CloudWatch Network Monitor, Amazon CloudWatch Internet Monitor, Infrastructure Performance, VPC Reachability Analyzer, and VPC Flow Logs to gain deep visibility, identify impairments, and resolve problems efficiently. Walk away empowered to maintain a bird&#39;s eye view and optimize your cloud network&#39;s reliability, performance, and cost-effectiveness."
+    } ,
+  
+    {
+      "title"    : "re:Invent 2024 - Chalk Talks - Secure connectivity patterns from your AWS network to external parties ",
+      "hosts"    : "Sidhartha Chauhan",
+      "url"      : "/2025/03/19/sec_connectivity.html",
+      "date"     : "19 Mar 2025",
+      "abstract" : "Your cloud network is more connected than ever before. You may face requirements to privately and securely consume services from external parties, while also needing to expose access to your own services with similar requirements. In this chalk talk, explore the common patterns and services that allow you to meet your requirements at cloud scale. Learn how to explore considerations of traffic inspection when architecting connectivity to external parties, using services like AWS Transit Gateway, AWS Cloud WAN, and more."
+    } ,
+  
+    {
       "title"    : "re:Invent 2024 - Chalk Talks - Centralized network traffic inspection: Key insights & lessons learned",
       "hosts"    : "Jamie Wenzel",
       "url"      : "/2025/03/12/inspection.html",
