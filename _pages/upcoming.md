@@ -50,14 +50,16 @@ permalink: /upcoming/
 </style>
 
 <ul class="post-list">
-  {% for post in site.posts %}
-    {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
-    {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
+  {% assign future_posts = site.posts | sort: "date" %}
+  {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+
+  {% for post in future_posts %}
+    {% capture posttime %}{{ post.date | date: '%s' }}{% endcapture %}
     {% if posttime > nowunix %}
       <li class="post-item">
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
         <span class="post-date">{{ post.date | date: "%-d %B %Y" }}</span>
-        Host(s): {{ post.hosts}}
+        Host(s): {{ post.hosts }}
       </li>
     {% endif %}
   {% endfor %}

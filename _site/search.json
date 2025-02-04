@@ -1,19 +1,51 @@
 [
   
     {
-      "title"    : "re:Invent 2024 - Chalk Talks - How to integrate Amazon VPC Lattice into your existing environment This field is configured so only Editors and up can edit it ",
+      "title"    : "re:Invent 2024 - Chalk Talks - Monitoring and troubleshooting your cloud network on AWS  ",
+      "hosts"    : "Matt Lehwess",
+      "url"      : "/2025/03/26/observability.html",
+      "date"     : "26 Mar 2025",
+      "abstract" : "In the cloud, make failure your friend. When network issues arise on and off the cloud, having the right diagnostic tools is crucial for quick resolution. In this interactive session, discover how to proactively monitor and swiftly troubleshoot cloud and hybrid networks on AWS. Learn to leverage services like Amazon CloudWatch Network Monitor, Amazon CloudWatch Internet Monitor, Infrastructure Performance, VPC Reachability Analyzer, and VPC Flow Logs to gain deep visibility, identify impairments, and resolve problems efficiently. Walk away empowered to maintain a bird&#39;s eye view and optimize your cloud network&#39;s reliability, performance, and cost-effectiveness."
+    } ,
+  
+    {
+      "title"    : "re:Invent 2024 - Chalk Talks - Secure connectivity patterns from your AWS network to external parties ",
+      "hosts"    : "Sidhartha Chauhan",
+      "url"      : "/2025/03/19/sec_connectivity.html",
+      "date"     : "19 Mar 2025",
+      "abstract" : "Your cloud network is more connected than ever before. You may face requirements to privately and securely consume services from external parties, while also needing to expose access to your own services with similar requirements. In this chalk talk, explore the common patterns and services that allow you to meet your requirements at cloud scale. Learn how to explore considerations of traffic inspection when architecting connectivity to external parties, using services like AWS Transit Gateway, AWS Cloud WAN, and more."
+    } ,
+  
+    {
+      "title"    : "re:Invent 2024 - Chalk Talks - Centralized network traffic inspection: Key insights & lessons learned",
       "hosts"    : "Jamie Wenzel",
-      "url"      : "/2025/02/19/lattice.html",
-      "date"     : "19 Feb 2025",
-      "abstract" : " Amazon VPC Lattice offers powerful features to enhance network security, simplify routing, and streamline load balancing for your backend applications. However, changing your network design can be a daunting and time-consuming task. In this engaging chalk talk, explore architectural best practices, strategies, and proven techniques to seamlessly integrate VPC Lattice into your existing environment, enhancing your security posture and simplifying connectivity."
+      "url"      : "/2025/03/12/inspection.html",
+      "date"     : "12 Mar 2025",
+      "abstract" : "Centralized network traffic inspection using AWS Transit Gateway or AWS Cloud WAN and AWS Network Firewall or Gateway Load Balancer is a common architecture adopted by many customers. This architecture has many benefits both in terms of operations and cost efficiencies. In this chalk talk, explore the advantages of centralized inspection and learn valuable lessons from AWS experiences working with customers to plan and execute this architecture successfully."
+    } ,
+  
+    {
+      "title"    : "re:Invent 2024 - Chalk Talks - A guide to networking with AWS Cloud WAN ",
+      "hosts"    : "Alexandra Huides",
+      "url"      : "/2025/03/05/cloud_wan.html",
+      "date"     : "05 Mar 2025",
+      "abstract" : "Embark on an adventure through the vast AWS Cloud WAN universe! From single-region greenfield explorations to multi-region global conquests, explore network segmentation, service insertion, AWS Direct Connect, and SD-WAN integration with Tuneless Connect. Discover the ultimate question: AWS Transit Gateway or AWS Cloud WAN? Packed with real-world case studies and insights from seasoned experts, this mind-bending yet engaging session delivers a healthy dose of humor and networking puns. Don&#39;t panic, just network like a pro as we guide you through the dos and don&#39;ts of these powerful AWS services. Get ready for an out-of-this-world networking experience!"
     } ,
   
     {
       "title"    : "re:Invent 2024 - Chalk Talks - Bringing your own networking to AWS ",
-      "hosts"    : "Jamie Wenzel, Tom Adamski",
-      "url"      : "/2025/02/12/byo_network.html",
-      "date"     : "12 Feb 2025",
+      "hosts"    : "Jamie Wenzel",
+      "url"      : "/2025/02/26/byo_network.html",
+      "date"     : "26 Feb 2025",
       "abstract" : "We bring the ASN, IPv4, and IPv6 prefixes, you bring your questions! This chalk talk demonstrates the full process of bringing your IP resources to AWS, advertising them to the world, and allocating them to AWS services using Amazon VPC IP Address Manager (IPAM). Walk away with a clearer understanding of the steps required to efficiently use your own address space for your workloads."
+    } ,
+  
+    {
+      "title"    : "re:Invent 2024 - Chalk Talks - How to integrate Amazon VPC Lattice into your existing environment This field is configured so only Editors and up can edit it ",
+      "hosts"    : "Jamie Wenzel, Matt Lehwess",
+      "url"      : "/2025/02/19/lattice.html",
+      "date"     : "19 Feb 2025",
+      "abstract" : " Amazon VPC Lattice offers powerful features to enhance network security, simplify routing, and streamline load balancing for your backend applications. However, changing your network design can be a daunting and time-consuming task. In this engaging chalk talk, explore architectural best practices, strategies, and proven techniques to seamlessly integrate VPC Lattice into your existing environment, enhancing your security posture and simplifying connectivity."
     } ,
   
     {
