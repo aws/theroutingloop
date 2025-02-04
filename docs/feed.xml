@@ -1,4 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-02-03T15:30:18-08:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">re:Invent 2024 - Chalk Talks - Bringing your own networking to AWS</title><link href="/2025/02/26/byo_network.html" rel="alternate" type="text/html" title="re:Invent 2024 - Chalk Talks - Bringing your own networking to AWS" /><published>2025-02-26T11:00:00-08:00</published><updated>2025-02-26T11:00:00-08:00</updated><id>/2025/02/26/byo_network</id><content type="html" xml:base="/2025/02/26/byo_network.html"><![CDATA[<div class="content-area">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-02-03T16:00:58-08:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">re:Invent 2024 - Chalk Talks - Centralized network traffic inspection: Key insights &amp;amp; lessons learned</title><link href="/2025/03/12/inspection.html" rel="alternate" type="text/html" title="re:Invent 2024 - Chalk Talks - Centralized network traffic inspection: Key insights &amp;amp; lessons learned" /><published>2025-03-12T12:00:00-07:00</published><updated>2025-03-12T12:00:00-07:00</updated><id>/2025/03/12/inspection</id><content type="html" xml:base="/2025/03/12/inspection.html"><![CDATA[<div class="content-area">
+  <span class="date">12 March 2025</span>
+
+  <h1>re:Invent 2024 - Chalk Talks - Centralized network traffic inspection: Key insights &amp; lessons learned</h1>
+
+  <p><b>Hosts:</b><br />Jamie Wenzel</p>
+  <p><b>Guests:</b><br />Joe Flanagan, Senior Solutions Architect, Networking <br /> Mehdi Dahane, Solutions Architect, Networking</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />Centralized network traffic inspection using AWS Transit Gateway or AWS Cloud WAN and AWS Network Firewall or Gateway Load Balancer is a common architecture adopted by many customers. This architecture has many benefits both in terms of operations and cost efficiencies. In this chalk talk, explore the advantages of centralized inspection and learn valuable lessons from AWS experiences working with customers to plan and execute this architecture successfully.
+  </div>
+
+  
+  
+  
+    <p>Session hasn't started. Join live on <b>12 March 2025 at 11 AM PT / 2 PM ET / 7 PM UK</b></p>
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+  
+
+  
+    <b>Video on demand will become available soon after the livestream</b>
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[12 March 2025]]></summary></entry><entry><title type="html">re:Invent 2024 - Chalk Talks - A guide to networking with AWS Cloud WAN</title><link href="/2025/03/05/cloud_wan.html" rel="alternate" type="text/html" title="re:Invent 2024 - Chalk Talks - A guide to networking with AWS Cloud WAN" /><published>2025-03-05T11:00:00-08:00</published><updated>2025-03-05T11:00:00-08:00</updated><id>/2025/03/05/cloud_wan</id><content type="html" xml:base="/2025/03/05/cloud_wan.html"><![CDATA[<div class="content-area">
+  <span class="date">5 March 2025</span>
+
+  <h1>re:Invent 2024 - Chalk Talks - A guide to networking with AWS Cloud WAN </h1>
+
+  <p><b>Hosts:</b><br />Alexandra Huides</p>
+  <p><b>Guests:</b><br />Fiona Armada, Principal Solutions Architect <br /> Shridhar Kulkarni, Principal Product Manager, Cloud WAN</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />Embark on an adventure through the vast AWS Cloud WAN universe! From single-region greenfield explorations to multi-region global conquests, explore network segmentation, service insertion, AWS Direct Connect, and SD-WAN integration with Tuneless Connect. Discover the ultimate question: AWS Transit Gateway or AWS Cloud WAN? Packed with real-world case studies and insights from seasoned experts, this mind-bending yet engaging session delivers a healthy dose of humor and networking puns. Don't panic, just network like a pro as we guide you through the dos and don'ts of these powerful AWS services. Get ready for an out-of-this-world networking experience!
+  </div>
+
+  
+  
+  
+    <p>Session hasn't started. Join live on <b>5 March 2025 at 11 AM PT / 2 PM ET / 7 PM UK</b></p>
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+  
+
+  
+    <b>Video on demand will become available soon after the livestream</b>
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[5 March 2025]]></summary></entry><entry><title type="html">re:Invent 2024 - Chalk Talks - Bringing your own networking to AWS</title><link href="/2025/02/26/byo_network.html" rel="alternate" type="text/html" title="re:Invent 2024 - Chalk Talks - Bringing your own networking to AWS" /><published>2025-02-26T11:00:00-08:00</published><updated>2025-02-26T11:00:00-08:00</updated><id>/2025/02/26/byo_network</id><content type="html" xml:base="/2025/02/26/byo_network.html"><![CDATA[<div class="content-area">
   <span class="date">26 February 2025</span>
 
   <h1>re:Invent 2024 - Chalk Talks - Bringing your own networking to AWS </h1>
@@ -174,46 +220,4 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[31 October 2024]]></summary></entry><entry><title type="html">How to migrate to Amazon VPC Lattice and use DNS to simplify service discovery</title><link href="/2024/10/17/lattice_dns.html" rel="alternate" type="text/html" title="How to migrate to Amazon VPC Lattice and use DNS to simplify service discovery" /><published>2024-10-17T11:30:00-07:00</published><updated>2024-10-17T11:30:00-07:00</updated><id>/2024/10/17/lattice_dns</id><content type="html" xml:base="/2024/10/17/lattice_dns.html"><![CDATA[<div class="content-area">
-  <span class="date">17 October 2024</span>
-
-  <h1>How to migrate to Amazon VPC Lattice and use DNS to simplify service discovery</h1>
-
-  <p><b>Hosts:</b><br />Alexandra Huides</p>
-  <p><b>Guests:</b><br />Pablo Sánchez Carmona, Sr. Solutions Architect, Networking <br /> Scott Morrison, Sr. Solutions Architect, Networking <br /> Maialen Loinaz Anton, Solutions Architect </p>
-  <div class="abstract">
-    <b>Abstract:</b><br />This session is an in-depth exploration of migrating to Amazon VPC Lattice. We will whiteboard DNS migration options, do a live demo of a new automated DNS configuration solution for VPC Lattice, and answer questions. The goal is to help you understand how you can leverage VPC Lattice to simplify service discovery and ease the migration process for clients and applications.
-  </div>
-
-  
-  
-     
-    <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video=2278517883&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
-  
-
-  
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[17 October 2024]]></summary></entry><entry><title type="html">Automating Networking Monitoring and Alerting on AWS, and the AWS Solutions Library</title><link href="/2024/10/10/Automating-network-monitoring.html" rel="alternate" type="text/html" title="Automating Networking Monitoring and Alerting on AWS, and the AWS Solutions Library" /><published>2024-10-10T11:30:00-07:00</published><updated>2024-10-10T11:30:00-07:00</updated><id>/2024/10/10/Automating-network-monitoring</id><content type="html" xml:base="/2024/10/10/Automating-network-monitoring.html"><![CDATA[<div class="content-area">
-  <span class="date">10 October 2024</span>
-
-  <h1>Automating Networking Monitoring and Alerting on AWS, and the AWS Solutions Library</h1>
-
-  <p><b>Hosts:</b><br />Jamie and Matt</p>
-  <p><b>Guests:</b><br />Luis Guirigay - Head, Solutions, AWS Solutions Library, AWS <br /> Daniel Zilberman - Sr SA, AWS Solutions Library, AWS <br /> Zoran Pucar - Principal TAM, AWS</p>
-  <div class="abstract">
-    <b>Abstract:</b><br />In this session, we'll dive into guidance for Automating Network Monitoring and Alerting on AWS, a must have for any network focused cloud engineer. We'll also take some time to dive into the AWS Solutions Library, and other solutions that are on offer. Bring your questions!
-  </div>
-
-  
-  
-     
-    <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video=2272612595&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
-  
-
-  
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[10 October 2024]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[31 October 2024]]></summary></entry></feed>
