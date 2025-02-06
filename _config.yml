@@ -14,3 +14,5 @@ exclude:
   - .sass-cache
 
 future: true
+
+google_analytics: G-2K7T1C764L
