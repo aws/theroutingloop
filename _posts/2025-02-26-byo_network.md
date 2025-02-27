@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "re:Invent 2024 - Chalk Talks - Bringing your own networking to AWS "
-videoid: 
+videoid: 2cmb3wTAR6s
 date:   2025-02-26 11:00:00 -0800
 abstract: "We bring the ASN, IPv4, and IPv6 prefixes, you bring your questions! This chalk talk demonstrates the full process of bringing your IP resources to AWS, advertising them to the world, and allocating them to AWS services using Amazon VPC IP Address Manager (IPAM). Walk away with a clearer understanding of the steps required to efficiently use your own address space for your workloads."
 hosts: "Jamie Wenzel"
@@ -48,7 +48,13 @@ END:VCALENDAR
   {% capture posttime %}{{page.date | date: '%s'}}{% endcapture %}
   {% if posttime < nowunix %}   
     <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video={{ page.videoid }}&parent=www.theroutingloop.net&parent=127.0.0.1&autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+      <iframe 
+        src="https://www.youtube.com/embed/{{ page.videoid }}?autoplay=0" 
+        height="315" 
+        width="560" 
+        allowfullscreen 
+        frameborder="0">
+    </iframe>
     </div>
     <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
   {% else %}
