@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "re:Invent 2024 - Chalk Talks - Secure connectivity patterns from your AWS network to external parties "
-videoid: 
+videoid: kf5kf1TJv2A
 date:   2025-03-12 11:00:00 -0800
 abstract: "Your cloud network is more connected than ever before. You may face requirements to privately and securely consume services from external parties, while also needing to expose access to your own services with similar requirements. In this chalk talk, explore the common patterns and services that allow you to meet your requirements at cloud scale. Learn how to explore considerations of traffic inspection when architecting connectivity to external parties, using services like AWS Transit Gateway, AWS Cloud WAN, and more."
 hosts: "Tom Adamski"
