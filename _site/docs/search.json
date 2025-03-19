@@ -9,19 +9,19 @@
     } ,
   
     {
-      "title"    : "re:Invent 2024 - Chalk Talks - Secure connectivity patterns from your AWS network to external parties ",
+      "title"    : "re:Invent 2024 - Chalk Talks - Centralized network traffic inspection: Key insights & lessons learned",
       "hosts"    : "Sidhartha Chauhan",
-      "url"      : "/2025/03/19/sec_connectivity.html",
+      "url"      : "/2025/03/19/inspection.html",
       "date"     : "19 Mar 2025",
-      "abstract" : "Your cloud network is more connected than ever before. You may face requirements to privately and securely consume services from external parties, while also needing to expose access to your own services with similar requirements. In this chalk talk, explore the common patterns and services that allow you to meet your requirements at cloud scale. Learn how to explore considerations of traffic inspection when architecting connectivity to external parties, using services like AWS Transit Gateway, AWS Cloud WAN, and more."
+      "abstract" : "Centralized network traffic inspection using AWS Transit Gateway or AWS Cloud WAN and AWS Network Firewall or Gateway Load Balancer is a common architecture adopted by many customers. This architecture has many benefits both in terms of operations and cost efficiencies. In this chalk talk, explore the advantages of centralized inspection and learn valuable lessons from AWS experiences working with customers to plan and execute this architecture successfully."
     } ,
   
     {
-      "title"    : "re:Invent 2024 - Chalk Talks - Centralized network traffic inspection: Key insights & lessons learned",
-      "hosts"    : "Jamie Wenzel",
-      "url"      : "/2025/03/12/inspection.html",
+      "title"    : "re:Invent 2024 - Chalk Talks - Secure connectivity patterns from your AWS network to external parties ",
+      "hosts"    : "Tom Adamski",
+      "url"      : "/2025/03/12/sec_connectivity.html",
       "date"     : "12 Mar 2025",
-      "abstract" : "Centralized network traffic inspection using AWS Transit Gateway or AWS Cloud WAN and AWS Network Firewall or Gateway Load Balancer is a common architecture adopted by many customers. This architecture has many benefits both in terms of operations and cost efficiencies. In this chalk talk, explore the advantages of centralized inspection and learn valuable lessons from AWS experiences working with customers to plan and execute this architecture successfully."
+      "abstract" : "Your cloud network is more connected than ever before. You may face requirements to privately and securely consume services from external parties, while also needing to expose access to your own services with similar requirements. In this chalk talk, explore the common patterns and services that allow you to meet your requirements at cloud scale. Learn how to explore considerations of traffic inspection when architecting connectivity to external parties, using services like AWS Transit Gateway, AWS Cloud WAN, and more."
     } ,
   
     {

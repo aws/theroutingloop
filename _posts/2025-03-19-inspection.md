@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "re:Invent 2024 - Chalk Talks - Centralized network traffic inspection: Key insights & lessons learned"
-videoid: 
+videoid: 3tXQUZ-_ASs
 date:   2025-03-19 11:00:00 -0800
 abstract: "Centralized network traffic inspection using AWS Transit Gateway or AWS Cloud WAN and AWS Network Firewall or Gateway Load Balancer is a common architecture adopted by many customers. This architecture has many benefits both in terms of operations and cost efficiencies. In this chalk talk, explore the advantages of centralized inspection and learn valuable lessons from AWS experiences working with customers to plan and execute this architecture successfully."
 hosts: "Sidhartha Chauhan"
