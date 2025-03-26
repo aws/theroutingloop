@@ -1,11 +1,11 @@
 ---
 layout: default
-title:  "re:Invent 2024 - Chalk Talks - Monitoring and troubleshooting your cloud network on AWS  "
-videoid: t0Lj51HVusI
-date:   2025-03-26 11:00:00 -0800
-abstract: "In the cloud, make failure your friend. When network issues arise on and off the cloud, having the right diagnostic tools is crucial for quick resolution. In this interactive session, discover how to proactively monitor and swiftly troubleshoot cloud and hybrid networks on AWS. Learn to leverage services like Amazon CloudWatch Network Monitor, Amazon CloudWatch Internet Monitor, Infrastructure Performance, VPC Reachability Analyzer, and VPC Flow Logs to gain deep visibility, identify impairments, and resolve problems efficiently. Walk away empowered to maintain a bird's eye view and optimize your cloud network's reliability, performance, and cost-effectiveness."
-hosts: "Matt Lehwess"
-guests: "Nicola Arnoldi, Principal Solutions Architect <br> Victor Babasanmi, Sr. Specialist SA, Networking"
+title:  "App Networking - Intro to Amazon VPC Lattice"
+videoid: 
+date:   2025-04-02 11:00:00 -0800
+abstract: "In this foundational session, you’ll go from zero to dangerous with Amazon VPC Lattice by learning how to register services and resources, associate them with service networks, and expose them through service network endpoints. We'll cover the core building blocks, different consumption patterns, and how to enforce fine-grained access policies across services. By the end, you'll have a solid grasp of when and how to use each component to simplify service-to-service communication across your AWS environment."
+hosts: "Matt Lehwess, Tom Adamski"
+guests: ""
 ---
 
 {% assign event_date = page.date | date: "%Y%m%d" %}
