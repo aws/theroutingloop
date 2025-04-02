@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "App Networking - Intro to Amazon VPC Lattice"
-videoid: 
+videoid: HrPdZru_XQc
 date:   2025-04-02 11:00:00 -0800
 abstract: "In this foundational session, you’ll go from zero to dangerous with Amazon VPC Lattice by learning how to register services and resources, associate them with service networks, and expose them through service network endpoints. We'll cover the core building blocks, different consumption patterns, and how to enforce fine-grained access policies across services. By the end, you'll have a solid grasp of when and how to use each component to simplify service-to-service communication across your AWS environment."
 hosts: "Matt Lehwess, Tom Adamski"
