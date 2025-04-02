@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "App Networking -  Interactive VPC Lattice use-cases deep dive",
+      "hosts"    : "Jamie Wenzel, Tom Adamski",
+      "url"      : "/2025/04/09/lattice_use_cases.html",
+      "date"     : "09 Apr 2025",
+      "abstract" : "In today’s episode, we’re diving deeper into the world of VPC Lattice—uncovering the powerful use cases it was built to solve. We’ll kick things off with the most accessible designs that anyone can adopt quickly, and then journey into the more advanced terrain—where Lattice truly shines. From streamlining communication and enhancing visibility, to fortifying security, boosting scalability, and simplifying management—get ready to see how VPC Lattice can transform even the most complex infrastructure challenges. "
+    } ,
+  
+    {
+      "title"    : "App Networking - Intro to Amazon VPC Lattice",
+      "hosts"    : "Matt Lehwess, Tom Adamski",
+      "url"      : "/2025/04/02/lattice_intro.html",
+      "date"     : "02 Apr 2025",
+      "abstract" : "In this foundational session, you’ll go from zero to dangerous with Amazon VPC Lattice by learning how to register services and resources, associate them with service networks, and expose them through service network endpoints. We&#39;ll cover the core building blocks, different consumption patterns, and how to enforce fine-grained access policies across services. By the end, you&#39;ll have a solid grasp of when and how to use each component to simplify service-to-service communication across your AWS environment."
+    } ,
+  
+    {
       "title"    : "re:Invent 2024 - Chalk Talks - Monitoring and troubleshooting your cloud network on AWS  ",
       "hosts"    : "Matt Lehwess",
       "url"      : "/2025/03/26/observability.html",

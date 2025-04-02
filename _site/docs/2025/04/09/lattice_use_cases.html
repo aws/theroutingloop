@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
+  <meta name="description" content="Weekly AWS Networking Twitch Show" />
+  <meta name="author" content="" />
+  <meta property="og:title" content="App Networking -  Interactive VPC Lattice use-cases deep dive" />
+  <meta property="og:description" content="In today’s episode, we’re diving deeper into the world of VPC Lattice—uncovering the powerful use cases it was built to solve. We’ll kick things off with the most accessible designs that anyone can adopt quickly, and then journey into the more advanced terrain—where Lattice truly shines. From streamlining communication and enhancing visibility, to fortifying security, boosting scalability, and simplifying management—get ready to see how VPC Lattice can transform even the most complex infrastructure challenges. " />
+  <meta property="og:image" content="https://www.theroutingloop.net/assets/image/link_background.jpg" />
+  <meta property="og:site_name" content="The Routing Loop" />
+
+  <title>The Routing Loop</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="/assets/css/main.css" rel="stylesheet" />
+
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2K7T1C764L"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-2K7T1C764L');
+</script>
+
+
+</head>
+
+
+<body>
+  <!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container">
+    <img src="/assets/image/520.AWS_AWS_logo_RGB_REV.png" alt="Logo" width=5% height="auto">
+    <button
+      class="navbar-toggler ml-auto"
+      type="button"
+      data-toggle="collapse"
+      data-target="#navbarResponsive"
+      aria-controls="navbarResponsive"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        
+        <li class="nav-item">
+          <a class="nav-link" href="/">Home</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="/past/">Previous episodes</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="/upcoming/">Upcoming episodes</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="/hosts/">Hosts</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="https://pulse.aws/survey/6ONETCNV">Feedback</a>
+        </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+ <!-- Header -->
+<header class="bg-primary py-5 mb-5" style="background-image: url('/assets/image/background.png');">
+  <div class="container h-100">
+    <div class="row h-100 align-items-center">
+      <div class="col-lg-12 text-center">
+        <h1 class="display-4 text-white mt-5 mb-2">
+          The Routing Loop
+        </h1>
+        <p class="lead mb-4 text-white-50">
+          <b>Wednesdays</b> 11 AM PT / 2 PM ET / 7 PM UK
+        </p>
+        <div class="d-flex justify-content-center">
+          <a href="https://www.twitch.tv/aws/" class="btn btn-light btn-lg mx-2" target="_blank">
+            <i class="fab fa-twitch"></i> Twitch
+          </a>
+          <a href="https://www.linkedin.com/company/amazon-web-services" class="btn btn-light btn-lg mx-2" target="_blank">
+            <i class="fab fa-linkedin"></i> LinkedIn
+          </a>
+          <a href="https://www.youtube.com/@AWSEventsChannel" class="btn btn-light btn-lg mx-2" target="_blank">
+            <i class="fab fa-youtube"></i> YouTube
+          </a>
+          <a href="https://www.facebook.com/amazonwebservices/ " class="btn btn-light btn-lg mx-2" target="_blank">
+            <i class="fab fa-youtube"></i> Facebook
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+  <!-- Page Content -->
+  <div class="container mb-5">
+    
+<div class="content-area">
+  <span class="date">9 April 2025</span>
+
+  <h1>App Networking -  Interactive VPC Lattice use-cases deep dive</h1>
+
+  <p><b>Hosts:</b><br />Jamie Wenzel, Tom Adamski</p>
+  <p><b>Guests:</b><br /></p>
+  <p>
+    📅 <a href="data:text/calendar;charset=utf8,%0ABEGIN:VCALENDAR%0AVERSION:2.0%0APRODID:-//Your%20Website//Event%20Calendar//EN%0ABEGIN:VEVENT%0AUID:App-Networking----Interactive-VPC-Lattice-use-cases-deep-dive@yourwebsite.com%0ADTSTAMP:20250328T084901Z%0ADTSTART;TZID=America/Los_Angeles:20250409T110000%0ADTEND;TZID=America/Los_Angeles:20250409T120000%0ASUMMARY:App%20Networking%20-%20%20Interactive%20VPC%20Lattice%20use-cases%20deep%20dive%0ADESCRIPTION:In%20today%E2%80%99s%20episode,%20we%E2%80%99re%20diving%20deeper%20into%20the%20world%20of%20VPC%20Lattice%E2%80%94uncovering%20the%20powerful%20use%20cases%20it%20was%20built%20to%20solve.%20We%E2%80%99ll%20kick%20things%20off%20with%20the%20most%20accessible%20designs%20that%20anyone%20can%20adopt%20quickly,%20and%20then%20journey%20into%20the%20more%20advanced%20terrain%E2%80%94where%20Lattice%20truly%20shines.%20From%20streamlining%20communication%20and%20enhancing%20visibility,%20to%20fortifying%20security,%20boosting%20scalability,%20and%20simplifying%20management%E2%80%94get%20ready%20to%20see%20how%20VPC%20Lattice%20can%20transform%20even%20the%20most%20complex%20infrastructure%20challenges.%20%0ALOCATION:Online%0AEND:VEVENT%0AEND:VCALENDAR%0A" download="app-networking----interactive-vpc-lattice-use-cases-deep-dive.ics">
+          Add to Calendar
+       </a>
+  </p>
+  <div class="abstract">
+    <b>Abstract:</b><br />In today’s episode, we’re diving deeper into the world of VPC Lattice—uncovering the powerful use cases it was built to solve. We’ll kick things off with the most accessible designs that anyone can adopt quickly, and then journey into the more advanced terrain—where Lattice truly shines. From streamlining communication and enhancing visibility, to fortifying security, boosting scalability, and simplifying management—get ready to see how VPC Lattice can transform even the most complex infrastructure challenges. 
+  </div>
+
+  
+  
+  
+    <p>Session hasn't started. Join live on <b>9 April 2025 at 11 AM PT / 2 PM ET / 7 PM UK</b></p>
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+  
+
+  
+    <b>Video on demand will become available soon after the livestream</b>
+  
+</div>
+
+  </div>
+  <!-- /.container -->
+  <!-- Footer -->
+<footer class="py-5 bg-dark">
+  <div class="container">
+    <p class="m-0 text-center text-white">
+      Copyright &copy; 2025 Amazon Web Services, Inc. or its affiliates. All rights reserved
+    </p>
+  </div>
+  <!-- /.container -->
+</footer>
+
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="/assets/vendor/jquery/jquery.min.js"></script>
+  <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
