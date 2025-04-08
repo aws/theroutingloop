@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "App Networking - Amazon VPC Lattice Demo ",
+      "hosts"    : "Jamie Wenzel, Alexandra Huides",
+      "url"      : "/2025/04/16/lattice_demo.html",
+      "date"     : "16 Apr 2025",
+      "abstract" : "In today&#39;s episode, we start with setting up Amazon VPC Lattice and demo all new functionalities, including support for TCP Resources and Service Network Endpoints, in an all hands on session!"
+    } ,
+  
+    {
       "title"    : "App Networking -  Interactive VPC Lattice use-cases deep dive",
       "hosts"    : "Jamie Wenzel, Tom Adamski",
       "url"      : "/2025/04/09/lattice_use_cases.html",
