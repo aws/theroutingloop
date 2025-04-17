@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "App Networking - Amazon VPC Lattice Demo "
-videoid: 
+videoid: 5QddEQdL96o
 date:   2025-04-16 11:00:00 -0800
 abstract: "In today's episode, we start with setting up Amazon VPC Lattice and demo all new functionalities, including support for TCP Resources and Service Network Endpoints, in an all hands on session!"
 hosts: "Jamie Wenzel, Alexandra Huides"
