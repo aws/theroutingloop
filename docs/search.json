@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Introduction to connectivity services ",
+      "hosts"    : "Matt Lehwess, Jamie Wenzel",
+      "url"      : "/2025/04/30/conn_intro.html",
+      "date"     : "30 Apr 2025",
+      "abstract" : "Are you curious about how your workloads, data centers, and customers actually connect across AWS? In this session we&#39;ll break down the core AWS connectivity services, from VPC peering to Transit Gateway, PrivateLink, and VPC Lattice, to name a few. Join us for a discussion where Matt and Jamie will walk through real-world use cases, where we will use the whiteboard to help explain key concepts and questions asked. Whether you&#39;re just getting started or looking to fine-tune your current design, bring your questions!"
+    } ,
+  
+    {
       "title"    : "App Networking - Understanding Interface and Resource Endpoints in AWS Networking ",
       "hosts"    : "Alexandra Huides, Tom Adamski",
       "url"      : "/2025/04/23/pl_and_rep.html",
