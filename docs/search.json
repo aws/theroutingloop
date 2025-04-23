@@ -10,7 +10,7 @@
   
     {
       "title"    : "App Networking - Understanding Interface and Resource Endpoints in AWS Networking ",
-      "hosts"    : "Alexandra Huides, Tom Adamski",
+      "hosts"    : "Jamie Wenzel, Tom Adamski",
       "url"      : "/2025/04/23/pl_and_rep.html",
       "date"     : "23 Apr 2025",
       "abstract" : "In this session, we’ll break down the differences between Interface Endpoints and Resource Endpoints, explore common patterns, and walk through practical examples. Expect whiteboarding, live walkthroughs, and real-talk about how these fit into modern application architectures."
