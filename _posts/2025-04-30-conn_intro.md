@@ -5,7 +5,7 @@ videoid: nNljV6eGnso
 date:   2025-04-30 11:00:00 -0800
 abstract: "Are you curious about how your workloads, data centers, and customers actually connect across AWS? In this session we'll break down the core AWS connectivity services, from VPC peering to Transit Gateway, PrivateLink, and VPC Lattice, to name a few. Join us for a discussion where Matt and Jamie will walk through real-world use cases, where we will use the whiteboard to help explain key concepts and questions asked. Whether you're just getting started or looking to fine-tune your current design, bring your questions!"
 hosts: "Matt Lehwess, Jamie Wenzel"
-guests: ""
+guests: "Jordan Rojas Garcia, Sr. Solutions Architect, Networking"
 ---
 
 {% assign event_date = page.date | date: "%Y%m%d" %}
