@@ -1,6 +1,38 @@
 [
   
     {
+      "title"    : "AWS TGW & Cloud WAN - Advanced Connectivity Architectures",
+      "hosts"    : "Tom Adamski, Alexandra Huides, Sidhartha Chauhan",
+      "url"      : "/2025/05/07/conn_advanced.html",
+      "date"     : "07 May 2025",
+      "abstract" : "Join us for an in-depth exploration of advanced cloud connectivity architectures focusing on Transit Gateway (TGW) and AWS Cloud WAN. This technical session will examine how these powerful networking services enable organizations to build scalable, secure, and simplified network architectures across multiple VPCs, on-premises locations, and AWS Regions. We&#39;ll discuss best practices for implementing hub-and-spoke topologies and demonstrate how to streamline network management through central policy controls. The session will delve into implementing centralized traffic inspection and security controls, followed by comprehensive coverage of real-world migration strategies from TGW to Cloud WAN. Attendees will learn key design considerations, common pitfalls to avoid, and strategies for optimizing network performance and costs. Whether you&#39;re managing an existing TGW deployment or planning a Cloud WAN migration, this session will provide practical insights for your cloud networking journey."
+    } ,
+  
+    {
+      "title"    : "Introduction to connectivity services ",
+      "hosts"    : "Matt Lehwess, Jamie Wenzel",
+      "url"      : "/2025/04/30/conn_intro.html",
+      "date"     : "30 Apr 2025",
+      "abstract" : "Are you curious about how your workloads, data centers, and customers actually connect across AWS? In this session we&#39;ll break down the core AWS connectivity services, from VPC peering to Transit Gateway, PrivateLink, and VPC Lattice, to name a few. Join us for a discussion where Matt and Jamie will walk through real-world use cases, where we will use the whiteboard to help explain key concepts and questions asked. Whether you&#39;re just getting started or looking to fine-tune your current design, bring your questions!"
+    } ,
+  
+    {
+      "title"    : "App Networking - Understanding Interface and Resource Endpoints in AWS Networking ",
+      "hosts"    : "Jamie Wenzel, Tom Adamski",
+      "url"      : "/2025/04/23/pl_and_rep.html",
+      "date"     : "23 Apr 2025",
+      "abstract" : "In this session, we’ll break down the differences between Interface Endpoints and Resource Endpoints, explore common patterns, and walk through practical examples. Expect whiteboarding, live walkthroughs, and real-talk about how these fit into modern application architectures."
+    } ,
+  
+    {
+      "title"    : "App Networking - Amazon VPC Lattice Demo ",
+      "hosts"    : "Jamie Wenzel, Alexandra Huides",
+      "url"      : "/2025/04/16/lattice_demo.html",
+      "date"     : "16 Apr 2025",
+      "abstract" : "In today&#39;s episode, we start with setting up Amazon VPC Lattice and demo all new functionalities, including support for TCP Resources and Service Network Endpoints, in an all hands on session!"
+    } ,
+  
+    {
       "title"    : "App Networking -  Interactive VPC Lattice use-cases deep dive",
       "hosts"    : "Jamie Wenzel, Tom Adamski",
       "url"      : "/2025/04/09/lattice_use_cases.html",

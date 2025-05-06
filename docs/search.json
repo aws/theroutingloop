@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "VPN & SD-WAN & Direct Connect (Hybrid)",
+      "hosts"    : "Jamie Wenzel",
+      "url"      : "/2025/05/21/conn_hybrid.html",
+      "date"     : "21 May 2025",
+      "abstract" : "Join us for an interactive deep die on building resilient hybrid networks. We will cover the ins and outs of Direct Connect, Site to Site VPN and how to configure an SDWAN using Transit Gateway Connect -- step by step. we&#39;ll discuss Direct Connect, Site to Site VPN, and provide a deep dive (including a demo) of integrating your favorite SDWAN vendor with AWS Cloud WAN Whether you&#39;re a cloud network pro, or just getting started, join us and bring your questions! This session is built for discussion and real time answers!"
+    } ,
+  
+    {
+      "title"    : "Secure Remote Access to Amazon VPC Resources with AWS Verified Access and Client VPN",
+      "hosts"    : "Alexandra Huides",
+      "url"      : "/2025/05/14/conn_remote.html",
+      "date"     : "14 May 2025",
+      "abstract" : "In this session, you’ll learn how to enable secure, private access to resources hosted in your Amazon VPC without the need for an internet gateway. We’ll cover two AWS services—AWS Verified Access and AWS Client VPN—and discuss how each can help you implement scalable and secure remote access architectures tailored to your organization’s needs."
+    } ,
+  
+    {
       "title"    : "AWS TGW & Cloud WAN - Advanced Connectivity Architectures",
       "hosts"    : "Tom Adamski, Alexandra Huides, Sidhartha Chauhan",
       "url"      : "/2025/05/07/conn_advanced.html",
