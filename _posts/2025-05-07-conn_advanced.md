@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "AWS TGW & Cloud WAN - Advanced Connectivity Architectures"
-videoid: 
+videoid: IJekrUP9SPM
 date:   2025-05-7 11:00:00 -0800
 abstract: "Join us for an in-depth exploration of advanced cloud connectivity architectures focusing on Transit Gateway (TGW) and AWS Cloud WAN. This technical session will examine how these powerful networking services enable organizations to build scalable, secure, and simplified network architectures across multiple VPCs, on-premises locations, and AWS Regions. We'll discuss best practices for implementing hub-and-spoke topologies and demonstrate how to streamline network management through central policy controls. The session will delve into implementing centralized traffic inspection and security controls, followed by comprehensive coverage of real-world migration strategies from TGW to Cloud WAN. Attendees will learn key design considerations, common pitfalls to avoid, and strategies for optimizing network performance and costs. Whether you're managing an existing TGW deployment or planning a Cloud WAN migration, this session will provide practical insights for your cloud networking journey."
 hosts: "Tom Adamski, Alexandra Huides, Sidhartha Chauhan"
