@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Secure Remote Access to Amazon VPC Resources with AWS Verified Access and Client VPN"
-videoid: 
+videoid: yXlpiIthvDU
 date:   2025-05-14 11:00:00 -0800
 abstract: "In this session, you’ll learn how to enable secure, private access to resources hosted in your Amazon VPC without the need for an internet gateway. We’ll cover two AWS services—AWS Verified Access and AWS Client VPN—and discuss how each can help you implement scalable and secure remote access architectures tailored to your organization’s needs."
 hosts: "Alexandra Huides"
