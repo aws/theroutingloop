@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Taking the Complexity Out of AWS Connectivity",
+      "hosts"    : "Tom Adamski",
+      "url"      : "/2025/05/28/guest_1111.html",
+      "date"     : "28 May 2025",
+      "abstract" : "This session explores how AWS and 11:11 Systems help enterprises move mission-critical, high-volume data into AWS easily and reliably. Leveraging 11:11’s managed connectivity for AWS Direct Connect, businesses gain SLA-backed, private cloud access with flexible bandwidth, integrated last-mile options, and full network visibility. The solution eliminates the complexity of managing hardware, carrier negotiations, or infrastructure, while streamlining deployment through the AWS Marketplace. Ideal for cloud architects, infrastructure teams, and network decision-makers managing data-intensive workloads that demand high performance and availability."
+    } ,
+  
+    {
       "title"    : "VPN & SD-WAN & Direct Connect (Hybrid)",
       "hosts"    : "Jamie Wenzel",
       "url"      : "/2025/05/21/conn_hybrid.html",
