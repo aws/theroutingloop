@@ -1,11 +1,11 @@
 ---
 layout: default
-title:  "Taking the Complexity Out of AWS Connectivity"
-videoid: UgyxLJf9dFk
-date:   2025-05-28 11:00:00 -0800
-abstract: "This session explores how AWS and 11:11 Systems help enterprises move mission-critical, high-volume data into AWS easily and reliably. Leveraging 11:11’s managed connectivity for AWS Direct Connect, businesses gain SLA-backed, private cloud access with flexible bandwidth, integrated last-mile options, and full network visibility. The solution eliminates the complexity of managing hardware, carrier negotiations, or infrastructure, while streamlining deployment through the AWS Marketplace. Ideal for cloud architects, infrastructure teams, and network decision-makers managing data-intensive workloads that demand high performance and availability."
-hosts: "Tom Adamski"
-guests: "Anthony Lobretto (11:11 Systems), SVP of Connectivity Services <br> Anthony Papaleo (11:11 Systems), Network Solutions Architect"
+title:  "Hybrid DNS with Route 53 Resolver: Setup & Whiteboard Live"
+videoid: 
+date:   2025-06-04 11:00:00 -0800
+abstract: "Join us for a hands-on session exploring Route 53 Resolver, inbound/outbound endpoints, and hybrid DNS patterns. We’ll walk through a live setup and whiteboard real-world scenarios to demystify common architectures. Whether you’re bridging AWS with on-prem or just getting started, this session will give you the tools to resolve DNS challenges with confidence."
+hosts: "Matt Lehwess, Tom Adamski"
+guests: ""
 ---
 
 {% assign event_date = page.date | date: "%Y%m%d" %}
