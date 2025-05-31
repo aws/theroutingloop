@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "AWS Application Load Balancer - Routing Algorithms and Health Checking"
-videoid: 2213200773
+videoid: oRz4Ln1zOLg
 date:   2024-08-01 10:30:00 -0800
 abstract: "In this session, we'll explore the routing algorithms of AWS Application Load Balancer, including round robin, least outstanding request, and weighted random, to efficiently manage and distribute traffic. We'll also cover the configuration and importance of health checking to ensure that only healthy instances receive traffic. "
 hosts: "Alex Huides, Tom Adamski"
@@ -22,7 +22,13 @@ guests: ""
   {% capture posttime %}{{page.date | date: '%s'}}{% endcapture %}
   {% if posttime < nowunix %}   
     <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video={{ page.videoid }}&parent=www.theroutingloop.net&parent=127.0.0.1&autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+      <iframe 
+        src="https://www.youtube.com/embed/{{ page.videoid }}?autoplay=0" 
+        height="315" 
+        width="560" 
+        allowfullscreen 
+        frameborder="0">
+    </iframe>
     </div>
     <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
   {% else %}

@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Whats New with ELB - Config Idle Timeout feature for NLB and GWLB"
-videoid: 2243485840
+videoid: WjUBIguog-I
 date:   2024-09-05 10:30:00 -0800
 abstract: "Join Milind and Felipe to learn more about the new feature just launched on 9/4/2024 Configurable Idle Timeout on Network Load Balancer and Gateway Load Balancer. We will discuss why this is important, where this is useful and how to configure it in the console and API. We will also discuss some caveats with the service."
 hosts: "Jamie"
@@ -22,7 +22,13 @@ guests: "Milind Kulkarni, Principal Product Manager EC2N <br> Felipe de Silva, P
   {% capture posttime %}{{page.date | date: '%s'}}{% endcapture %}
   {% if posttime < nowunix %}   
     <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video={{ page.videoid }}&parent=www.theroutingloop.net&parent=127.0.0.1&autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+      <iframe 
+        src="https://www.youtube.com/embed/{{ page.videoid }}?autoplay=0" 
+        height="315" 
+        width="560" 
+        allowfullscreen 
+        frameborder="0">
+    </iframe>
     </div>
     <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
   {% else %}
