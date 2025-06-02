@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Tailscale Concepts and applying them to your AWS Workloads"
-videoid: 2296061709
+videoid: mLJkx6JSFeI
 date:   2024-11-7 10:30:00 -0800
 abstract: "Join us for an educational dive into Tailscale's core networking concepts and discover how to effectively implement them across your AWS infrastructure. This live stream bridges the gap between Tailscale's zero-trust networking principles and practical AWS deployments, helping you build more secure and manageable cloud environments."
 hosts: "Tom Adamski"
@@ -23,7 +23,13 @@ guests: "Alex Kretzschmar, DevRel Manager <br> Allen Vailliencourt, Partner Solu
   {% capture posttime %}{{page.date | date: '%s'}}{% endcapture %}
   {% if posttime < nowunix %}   
     <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video={{ page.videoid }}&parent=www.theroutingloop.net&parent=127.0.0.1&autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+      <iframe 
+        src="https://www.youtube.com/embed/{{ page.videoid }}?autoplay=0" 
+        height="315" 
+        width="560" 
+        allowfullscreen 
+        frameborder="0">
+    </iframe>
     </div>
     <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
   {% else %}

@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "How to migrate to Amazon VPC Lattice and use DNS to simplify service discovery"
-videoid: 2278517883
+videoid: QFMHA-HkEp4
 date:   2024-10-17 10:30:00 -0800
 abstract: "This session is an in-depth exploration of migrating to Amazon VPC Lattice. We will whiteboard DNS migration options, do a live demo of a new automated DNS configuration solution for VPC Lattice, and answer questions. The goal is to help you understand how you can leverage VPC Lattice to simplify service discovery and ease the migration process for clients and applications."
 hosts: "Alexandra Huides"
@@ -23,7 +23,13 @@ guests: "Pablo Sánchez Carmona, Sr. Solutions Architect, Networking <br> Scott 
   {% capture posttime %}{{page.date | date: '%s'}}{% endcapture %}
   {% if posttime < nowunix %}   
     <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video={{ page.videoid }}&parent=www.theroutingloop.net&parent=127.0.0.1&autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+      <iframe 
+        src="https://www.youtube.com/embed/{{ page.videoid }}?autoplay=0" 
+        height="315" 
+        width="560" 
+        allowfullscreen 
+        frameborder="0">
+    </iframe>
     </div>
     <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
   {% else %}

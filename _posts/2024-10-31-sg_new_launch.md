@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "New Launch: Introducing Amazon VPC security groups associations and sharing"
-videoid: 2290215550
+videoid: 7XeHKWX8qJM
 date:   2024-10-31 10:30:00 -0800
 abstract: "Join us to learn about recently launched features that simplify Security Group management. We'll cover Security Group Association, which allows you to use the same Security Group across VPCs within the same account, and Security Group Sharing, which enables cross-account sharing in a VPC sharing model"
 hosts: "Alexandra Huides, Tom Adamski"
@@ -23,7 +23,13 @@ guests: "Abhi Maras, Sr. Product Manager, EC2 Networking"
   {% capture posttime %}{{page.date | date: '%s'}}{% endcapture %}
   {% if posttime < nowunix %}   
     <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video={{ page.videoid }}&parent=www.theroutingloop.net&parent=127.0.0.1&autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+      <iframe 
+        src="https://www.youtube.com/embed/{{ page.videoid }}?autoplay=0" 
+        height="315" 
+        width="560" 
+        allowfullscreen 
+        frameborder="0">
+    </iframe>
     </div>
     <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
   {% else %}

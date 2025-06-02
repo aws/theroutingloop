@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "New Launch - VPC Lattice and ECS!"
-videoid: 2307698699
+videoid: BHbULAC2elM
 date:   2024-11-21 10:30:00 -0800
 abstract: "VPC Lattice keeps moving forward. Now we are announcing ECS support for VPC Lattice. Join us for a walk through on how it works, a live demo, and architectures! Join Justin Davies, Ryan Lymburner hosted by Alex!"
 hosts: "Alex"
@@ -22,7 +22,13 @@ guests: "Justin Davies - Principal Product Manager, AWS <br> Ryan Lymburner - SD
   {% capture posttime %}{{page.date | date: '%s'}}{% endcapture %}
   {% if posttime < nowunix %}   
     <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video={{ page.videoid }}&parent=www.theroutingloop.net&parent=127.0.0.1&autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+      <iframe 
+        src="https://www.youtube.com/embed/{{ page.videoid }}?autoplay=0" 
+        height="315" 
+        width="560" 
+        allowfullscreen 
+        frameborder="0">
+    </iframe>
     </div>
     <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
   {% else %}
