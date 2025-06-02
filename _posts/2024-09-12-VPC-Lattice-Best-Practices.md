@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Amazon VPC Lattice - Best Practices, Migrations, and How it all Works"
-videoid: 2249374019
+videoid: CWGWLydrSKE
 date:   2024-09-12 10:30:00 -0800
 abstract: "Join Jamie and Matt as we talk to Justin Davies the Principal Product Manager of Amazon VPC Lattice. We will talk about best practices, where Lattice fits in this new crazy world of networking, and how to migrate to Lattice. We will also talk about how things work under the hood to give a better picture on what is going on with your packets! Bring your questions!"
 hosts: "Jamie and Matt"
@@ -22,7 +22,13 @@ guests: "Justin Davies, Principal Product Manager EC2N"
   {% capture posttime %}{{page.date | date: '%s'}}{% endcapture %}
   {% if posttime < nowunix %}   
     <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video={{ page.videoid }}&parent=www.theroutingloop.net&parent=127.0.0.1&autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+      <iframe 
+        src="https://www.youtube.com/embed/{{ page.videoid }}?autoplay=0" 
+        height="315" 
+        width="560" 
+        allowfullscreen 
+        frameborder="0">
+    </iframe>
     </div>
     <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
   {% else %}
