@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Hybrid DNS with Route 53 Resolver: Setup & Whiteboard Live"
-videoid: 
+videoid: hrRFxTwFEJU
 date:   2025-06-04 11:00:00 -0800
 abstract: "Join us for a hands-on session exploring Route 53 Resolver, inbound/outbound endpoints, and hybrid DNS patterns. We’ll walk through a live setup and whiteboard real-world scenarios to demystify common architectures. Whether you’re bridging AWS with on-prem or just getting started, this session will give you the tools to resolve DNS challenges with confidence."
 hosts: "Matt Lehwess, Tom Adamski"
