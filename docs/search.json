@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Inside Best Buy’s Cloud WAN + SD-WAN Integration for Resilient Care",
+      "hosts"    : "Tom Adamski",
+      "url"      : "/2025/07/02/best_buy_cloudwan_sd-wan.html",
+      "date"     : "02 Jul 2025",
+      "abstract" : "Tune into The Routing Loop as Best Buy shares how they integrated SD-WAN with AWS Cloud WAN to boost uptime and reliability for their care-at-home platform. Learn key architecture choices, lessons from deployment, and how the solution supports critical applications at scale."
+    } ,
+  
+    {
       "title"    : "Hybrid DNS with Route 53 Resolver: Setup & Whiteboard Live - Part 2",
       "hosts"    : "Sidhartha Chauhan, Tom Adamski",
       "url"      : "/2025/06/25/hybrid_dns_part2.html",

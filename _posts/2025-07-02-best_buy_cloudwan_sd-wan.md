@@ -1,11 +1,11 @@
 ---
 layout: default
-title:  "Hybrid DNS with Route 53 Resolver: Setup & Whiteboard Live - Part 2"
-videoid: IF51Of_eGJ4
-date:   2025-06-25 11:00:00 -0800
-abstract: "Join us to continue the hands-on exploration of Route 53 Resolver, inbound/outbound endpoints, and hybrid DNS patterns. We’ll walk through a live setup and whiteboard real-world scenarios to demystify common architectures. Whether you’re bridging AWS with on-prem or just getting started, this session will give you the tools to resolve DNS challenges with confidence."
-hosts: "Sidhartha Chauhan, Tom Adamski"
-guests: ""
+title:  "Inside Best Buy’s Cloud WAN + SD-WAN Integration for Resilient Care"
+videoid: 
+date:   2025-07-02 11:00:00 -0800
+abstract: "Tune into The Routing Loop as Best Buy shares how they integrated SD-WAN with AWS Cloud WAN to boost uptime and reliability for their care-at-home platform. Learn key architecture choices, lessons from deployment, and how the solution supports critical applications at scale."
+hosts: "Tom Adamski"
+guests: "Moulee Natrajan, Staff Network Engineer, <b>Best Buy</b> <br> Mandar Sawant, Sr. SA, Networking AWS <br> Jason Schamp, Principal SA, AWS"
 ---
 
 {% assign event_date = page.date | date: "%Y%m%d" %}

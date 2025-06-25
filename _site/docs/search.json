@@ -1,7 +1,15 @@
 [
   
     {
-      "title"    : "Hybrid DNS with Route 53 Resolver: Setup & Whiteboard Live",
+      "title"    : "Hybrid DNS with Route 53 Resolver: Setup & Whiteboard Live - Part 2",
+      "hosts"    : "Sidhartha Chauhan, Tom Adamski",
+      "url"      : "/2025/06/25/hybrid_dns_part2.html",
+      "date"     : "25 Jun 2025",
+      "abstract" : "Join us to continue the hands-on exploration of Route 53 Resolver, inbound/outbound endpoints, and hybrid DNS patterns. We’ll walk through a live setup and whiteboard real-world scenarios to demystify common architectures. Whether you’re bridging AWS with on-prem or just getting started, this session will give you the tools to resolve DNS challenges with confidence."
+    } ,
+  
+    {
+      "title"    : "Hybrid DNS with Route 53 Resolver: Setup & Whiteboard Live - Part 1",
       "hosts"    : "Matt Lehwess, Tom Adamski",
       "url"      : "/2025/06/04/hybrid_dns.html",
       "date"     : "04 Jun 2025",
