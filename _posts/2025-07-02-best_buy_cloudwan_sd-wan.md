@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Inside Best Buy’s Cloud WAN + SD-WAN Integration for Resilient Care"
-videoid: 
+videoid: _TVSAr8FtrY
 date:   2025-07-02 11:00:00 -0800
 abstract: "Tune into The Routing Loop as Best Buy shares how they integrated SD-WAN with AWS Cloud WAN to boost uptime and reliability for their care-at-home platform. Learn key architecture choices, lessons from deployment, and how the solution supports critical applications at scale."
 hosts: "Tom Adamski"
