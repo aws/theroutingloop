@@ -2,7 +2,7 @@
   
     {
       "title"    : "Intro to Network Security - best pracices for securitng your network",
-      "hosts"    : "Matt Lehwess, Alexandra Huides",
+      "hosts"    : "Matt Lehwess, Jamie Wenzel",
       "url"      : "/2025/07/09/net_security.html",
       "date"     : "09 Jul 2025",
       "abstract" : "Network security is not only about adding a firewall in the data path - join us for a baseline session for network security constructs on AWS, from Network Access Control Lists to Security Groups, zero trust, firewall deployments and more. We&#39;ll review best practices for using each tool, scaling options, and latest announcements"
