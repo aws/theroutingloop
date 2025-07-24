@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Intro to Network Security - best pracices for securitng your network"
+title:  "Intro to Network Security - best practices for securing your network"
 videoid: ufa_sp7irgg
 date:   2025-07-09 11:00:00 -0800
 abstract: "Network security is not only about adding a firewall in the data path - join us for a baseline session for network security constructs on AWS, from Network Access Control Lists to Security Groups, zero trust, firewall deployments and more. We'll review best practices for using each tool, scaling options, and latest announcements"
