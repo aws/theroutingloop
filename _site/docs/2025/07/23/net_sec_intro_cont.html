@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
+  <meta name="description" content="Weekly AWS Networking Twitch Show" />
+  <meta name="author" content="" />
+  <meta property="og:title" content="Intro to Network Security - best practices for securing your network (Continued)" />
+  <meta property="og:description" content="Network security is not only about adding a firewall in the data path - join us for a baseline session for network security constructs on AWS, from Network Access Control Lists to Security Groups, zero trust, firewall deployments and more. We'll review best practices for using each tool, scaling options, and latest announcements" />
+  <meta property="og:image" content="https://www.theroutingloop.net/assets/image/link_background.jpg" />
+  <meta property="og:site_name" content="The Routing Loop" />
+
+  <title>The Routing Loop</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="/assets/css/main.css" rel="stylesheet" />
+
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2K7T1C764L"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-2K7T1C764L');
+</script>
+
+
+</head>
+
+
+<body>
+  <!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container">
+    <img src="/assets/image/520.AWS_AWS_logo_RGB_REV.png" alt="Logo" width=5% height="auto">
+    <button
+      class="navbar-toggler ml-auto"
+      type="button"
+      data-toggle="collapse"
+      data-target="#navbarResponsive"
+      aria-controls="navbarResponsive"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        
+        <li class="nav-item">
+          <a class="nav-link" href="/">Home</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="/past/">Previous episodes</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="/upcoming/">Upcoming episodes</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="/hosts/">Hosts</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="https://pulse.aws/survey/6ONETCNV">Feedback</a>
+        </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+ <!-- Header -->
+<header class="bg-primary py-5 mb-5" style="background-image: url('/assets/image/background.png');">
+  <div class="container h-100">
+    <div class="row h-100 align-items-center">
+      <div class="col-lg-12 text-center">
+        <h1 class="display-4 text-white mt-5 mb-2">
+          The Routing Loop
+        </h1>
+        <p class="lead mb-4 text-white-50">
+          <b>Wednesdays</b> 11 AM PT / 2 PM ET / 7 PM UK
+        </p>
+        <div class="d-flex justify-content-center">
+          <a href="https://www.twitch.tv/aws/" class="btn btn-light btn-lg mx-2" target="_blank">
+            <i class="fab fa-twitch"></i> Twitch
+          </a>
+          <a href="https://www.linkedin.com/showcase/aws-developers/" class="btn btn-light btn-lg mx-2" target="_blank">
+            <i class="fab fa-linkedin"></i> LinkedIn
+          </a>
+<!--          <a href="https://www.youtube.com/@AWSEventsChannel" class="btn btn-light btn-lg mx-2" target="_blank">
+            <i class="fab fa-youtube"></i> YouTube
+          </a>
+          <a href="https://www.facebook.com/amazonwebservices/ " class="btn btn-light btn-lg mx-2" target="_blank">
+            <i class="fab fa-youtube"></i> Facebook
+          </a>
+-->        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+  <!-- Page Content -->
+  <div class="container mb-5">
+    
+<div class="content-area">
+  <span class="date">23 July 2025</span>
+
+  <h1>Intro to Network Security - best practices for securing your network (Continued)</h1>
+
+  <p><b>Hosts:</b><br />Matt Lehwess, Jamie Wenzel</p>
+  <p><b>Guests:</b><br /></p>
+  <p>
+    📅 <a href="data:text/calendar;charset=utf8,%0ABEGIN:VCALENDAR%0AVERSION:2.0%0APRODID:-//Your%20Website//Event%20Calendar//EN%0ABEGIN:VEVENT%0AUID:Intro-to-Network-Security---best-practices-for-securing-your-network-(Continued)@yourwebsite.com%0ADTSTAMP:20250724T140148Z%0ADTSTART;TZID=America/Los_Angeles:20250723T110000%0ADTEND;TZID=America/Los_Angeles:20250723T120000%0ASUMMARY:Intro%20to%20Network%20Security%20-%20best%20practices%20for%20securing%20your%20network%20(Continued)%0ADESCRIPTION:Network%20security%20is%20not%20only%20about%20adding%20a%20firewall%20in%20the%20data%20path%20-%20join%20us%20for%20a%20baseline%20session%20for%20network%20security%20constructs%20on%20AWS,%20from%20Network%20Access%20Control%20Lists%20to%20Security%20Groups,%20zero%20trust,%20firewall%20deployments%20and%20more.%20We'll%20review%20best%20practices%20for%20using%20each%20tool,%20scaling%20options,%20and%20latest%20announcements%0ALOCATION:Online%0AEND:VEVENT%0AEND:VCALENDAR%0A" download="intro-to-network-security---best-practices-for-securing-your-network-(continued).ics">
+          Add to Calendar
+       </a>
+  </p>
+  <div class="abstract">
+    <b>Abstract:</b><br />Network security is not only about adding a firewall in the data path - join us for a baseline session for network security constructs on AWS, from Network Access Control Lists to Security Groups, zero trust, firewall deployments and more. We'll review best practices for using each tool, scaling options, and latest announcements
+  </div>
+
+  
+  
+     
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/m128fvabJHw?autoplay=0" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+    </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+  
+
+  
+</div>
+
+  </div>
+  <!-- /.container -->
+  <!-- Footer -->
+<footer class="py-5 bg-dark">
+  <div class="container">
+    <p class="m-0 text-center text-white">
+      Copyright &copy; 2025 Amazon Web Services, Inc. or its affiliates. All rights reserved
+    </p>
+  </div>
+  <!-- /.container -->
+</footer>
+
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="/assets/vendor/jquery/jquery.min.js"></script>
+  <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Rapid Security Deployment: A Hands-On Look at AWS WAF's New Interface"
-videoid: 
+videoid: qiM1o0ljDQc
 date:   2025-07-30 11:00:00 -0800
 abstract: "Join us for a practical session where we'll demonstrate how to transform your web security deployment from hours to minutes.We're breaking down AWS WAF's new console experience with real-world examples and live configuration. Watch us set up protection for different workloads, explore automated recommendations, and manage everything from a single dashboard. We'll share tips and tricks we've learned from customer deployments and show you how to make the most of pre-configured security templates."
 hosts: "Sidhartha Chauhan"

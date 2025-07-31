@@ -1,6 +1,38 @@
 [
   
     {
+      "title"    : "What’s new in AWS Network Firewall - threat intelligence capabilities and new simplified deployment",
+      "hosts"    : "Tom Adamski",
+      "url"      : "/2025/08/06/net_firewall.html",
+      "date"     : "06 Aug 2025",
+      "abstract" : "This technical session covers recent AWS Network Firewall enhancements that help improve traffic inspection and management. Learn about active threat defense with AWS threat intelligence, native Transit Gateway integration, automated domain lists, and multiple VPC endpoints, and more. Explore implementation patterns and operational best practices to help maintain consistent security controls while simplifying deployment."
+    } ,
+  
+    {
+      "title"    : "Rapid Security Deployment: A Hands-On Look at AWS WAF's New Interface",
+      "hosts"    : "Sidhartha Chauhan",
+      "url"      : "/2025/07/30/waf_new_interface.html",
+      "date"     : "30 Jul 2025",
+      "abstract" : "Join us for a practical session where we&#39;ll demonstrate how to transform your web security deployment from hours to minutes.We&#39;re breaking down AWS WAF&#39;s new console experience with real-world examples and live configuration. Watch us set up protection for different workloads, explore automated recommendations, and manage everything from a single dashboard. We&#39;ll share tips and tricks we&#39;ve learned from customer deployments and show you how to make the most of pre-configured security templates."
+    } ,
+  
+    {
+      "title"    : "Intro to Network Security - best practices for securing your network (Continued)",
+      "hosts"    : "Matt Lehwess, Jamie Wenzel",
+      "url"      : "/2025/07/23/net_sec_intro_cont.html",
+      "date"     : "23 Jul 2025",
+      "abstract" : "Network security is not only about adding a firewall in the data path - join us for a baseline session for network security constructs on AWS, from Network Access Control Lists to Security Groups, zero trust, firewall deployments and more. We&#39;ll review best practices for using each tool, scaling options, and latest announcements"
+    } ,
+  
+    {
+      "title"    : "Intro to Network Security - best practices for securing your network",
+      "hosts"    : "Matt Lehwess, Jamie Wenzel",
+      "url"      : "/2025/07/09/net_security.html",
+      "date"     : "09 Jul 2025",
+      "abstract" : "Network security is not only about adding a firewall in the data path - join us for a baseline session for network security constructs on AWS, from Network Access Control Lists to Security Groups, zero trust, firewall deployments and more. We&#39;ll review best practices for using each tool, scaling options, and latest announcements"
+    } ,
+  
+    {
       "title"    : "Inside Best Buy’s Cloud WAN + SD-WAN Integration for Resilient Care",
       "hosts"    : "Tom Adamski",
       "url"      : "/2025/07/02/best_buy_cloudwan_sd-wan.html",
