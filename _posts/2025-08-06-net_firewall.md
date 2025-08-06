@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "What’s new in AWS Network Firewall - threat intelligence capabilities and new simplified deployment"
-videoid: 
+videoid: 71WRf_IjTuI
 date:   2025-08-06 11:00:00 -0800
 abstract: "This technical session covers recent AWS Network Firewall enhancements that help improve traffic inspection and management. Learn about active threat defense with AWS threat intelligence, native Transit Gateway integration, automated domain lists, and multiple VPC endpoints, and more. Explore implementation patterns and operational best practices to help maintain consistent security controls while simplifying deployment."
 hosts: "Tom Adamski"
