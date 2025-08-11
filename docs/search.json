@@ -9,6 +9,14 @@
     } ,
   
     {
+      "title"    : "Intro on net observability",
+      "hosts"    : "Jamie Wenzel, Matt Lehwess",
+      "url"      : "/2025/08/03/observability_intro.html",
+      "date"     : "03 Aug 2025",
+      "abstract" : "In this episode of The Routing Loop, we’re diving into network monitoring and observability, and how they differ in the cloud compared to traditional on-prem environments. Cloud networks generate logs and telemetry in ways that require a different approach, and we have a powerful suite of tools to help you make sense of it all.We’ll explore monitoring solutions purpose-built for the cloud and share strategies for working with the variety of logging data available. You’ll learn how to leverage these insights to better understand your network’s health, plan for growth, and troubleshoot issues more effectively."
+    } ,
+  
+    {
       "title"    : "Rapid Security Deployment: A Hands-On Look at AWS WAF's New Interface",
       "hosts"    : "Sidhartha Chauhan",
       "url"      : "/2025/07/30/waf_new_interface.html",
