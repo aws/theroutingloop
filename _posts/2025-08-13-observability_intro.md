@@ -2,7 +2,7 @@
 layout: default
 title:  "Intro on net observability"
 videoid: 
-date:   2025-08-03 11:00:00 -0800
+date:   2025-08-13 11:00:00 -0800
 abstract: "In this episode of The Routing Loop, we’re diving into network monitoring and observability, and how they differ in the cloud compared to traditional on-prem environments. Cloud networks generate logs and telemetry in ways that require a different approach, and we have a powerful suite of tools to help you make sense of it all.We’ll explore monitoring solutions purpose-built for the cloud and share strategies for working with the variety of logging data available. You’ll learn how to leverage these insights to better understand your network’s health, plan for growth, and troubleshoot issues more effectively."
 hosts: "Jamie Wenzel, Matt Lehwess"
 guests: "Vishwas Puttasubbappa, Principal Product Manager, Networking"
