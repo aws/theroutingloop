@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Network observability dashboards for AWS Network Firewall and VPC Flow Logs"
-videoid: 
+videoid: vGWgz1XRoxQ
 date:   2025-08-20 11:00:00 -0800
 abstract: "In this episode we'll dive into network observability tools on AWS and how you can build observability dashboards using VPC Flow Logs, Network Firewall logs, CloudWatch Contributor Insights and AI-powered log analysis. We review how you can leverage these tools to gain deeper insights into you network connectivity on AWS, and understand application dependencies."
 hosts: "Alexandra Huides"
