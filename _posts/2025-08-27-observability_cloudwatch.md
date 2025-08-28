@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "CloudWatch Network Flow Monitor Demo"
-videoid: 
+videoid: L3BX_SspyEY
 date:   2025-08-27 11:00:00 -0800
 abstract: "In this episode we’ll dive into Amazon CloudWatch Network Flow Monitor, introduced at re:Invent 2024, and show how you can use it today to gain deep visibility into your VPC network traffic. Through a live demo, we’ll explore how to configure flow monitoring, build insightful dashboards, and uncover dependencies across your environment. We’ll also highlight how you can use these flow insights to troubleshoot connectivity, detect anomalies, and strengthen security controls. If you’re looking for practical ways to improve network observability and simplify operations on AWS, this session is for you."
 hosts: "Alexandra Huides"
