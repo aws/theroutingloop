@@ -1,6 +1,46 @@
 [
   
     {
+      "title"    : "Uncover network security issues with AWS Shield network security director",
+      "hosts"    : "Tom Adamski",
+      "url"      : "/2025/09/10/net_security_director.html",
+      "date"     : "10 Sep 2025",
+      "abstract" : "Discover how Shield&#39;s Network Security Director transforms network security management. Watch live demonstrations of network topology visualization, security assessment, and AI-assisted investigation. Learn best practices for strengthening your security posture and get your questions answered by AWS experts."
+    } ,
+  
+    {
+      "title"    : "AWS Network Observability: Deep Dive into Network Reachability and Access Analyzer",
+      "hosts"    : "Sidhartha Chauhan",
+      "url"      : "/2025/09/03/reachablity_and_access_analyzer.html",
+      "date"     : "03 Sep 2025",
+      "abstract" : "This comprehensive 60-minute webinar explores the powerful combination of AWS Network Reachability Analyzer and Network Access Analyzer for improving both network observability and security. Ideal for cloud architects, DevOps engineers, and security professionals, this session will guide you through the why and when of using these tools, with a primary focus on end-to-end observability use cases that also enhance security.We&#39;ll begin with a brief introduction to these analyzers, then delve into real-world scenarios showcasing how they can streamline troubleshooting, improve network visibility, and bolster your security posture. The session culminates in an extensive hands-on demonstration, giving you practical insights into leveraging these tools effectively in your AWS environment. Join us to learn how to gain deeper network insights and proactively address potential issues before they impact your operations."
+    } ,
+  
+    {
+      "title"    : "CloudWatch Network Flow Monitor Demo",
+      "hosts"    : "Alexandra Huides",
+      "url"      : "/2025/08/27/observability_cloudwatch.html",
+      "date"     : "27 Aug 2025",
+      "abstract" : "In this episode we’ll dive into Amazon CloudWatch Network Flow Monitor, introduced at re:Invent 2024, and show how you can use it today to gain deep visibility into your VPC network traffic. Through a live demo, we’ll explore how to configure flow monitoring, build insightful dashboards, and uncover dependencies across your environment. We’ll also highlight how you can use these flow insights to troubleshoot connectivity, detect anomalies, and strengthen security controls. If you’re looking for practical ways to improve network observability and simplify operations on AWS, this session is for you."
+    } ,
+  
+    {
+      "title"    : "Network observability dashboards for AWS Network Firewall and VPC Flow Logs",
+      "hosts"    : "Alexandra Huides",
+      "url"      : "/2025/08/20/observability_anf_dashboard.html",
+      "date"     : "20 Aug 2025",
+      "abstract" : "In this episode we&#39;ll dive into network observability tools on AWS and how you can build observability dashboards using VPC Flow Logs, Network Firewall logs, CloudWatch Contributor Insights and AI-powered log analysis. We review how you can leverage these tools to gain deeper insights into you network connectivity on AWS, and understand application dependencies."
+    } ,
+  
+    {
+      "title"    : "Intro on network observability",
+      "hosts"    : "Jamie Wenzel, Matt Lehwess",
+      "url"      : "/2025/08/13/observability_intro.html",
+      "date"     : "13 Aug 2025",
+      "abstract" : "In this episode of The Routing Loop, we’re diving into network monitoring and observability, and how they differ in the cloud compared to traditional on-prem environments. Cloud networks generate logs and telemetry in ways that require a different approach, and we have a powerful suite of tools to help you make sense of it all.We’ll explore monitoring solutions purpose-built for the cloud and share strategies for working with the variety of logging data available. You’ll learn how to leverage these insights to better understand your network’s health, plan for growth, and troubleshoot issues more effectively."
+    } ,
+  
+    {
       "title"    : "What’s new in AWS Network Firewall - threat intelligence capabilities and new simplified deployment",
       "hosts"    : "Tom Adamski",
       "url"      : "/2025/08/06/net_firewall.html",

@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "Uncover network security issues with AWS Shield network security director",
+      "hosts"    : "Tom Adamski",
+      "url"      : "/2025/09/10/net_security_director.html",
+      "date"     : "10 Sep 2025",
+      "abstract" : "Discover how Shield&#39;s Network Security Director transforms network security management. Watch live demonstrations of network topology visualization, security assessment, and AI-assisted investigation. Learn best practices for strengthening your security posture and get your questions answered by AWS experts."
+    } ,
+  
+    {
+      "title"    : "AWS Network Observability: Deep Dive into Network Reachability and Access Analyzer",
+      "hosts"    : "Sidhartha Chauhan",
+      "url"      : "/2025/09/03/reachablity_and_access_analyzer.html",
+      "date"     : "03 Sep 2025",
+      "abstract" : "This comprehensive 60-minute webinar explores the powerful combination of AWS Network Reachability Analyzer and Network Access Analyzer for improving both network observability and security. Ideal for cloud architects, DevOps engineers, and security professionals, this session will guide you through the why and when of using these tools, with a primary focus on end-to-end observability use cases that also enhance security.We&#39;ll begin with a brief introduction to these analyzers, then delve into real-world scenarios showcasing how they can streamline troubleshooting, improve network visibility, and bolster your security posture. The session culminates in an extensive hands-on demonstration, giving you practical insights into leveraging these tools effectively in your AWS environment. Join us to learn how to gain deeper network insights and proactively address potential issues before they impact your operations."
+    } ,
+  
+    {
       "title"    : "CloudWatch Network Flow Monitor Demo",
       "hosts"    : "Alexandra Huides",
       "url"      : "/2025/08/27/observability_cloudwatch.html",
