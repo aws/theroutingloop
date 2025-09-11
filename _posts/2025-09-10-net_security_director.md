@@ -1,11 +1,11 @@
 ---
 layout: default
 title:  "Uncover network security issues with AWS Shield network security director"
-videoid: -TeHqLU7EHU
+videoid: 0SRrrXbFp04
 date:   2025-09-10 11:00:00 -0800
 abstract: "Discover how Shield's Network Security Director transforms network security management. Watch live demonstrations of network topology visualization, security assessment, and AI-assisted investigation. Learn best practices for strengthening your security posture and get your questions answered by AWS experts."
 hosts: "Tom Adamski"
-guests: "Mun Hossain, Sr. Product Manager, AWS <br> Neil Yajnik, Sr. Product Manager, AWS <br> Idaliz Seymour, Product Marketing Manager, AWS"
+guests: "Neil Yajnik, Sr. Product Manager, AWS "
 ---
 
 {% assign event_date = page.date | date: "%Y%m%d" %}
