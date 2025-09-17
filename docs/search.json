@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Finding Network Root Causes in Seconds with Digital Twins and Agentic AI",
+      "hosts"    : "Matt Lehwess, Jamie Wenzel",
+      "url"      : "/2025/09/17/root_cause_with_ai.html",
+      "date"     : "17 Sep 2025",
+      "abstract" : "Network failures can often take hours to diagnose. This week on The Routing Loop, we&#39;ll show how a network digital twin with graph DB and Agentic AI can find root causes in seconds. Join Jamie, Matt, and Imen for a deep dive into making network operations faster and more reliable."
+    } ,
+  
+    {
       "title"    : "Uncover network security issues with AWS Shield network security director",
       "hosts"    : "Tom Adamski",
       "url"      : "/2025/09/10/net_security_director.html",
