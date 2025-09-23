@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "Using generative AI for building AWS networks",
+      "hosts"    : "Sidhartha Chauhan",
+      "url"      : "/2025/09/24/build_net_with_ai.html",
+      "date"     : "24 Sep 2025",
+      "abstract" : "Join us for a deep dive into the transformative potential of generative AI in building and managing AWS networks. This webinar will explore how tools like Amazon Bedrock and Amazon Q can streamline complex network tasks, from initial greenfield deployments to network migration and modernization. We&#39;ll demonstrate practical use cases, including using natural language prompts to deploy a global network with AWS Cloud WAN, updating policies, and generating infrastructure as code (IaC) templates. Learn how to accelerate your network operations, identify vulnerabilities in network diagrams, and estimate costs with the power of AI, all while keeping security and human oversight at the forefront. This session is a must-attend for network architects and cloud teams looking to leverage AI to enhance their productivity and reshape the future of network management."
+    } ,
+  
+    {
+      "title"    : "Finding Network Root Causes in Seconds with Digital Twins and Agentic AI",
+      "hosts"    : "Matt Lehwess, Jamie Wenzel",
+      "url"      : "/2025/09/17/root_cause_with_ai.html",
+      "date"     : "17 Sep 2025",
+      "abstract" : "Network failures can often take hours to diagnose. This week on The Routing Loop, we&#39;ll show how a network digital twin with graph DB and Agentic AI can find root causes in seconds. Join Jamie, Matt, and Imen for a deep dive into making network operations faster and more reliable."
+    } ,
+  
+    {
       "title"    : "Uncover network security issues with AWS Shield network security director",
       "hosts"    : "Tom Adamski",
       "url"      : "/2025/09/10/net_security_director.html",
