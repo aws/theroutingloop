@@ -5,7 +5,7 @@ videoid: C9SB8Ltu4eI
 date:   2025-10-01 11:00:00 -0800
 abstract: "Load Balancer Capacity Units can feel a little mysterious. Fear not, we’ve got you covered. In this session, we’ll break down what they are, how you can reserve them, and practical ways to keep your costs under control. Join us for a clear, no-nonsense look at making LCU management simple and cost-effective."
 hosts: "Jamie Wenzel"
-guests: "Hema Halagatti, Sr. Product Manager, Load Balancing, AWS "
+guests: "Hema Halagatti, Sr. Product Manager, Load Balancing, AWS <br> Jon Zobrist, Head of ELB Customer Success, AWS "
 ---
 
 {% assign event_date = page.date | date: "%Y%m%d" %}
