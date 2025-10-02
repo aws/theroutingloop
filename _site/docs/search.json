@@ -1,6 +1,30 @@
 [
   
     {
+      "title"    : "Route 53 Resolver endpoint delegation",
+      "hosts"    : "Tom Adamski",
+      "url"      : "/2025/10/15/resolver_delegation.html",
+      "date"     : "15 Oct 2025",
+      "abstract" : "A new capability of Route 53 Resolver endpoints, that helps customers make delegations for private hosted zone subdomains using Route 53 inbound and outbound Resolver endpoints. The feature allows customers to delegate the authority for a subdomain from their on-premises infrastructure to the Route 53 Resolver cloud service and vice versa, enabling a simplified cloud experience across namespaces in AWS and on their own local infrastructure."
+    } ,
+  
+    {
+      "title"    : "Load Balancer Capacity Units - What are they? Why do I care?",
+      "hosts"    : "Jamie Wenzel",
+      "url"      : "/2025/10/01/lcus_walkthrough.html",
+      "date"     : "01 Oct 2025",
+      "abstract" : "TBC"
+    } ,
+  
+    {
+      "title"    : "Using generative AI for building AWS networks",
+      "hosts"    : "Sidhartha Chauhan",
+      "url"      : "/2025/09/24/build_net_with_ai.html",
+      "date"     : "24 Sep 2025",
+      "abstract" : "Join us for a deep dive into the transformative potential of generative AI in building and managing AWS networks. This webinar will explore how tools like Amazon Bedrock and Amazon Q can streamline complex network tasks, from initial greenfield deployments to network migration and modernization. We&#39;ll demonstrate practical use cases, including using natural language prompts to deploy a global network with AWS Cloud WAN, updating policies, and generating infrastructure as code (IaC) templates. Learn how to accelerate your network operations, identify vulnerabilities in network diagrams, and estimate costs with the power of AI, all while keeping security and human oversight at the forefront. This session is a must-attend for network architects and cloud teams looking to leverage AI to enhance their productivity and reshape the future of network management."
+    } ,
+  
+    {
       "title"    : "Finding Network Root Causes in Seconds with Digital Twins and Agentic AI",
       "hosts"    : "Matt Lehwess, Jamie Wenzel",
       "url"      : "/2025/09/17/root_cause_with_ai.html",

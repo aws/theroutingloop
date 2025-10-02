@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Using generative AI for building AWS networks"
-videoid: 
+videoid: r59K8xpdOvk
 date:   2025-09-24 11:00:00 -0800
 abstract: "Join us for a deep dive into the transformative potential of generative AI in building and managing AWS networks. This webinar will explore how tools like Amazon Bedrock and Amazon Q can streamline complex network tasks, from initial greenfield deployments to network migration and modernization. We'll demonstrate practical use cases, including using natural language prompts to deploy a global network with AWS Cloud WAN, updating policies, and generating infrastructure as code (IaC) templates. Learn how to accelerate your network operations, identify vulnerabilities in network diagrams, and estimate costs with the power of AI, all while keeping security and human oversight at the forefront. This session is a must-attend for network architects and cloud teams looking to leverage AI to enhance their productivity and reshape the future of network management."
 hosts: "Sidhartha Chauhan"

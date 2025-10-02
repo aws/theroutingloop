@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "Route 53 Resolver endpoint delegation",
+      "hosts"    : "Tom Adamski",
+      "url"      : "/2025/10/15/resolver_delegation.html",
+      "date"     : "15 Oct 2025",
+      "abstract" : "A new capability of Route 53 Resolver endpoints, that helps customers make delegations for private hosted zone subdomains using Route 53 inbound and outbound Resolver endpoints. The feature allows customers to delegate the authority for a subdomain from their on-premises infrastructure to the Route 53 Resolver cloud service and vice versa, enabling a simplified cloud experience across namespaces in AWS and on their own local infrastructure."
+    } ,
+  
+    {
+      "title"    : "Load Balancer Capacity Units - What are they? Why do I care",
+      "hosts"    : "Jamie Wenzel",
+      "url"      : "/2025/10/01/lcus_walkthrough.html",
+      "date"     : "01 Oct 2025",
+      "abstract" : "Load Balancer Capacity Units can feel a little mysterious. Fear not, we’ve got you covered. In this session, we’ll break down what they are, how you can reserve them, and practical ways to keep your costs under control. Join us for a clear, no-nonsense look at making LCU management simple and cost-effective."
+    } ,
+  
+    {
       "title"    : "Using generative AI for building AWS networks",
       "hosts"    : "Sidhartha Chauhan",
       "url"      : "/2025/09/24/build_net_with_ai.html",
