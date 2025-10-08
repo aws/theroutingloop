@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Modern Connectivity Patterns for ISVs on AWS"
-videoid: 
+videoid: USEsGM3aFTY
 date:   2025-10-08 11:00:00 -0800
 abstract: "How do Independent Software Vendors build secure, scalable connectivity with their customers on AWS? In this session, we’ll unpack common networking patterns ISVs use to expose their applications to end customers — and how they gain access to customer-owned data sources in the reverse direction. We’ll compare public connectivity approaches with private networking options, from VPC peering and Transit Gateway to application-centric services like AWS PrivateLink and Amazon VPC Lattice."
 hosts: "Alexandra Huides, Tom Adamski"

@@ -9,11 +9,19 @@
     } ,
   
     {
-      "title"    : "Load Balancer Capacity Units - What are they? Why do I care?",
+      "title"    : "Modern Connectivity Patterns for ISVs on AWS",
+      "hosts"    : "Alexandra Huides, Tom Adamski",
+      "url"      : "/2025/10/08/isv_connectivity.html",
+      "date"     : "08 Oct 2025",
+      "abstract" : "How do Independent Software Vendors build secure, scalable connectivity with their customers on AWS? In this session, we’ll unpack common networking patterns ISVs use to expose their applications to end customers — and how they gain access to customer-owned data sources in the reverse direction. We’ll compare public connectivity approaches with private networking options, from VPC peering and Transit Gateway to application-centric services like AWS PrivateLink and Amazon VPC Lattice."
+    } ,
+  
+    {
+      "title"    : "Load Balancer Capacity Units - What are they? Why do I care",
       "hosts"    : "Jamie Wenzel",
       "url"      : "/2025/10/01/lcus_walkthrough.html",
       "date"     : "01 Oct 2025",
-      "abstract" : "TBC"
+      "abstract" : "Load Balancer Capacity Units can feel a little mysterious. Fear not, we’ve got you covered. In this session, we’ll break down what they are, how you can reserve them, and practical ways to keep your costs under control. Join us for a clear, no-nonsense look at making LCU management simple and cost-effective."
     } ,
   
     {
