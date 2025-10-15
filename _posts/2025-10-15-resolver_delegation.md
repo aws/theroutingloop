@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Route 53 Resolver endpoint delegation"
-videoid: 
+videoid: jdj-EnTVYMA
 date:   2025-10-15 11:00:00 -0800
 abstract: "A new capability of Route 53 Resolver endpoints, that helps customers make delegations for private hosted zone subdomains using Route 53 inbound and outbound Resolver endpoints. The feature allows customers to delegate the authority for a subdomain from their on-premises infrastructure to the Route 53 Resolver cloud service and vice versa, enabling a simplified cloud experience across namespaces in AWS and on their own local infrastructure."
 hosts: "Tom Adamski"
