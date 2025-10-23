@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Amazon VPC and dynamic routing with VPC Route Server",
+      "hosts"    : "Jamie Wenzel",
+      "url"      : "/2025/10/22/route_server.html",
+      "date"     : "22 Oct 2025",
+      "abstract" : "Join us as we explore how AWS Route Server brings dynamic routing to Amazon VPC. See how it enables BGP route exchange between your virtual appliances and AWS networking services, making it easier to build scalable, automated, and flexible cloud networks."
+    } ,
+  
+    {
       "title"    : "Route 53 Resolver endpoint delegation",
       "hosts"    : "Tom Adamski",
       "url"      : "/2025/10/15/resolver_delegation.html",
