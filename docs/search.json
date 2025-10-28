@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "To do or not to do VPC Sharing: A candid chat about VPC sharing considerations and best practices",
+      "hosts"    : "Alexandra Huides, Matt Lehwess",
+      "url"      : "/2025/10/29/vpc_sharing.html",
+      "date"     : "29 Oct 2025",
+      "abstract" : "VPC sharing can be a powerful way to simplify network management and enable teams to collaborate securely — but it’s not a one-size-fits-all solution. In this episode of The Routing Loop, we’re having a candid chat about when (and when not) to use Amazon VPC sharing. We’ll unpack real-world pros and cons, from operational efficiency and security boundaries to service ownership, scaling, and governance. Whether you’re a platform team debating your multi-account strategy or an application team wondering how much control you’ll lose (or gain), this discussion will help you make an informed decision — with some real talk and a few war stories."
+    } ,
+  
+    {
       "title"    : "Amazon VPC and dynamic routing with VPC Route Server",
       "hosts"    : "Jamie Wenzel",
       "url"      : "/2025/10/22/route_server.html",
