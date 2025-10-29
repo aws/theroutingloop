@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "To do or not to do VPC Sharing: A candid chat about VPC sharing considerations and best practices"
-videoid: 
+videoid: okLb3Gn2oOU
 date:   2025-10-29 11:00:00 -0800
 abstract: "VPC sharing can be a powerful way to simplify network management and enable teams to collaborate securely — but it’s not a one-size-fits-all solution. In this episode of The Routing Loop, we’re having a candid chat about when (and when not) to use Amazon VPC sharing. We’ll unpack real-world pros and cons, from operational efficiency and security boundaries to service ownership, scaling, and governance. Whether you’re a platform team debating your multi-account strategy or an application team wondering how much control you’ll lose (or gain), this discussion will help you make an informed decision — with some real talk and a few war stories."
 hosts: "Alexandra Huides, Matt Lehwess"
