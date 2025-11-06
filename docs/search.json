@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Let s chat AWS networking with Jamie and Matt",
+      "hosts"    : "Jamie Wenzel, Matt Lehwess",
+      "url"      : "/2025/11/05/Jamie-&-Matt-Discsusion.html",
+      "date"     : "05 Nov 2025",
+      "abstract" : "Open discussion on AWS networking with Jamie and Matt"
+    } ,
+  
+    {
       "title"    : "To do or not to do VPC Sharing: A candid chat about VPC sharing considerations and best practices",
       "hosts"    : "Alexandra Huides, Matt Lehwess",
       "url"      : "/2025/10/29/vpc_sharing.html",
