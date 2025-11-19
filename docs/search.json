@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "New Launch -  Amazon VPC Lattice support for custom DNS for resources",
+      "hosts"    : "Alexandra Huides, Matt Lehwess",
+      "url"      : "/2025/11/12/custom_dns_lattice_resources.html",
+      "date"     : "12 Nov 2025",
+      "abstract" : "In this video, we explore a new VPC Lattice enhancement that lets you attach custom domain names to your resource configurations. This update expands how teams expose and access layer-4 resources—such as databases, clusters, and internal domains—across VPCs and AWS accounts.With this release, resource owners can assign a custom domain to a resource configuration and share it with consumers, who can then access the resource through that domain. VPC Lattice automatically manages a private hosted zone in the consumer’s VPC, making cross-VPC connectivity simpler and more consistent."
+    } ,
+  
+    {
       "title"    : "Let s chat AWS networking with Jamie and Matt",
       "hosts"    : "Jamie Wenzel, Matt Lehwess",
       "url"      : "/2025/11/05/Jamie-&-Matt-Discsusion.html",
