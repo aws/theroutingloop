@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "re:Invent 2025 - Know before you go",
+      "hosts"    : "Alexandra Huides, Jamie Wenzel",
+      "url"      : "/2025/11/19/riv_know_b4_u_go.html",
+      "date"     : "19 Nov 2025",
+      "abstract" : "Learn about what&#39;s happening in the Networking track at re:Invent 2025"
+    } ,
+  
+    {
       "title"    : "New Launch -  Amazon VPC Lattice support for custom DNS for resources",
       "hosts"    : "Alexandra Huides, Matt Lehwess",
       "url"      : "/2025/11/12/custom_dns_lattice_resources.html",
