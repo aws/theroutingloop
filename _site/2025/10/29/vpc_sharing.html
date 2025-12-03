@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
+  <meta name="description" content="Weekly AWS Networking Twitch Show" />
+  <meta name="author" content="" />
+  <meta property="og:title" content="To do or not to do VPC Sharing: A candid chat about VPC sharing considerations and best practices" />
+  <meta property="og:description" content="VPC sharing can be a powerful way to simplify network management and enable teams to collaborate securely — but it’s not a one-size-fits-all solution. In this episode of The Routing Loop, we’re having a candid chat about when (and when not) to use Amazon VPC sharing. We’ll unpack real-world pros and cons, from operational efficiency and security boundaries to service ownership, scaling, and governance. Whether you’re a platform team debating your multi-account strategy or an application team wondering how much control you’ll lose (or gain), this discussion will help you make an informed decision — with some real talk and a few war stories." />
+  <meta property="og:image" content="https://www.theroutingloop.net/assets/image/link_background.jpg" />
+  <meta property="og:site_name" content="The Routing Loop" />
+
+  <title>The Routing Loop</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="/assets/css/main.css" rel="stylesheet" />
+
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2K7T1C764L"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-2K7T1C764L');
+</script>
+
+
+</head>
+
+
+<body>
+  <!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container">
+    <img src="/assets/image/520.AWS_AWS_logo_RGB_REV.png" alt="Logo" width=5% height="auto">
+    <button
+      class="navbar-toggler ml-auto"
+      type="button"
+      data-toggle="collapse"
+      data-target="#navbarResponsive"
+      aria-controls="navbarResponsive"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        
+        <li class="nav-item">
+          <a class="nav-link" href="/">Home</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="/past/">Previous episodes</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="/upcoming/">Upcoming episodes</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="/hosts/">Hosts</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="https://pulse.aws/survey/6ONETCNV">Feedback</a>
+        </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+ <!-- Header -->
+<header class="bg-primary py-5 mb-5" style="background-image: url('/assets/image/background.png');">
+  <div class="container h-100">
+    <div class="row h-100 align-items-center">
+      <div class="col-lg-12 text-center">
+        <h1 class="display-4 text-white mt-5 mb-2">
+          The Routing Loop
+        </h1>
+        <p class="lead mb-4 text-white-50">
+          <b>Wednesdays</b> 11 AM PT / 2 PM ET / 7 PM UK
+        </p>
+        <div class="d-flex justify-content-center">
+          <a href="https://www.twitch.tv/aws/" class="btn btn-light btn-lg mx-2" target="_blank">
+            <i class="fab fa-twitch"></i> Twitch
+          </a>
+<!--          <a href="https://www.linkedin.com/showcase/aws-developers/" class="btn btn-light btn-lg mx-2" target="_blank">
+            <i class="fab fa-linkedin"></i> LinkedIn
+          </a>
+          <a href="https://www.youtube.com/@AWSEventsChannel" class="btn btn-light btn-lg mx-2" target="_blank">
+            <i class="fab fa-youtube"></i> YouTube
+          </a>
+          <a href="https://www.facebook.com/amazonwebservices/ " class="btn btn-light btn-lg mx-2" target="_blank">
+            <i class="fab fa-youtube"></i> Facebook
+          </a>
+-->        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+  <!-- Page Content -->
+  <div class="container mb-5">
+    
+<div class="content-area">
+  <span class="date">29 October 2025</span>
+
+  <h1>To do or not to do VPC Sharing: A candid chat about VPC sharing considerations and best practices</h1>
+
+  <p><b>Hosts:</b><br />Alexandra Huides, Matt Lehwess</p>
+  <p><b>Guests:</b><br /></p>
+  <p>
+    📅 <a href="data:text/calendar;charset=utf8,%0ABEGIN:VCALENDAR%0AVERSION:2.0%0APRODID:-//Your%20Website//Event%20Calendar//EN%0ABEGIN:VEVENT%0AUID:To-do-or-not-to-do-VPC-Sharing:-A-candid-chat-about-VPC-sharing-considerations-and-best-practices@yourwebsite.com%0ADTSTAMP:20251203T085501Z%0ADTSTART;TZID=America/Los_Angeles:20251029T110000%0ADTEND;TZID=America/Los_Angeles:20251029T120000%0ASUMMARY:To%20do%20or%20not%20to%20do%20VPC%20Sharing:%20A%20candid%20chat%20about%20VPC%20sharing%20considerations%20and%20best%20practices%0ADESCRIPTION:VPC%20sharing%20can%20be%20a%20powerful%20way%20to%20simplify%20network%20management%20and%20enable%20teams%20to%20collaborate%20securely%20%E2%80%94%20but%20it%E2%80%99s%20not%20a%20one-size-fits-all%20solution.%20In%20this%20episode%20of%20The%20Routing%20Loop,%20we%E2%80%99re%20having%20a%20candid%20chat%20about%20when%20(and%20when%20not)%20to%20use%20Amazon%20VPC%20sharing.%20We%E2%80%99ll%20unpack%20real-world%20pros%20and%20cons,%20from%20operational%20efficiency%20and%20security%20boundaries%20to%20service%20ownership,%20scaling,%20and%20governance.%20Whether%20you%E2%80%99re%20a%20platform%20team%20debating%20your%20multi-account%20strategy%20or%20an%20application%20team%20wondering%20how%20much%20control%20you%E2%80%99ll%20lose%20(or%20gain),%20this%20discussion%20will%20help%20you%20make%20an%20informed%20decision%20%E2%80%94%20with%20some%20real%20talk%20and%20a%20few%20war%20stories.%0ALOCATION:Online%0AEND:VEVENT%0AEND:VCALENDAR%0A" download="to-do-or-not-to-do-vpc-sharing-a-candid-chat-about-vpc-sharing-considerations-and-best-practices.ics">
+          Add to Calendar
+       </a>
+  </p>
+  <div class="abstract">
+    <b>Abstract:</b><br />VPC sharing can be a powerful way to simplify network management and enable teams to collaborate securely — but it’s not a one-size-fits-all solution. In this episode of The Routing Loop, we’re having a candid chat about when (and when not) to use Amazon VPC sharing. We’ll unpack real-world pros and cons, from operational efficiency and security boundaries to service ownership, scaling, and governance. Whether you’re a platform team debating your multi-account strategy or an application team wondering how much control you’ll lose (or gain), this discussion will help you make an informed decision — with some real talk and a few war stories.
+  </div>
+
+  
+  
+     
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/okLb3Gn2oOU?autoplay=0" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+    </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+  
+
+  
+</div>
+
+  </div>
+  <!-- /.container -->
+  <!-- Footer -->
+<footer class="py-5 bg-dark">
+  <div class="container">
+    <p class="m-0 text-center text-white">
+      Copyright &copy; 2025 Amazon Web Services, Inc. or its affiliates. All rights reserved
+    </p>
+  </div>
+  <!-- /.container -->
+</footer>
+
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="/assets/vendor/jquery/jquery.min.js"></script>
+  <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

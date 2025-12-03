@@ -1,6 +1,46 @@
 [
   
     {
+      "title"    : "re:Invent 2025 - Know before you go",
+      "hosts"    : "Alexandra Huides, Jamie Wenzel",
+      "url"      : "/2025/11/19/riv_know_b4_u_go.html",
+      "date"     : "19 Nov 2025",
+      "abstract" : "Learn about what&#39;s happening in the Networking track at re:Invent 2025"
+    } ,
+  
+    {
+      "title"    : "New Launch -  Amazon VPC Lattice support for custom DNS for resources",
+      "hosts"    : "Alexandra Huides, Matt Lehwess",
+      "url"      : "/2025/11/12/custom_dns_lattice_resources.html",
+      "date"     : "12 Nov 2025",
+      "abstract" : "In this video, we explore a new VPC Lattice enhancement that lets you attach custom domain names to your resource configurations. This update expands how teams expose and access layer-4 resources—such as databases, clusters, and internal domains—across VPCs and AWS accounts.With this release, resource owners can assign a custom domain to a resource configuration and share it with consumers, who can then access the resource through that domain. VPC Lattice automatically manages a private hosted zone in the consumer’s VPC, making cross-VPC connectivity simpler and more consistent."
+    } ,
+  
+    {
+      "title"    : "Let s chat AWS networking with Jamie and Matt",
+      "hosts"    : "Jamie Wenzel, Matt Lehwess",
+      "url"      : "/2025/11/05/Jamie-&-Matt-Discsusion.html",
+      "date"     : "05 Nov 2025",
+      "abstract" : "Open discussion on AWS networking with Jamie and Matt"
+    } ,
+  
+    {
+      "title"    : "To do or not to do VPC Sharing: A candid chat about VPC sharing considerations and best practices",
+      "hosts"    : "Alexandra Huides, Matt Lehwess",
+      "url"      : "/2025/10/29/vpc_sharing.html",
+      "date"     : "29 Oct 2025",
+      "abstract" : "VPC sharing can be a powerful way to simplify network management and enable teams to collaborate securely — but it’s not a one-size-fits-all solution. In this episode of The Routing Loop, we’re having a candid chat about when (and when not) to use Amazon VPC sharing. We’ll unpack real-world pros and cons, from operational efficiency and security boundaries to service ownership, scaling, and governance. Whether you’re a platform team debating your multi-account strategy or an application team wondering how much control you’ll lose (or gain), this discussion will help you make an informed decision — with some real talk and a few war stories."
+    } ,
+  
+    {
+      "title"    : "Amazon VPC and dynamic routing with VPC Route Server",
+      "hosts"    : "Jamie Wenzel",
+      "url"      : "/2025/10/22/route_server.html",
+      "date"     : "22 Oct 2025",
+      "abstract" : "Join us as we explore how AWS Route Server brings dynamic routing to Amazon VPC. See how it enables BGP route exchange between your virtual appliances and AWS networking services, making it easier to build scalable, automated, and flexible cloud networks."
+    } ,
+  
+    {
       "title"    : "Route 53 Resolver endpoint delegation",
       "hosts"    : "Tom Adamski",
       "url"      : "/2025/10/15/resolver_delegation.html",
