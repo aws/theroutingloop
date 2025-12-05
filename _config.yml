@@ -1,5 +1,7 @@
 title: The Routing Loop
 description: Weekly AWS Networking Twitch Show
+url: "" # leave empty for local development, set to your production URL when deploying
+baseurl: "" # subpath of your site, e.g. /blog
 
 color-scheme: "mediumseagreen" # the scheme can be any HEX code like "#00aa55"
 
