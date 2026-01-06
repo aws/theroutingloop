@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "The Routing Loop: Intro to Cloud WAN Advanced Routing",
+      "hosts"    : "Matt Lehwess, Sidhartha Chauhan",
+      "url"      : "/2026/01/07/cloud_wan_routing_policy.html",
+      "date"     : "07 Jan 2026",
+      "abstract" : "Managing a global network shouldn&#39;t mean losing control over your traffic. In this episode of The Routing Loop, we&#39;re introducing the latest routing enhancements for AWS Cloud WAN. We&#39;ll explore how new policy-driven features give you more precision over how routes move across your global core network."
+    } ,
+  
+    {
       "title"    : "New Launch - Network Firewall Proxy Walkthrough",
       "hosts"    : "Tom Adamski",
       "url"      : "/2025/12/10/nfw_proxy.html",

@@ -5,9 +5,49 @@
     <description>Weekly AWS Networking Twitch Show</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Dec 2025 16:56:16 -0800</pubDate>
-    <lastBuildDate>Wed, 10 Dec 2025 16:56:16 -0800</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 12:35:03 -0800</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 12:35:03 -0800</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title><![CDATA[The Routing Loop: Intro to Cloud WAN Advanced Routing]]></title>
+        <description><![CDATA[
+
+  7 January 2026
+
+  The Routing Loop: Intro to Cloud WAN Advanced Routing
+
+  Hosts:Matt Lehwess, Sidhartha Chauhan
+  Guests:
+  
+    📅 
+          Add to Calendar
+       
+  
+  
+    Abstract:Managing a global network shouldn't mean losing control over your traffic. In this episode of The Routing Loop, we're introducing the latest routing enhancements for AWS Cloud WAN. We'll explore how new policy-driven features give you more precision over how routes move across your global core network.
+  
+
+  
+  
+  
+    Session hasn't started. Join live on 7 January 2026 at 11 AM PT / 2 PM ET / 7 PM UK
+    
+      
+    
+  
+
+  
+    Video on demand will become available soon after the livestream
+  
+
+]]></description>
+        <pubDate>Wed, 07 Jan 2026 11:00:00 -0800</pubDate>
+        <link>/2026/01/07/cloud_wan_routing_policy.html</link>
+        <guid isPermaLink="true">/2026/01/07/cloud_wan_routing_policy.html</guid>
+        
+        
+      </item>
     
       <item>
         <title><![CDATA[New Launch - Network Firewall Proxy Walkthrough]]></title>
@@ -514,45 +554,6 @@
         <pubDate>Wed, 23 Jul 2025 12:00:00 -0700</pubDate>
         <link>/2025/07/23/net_sec_intro_cont.html</link>
         <guid isPermaLink="true">/2025/07/23/net_sec_intro_cont.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title><![CDATA[Intro to Network Security - best practices for securing your network]]></title>
-        <description><![CDATA[
-
-  9 July 2025
-
-  Intro to Network Security - best practices for securing your network
-
-  Hosts:Matt Lehwess, Jamie Wenzel
-  Guests:
-  
-    📅 
-          Add to Calendar
-       
-  
-  
-    Abstract:Network security is not only about adding a firewall in the data path - join us for a baseline session for network security constructs on AWS, from Network Access Control Lists to Security Groups, zero trust, firewall deployments and more. We'll review best practices for using each tool, scaling options, and latest announcements
-  
-
-  
-  
-     
-    
-      
-    
-    
-    Session Feedback/Content Suggestions
-  
-
-  
-
-]]></description>
-        <pubDate>Wed, 09 Jul 2025 12:00:00 -0700</pubDate>
-        <link>/2025/07/09/net_security.html</link>
-        <guid isPermaLink="true">/2025/07/09/net_security.html</guid>
         
         
       </item>
