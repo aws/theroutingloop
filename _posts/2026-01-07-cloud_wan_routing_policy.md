@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "The Routing Loop: Intro to Cloud WAN Advanced Routing"
-videoid: 
+videoid: v1rtYCeDB2s
 date:   2026-01-07 11:00:00 -0800
 abstract: "Managing a global network shouldn't mean losing control over your traffic. In this episode of The Routing Loop, we're introducing the latest routing enhancements for AWS Cloud WAN. We'll explore how new policy-driven features give you more precision over how routes move across your global core network."
 hosts: "Matt Lehwess, Sidhartha Chauhan"
