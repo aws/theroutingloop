@@ -5,9 +5,88 @@
     <description>Weekly AWS Networking Twitch Show</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Dec 2025 20:06:56 -0800</pubDate>
-    <lastBuildDate>Thu, 04 Dec 2025 20:06:56 -0800</lastBuildDate>
+    <pubDate>Thu, 15 Jan 2026 12:26:38 -0800</pubDate>
+    <lastBuildDate>Thu, 15 Jan 2026 12:26:38 -0800</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title><![CDATA[re:Invent 2025 - Chalk Talk - Solving private IPv4 exhaustion using AWS Cloud WAN and Amazon VPC Lattice ]]></title>
+        <description><![CDATA[4 February 2026 re:Invent 2025 - Chalk Talk - Solving private IPv4 exhaustion using AWS Cloud WAN and Amazon VPC Lattice Hosts:Matt Lehwess Guests:Alexandra Huides, Pr. Solutions Architect Mehdi Dahan, Sr. Solutions Architect 📅 Add to Calendar Abstract:Enterprises face private IPv4 exhaustion due to limited address planning, architectural shifts, mergers, and IP-hungry technologies like containers. The result - restrictions to cloud scalability and new project deployment. In this session, learn how AWS solutions solve these challenges with a scalable and cost effective approach combining AWS Cloud WAN with service insertion, and Amazon VPC Lattice to centralize private NAT Gateways and...]]></description>
+        <pubDate>Wed, 04 Feb 2026 11:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2026/02/04/chalk_talk_lattice.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2026/02/04/chalk_talk_lattice.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[re:Invent 2025 - Chalk Talk - I didn't know AWS WAF did this]]></title>
+        <description><![CDATA[28 January 2026 re:Invent 2025 - Chalk Talk - I didn't know AWS WAF did this Hosts:Tom Adamski Guests:Kartik Bheemisetty, Technical Account Manager, AWS 📅 Add to Calendar Abstract:Think AWS WAF is just for blocking SQL injection and XSS? Think again. In this interactive chalk talk, we'll dive into creative, real-world use cases - from deploying honeypots and shedding traffic, to stopping account fraud and mitigating DDoS at scale. We'll explore advanced configurations, walk through customer-tested patterns, and whiteboard strategies that make WAF a powerful tool in your security arsenal. Bring your questions and experiences - we're here to break...]]></description>
+        <pubDate>Wed, 28 Jan 2026 11:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2026/01/28/chalk_talk_waf.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2026/01/28/chalk_talk_waf.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[re:Invent 2025 - Chalk Talk - Origin management for multi-region applications with Amazon CloudFront ]]></title>
+        <description><![CDATA[21 January 2026 re:Invent 2025 - Chalk Talk - Origin management for multi-region applications with Amazon CloudFront Hosts:Jamie Wenzel Guests:Vinicius Pedroni, Sr. Solutions Architect Jonathan Woods, Solutions Architect 📅 Add to Calendar Abstract:In this session, you'll learn comprehensive origin management with Amazon CloudFront to build secure, resilient content delivery systems. We will cover automatic failover mechanisms with CloudFront and Route53, configure granular origin routing with CloudFront Functions, and secure origins using S3 with Origin Access Control (OAC) and VPC private origins for enhanced security. We'll explore integrating on-premises infrastructure through AWS Direct Connect for hybrid architectures, and deploy Origin Shield...]]></description>
+        <pubDate>Wed, 21 Jan 2026 11:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2026/01/21/chalk_talk_CloudFront_origin_management.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2026/01/21/chalk_talk_CloudFront_origin_management.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[All AWS Networking launches from re:Invent - Recap & Q&A]]></title>
+        <description><![CDATA[14 January 2026 All AWS Networking launches from re:Invent - Recap &amp; Q&amp;A Hosts:Alexandra Huides, Tom Adamski Guests: 📅 Add to Calendar Abstract:We shipped a lot of new AWS networking capabilities at and before re:Invent 2025 - and we’re breaking them all down, live. Join The Routing Loop for a rapid walkthrough of every major Networking &amp; Content Delivery launch from re:Invent, what changed, why it matters, and how you can actually use it. This session is fully interactive: bring your questions, challenge assumptions, and ask how these launches fit into real-world architectures. If you missed re:Invent, felt overwhelmed by...]]></description>
+        <pubDate>Wed, 14 Jan 2026 11:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2026/01/14/riv_recap.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2026/01/14/riv_recap.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[The Routing Loop: Intro to Cloud WAN Advanced Routing]]></title>
+        <description><![CDATA[
+
+  7 January 2026
+
+  The Routing Loop: Intro to Cloud WAN Advanced Routing
+
+  Hosts:Matt Lehwess, Sidhartha Chauhan
+  Guests:
+  
+    📅 
+          Add to Calendar
+       
+  
+  
+    Abstract:Managing a global network shouldn't mean losing control over your traffic. In this episode of The Routing Loop, we're introducing the latest routing enhancements for AWS Cloud WAN. We'll explore how new policy-driven features give you more precision over how routes move across your global core network.
+  
+
+  
+  
+     
+    
+      
+    
+    
+    Session Feedback/Content Suggestions
+  
+
+  
+
+]]></description>
+        <pubDate>Wed, 07 Jan 2026 11:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2026/01/07/cloud_wan_routing_policy.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2026/01/07/cloud_wan_routing_policy.html</guid>
+        
+        
+      </item>
     
       <item>
         <title><![CDATA[New Launch - Network Firewall Proxy Walkthrough]]></title>
@@ -416,143 +495,6 @@
         <pubDate>Wed, 20 Aug 2025 12:00:00 -0700</pubDate>
         <link>http://localhost:4000/2025/08/20/observability_anf_dashboard.html</link>
         <guid isPermaLink="true">http://localhost:4000/2025/08/20/observability_anf_dashboard.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title><![CDATA[Intro on network observability]]></title>
-        <description><![CDATA[13 August 2025 Intro on network observability Hosts:Jamie Wenzel, Matt Lehwess Guests:Vishwas Puttasubbappa, Principal Product Manager, Networking 📅 Add to Calendar Abstract:In this episode of The Routing Loop, we’re diving into network monitoring and observability, and how they differ in the cloud compared to traditional on-prem environments. Cloud networks generate logs and telemetry in ways that require a different approach, and we have a powerful suite of tools to help you make sense of it all.We’ll explore monitoring solutions purpose-built for the cloud and share strategies for working with the variety of logging data available. You’ll learn how to leverage...]]></description>
-        <pubDate>Wed, 13 Aug 2025 12:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2025/08/13/observability_intro.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/08/13/observability_intro.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title><![CDATA[What’s new in AWS Network Firewall - threat intelligence capabilities and new simplified deployment]]></title>
-        <description><![CDATA[
-
-  6 August 2025
-
-  What’s new in AWS Network Firewall - threat intelligence capabilities and new simplified deployment
-
-  Hosts:Tom Adamski
-  Guests:Jesse Lepich, Sr. Security Solutions Architect  Sofia Aluma, Sr. Security Specialist
-  
-    📅 
-          Add to Calendar
-       
-  
-  
-    Abstract:This technical session covers recent AWS Network Firewall enhancements that help improve traffic inspection and management. Learn about active threat defense with AWS threat intelligence, native Transit Gateway integration, automated domain lists, and multiple VPC endpoints, and more. Explore implementation patterns and operational best practices to help maintain consistent security controls while simplifying deployment.
-  
-
-  
-  
-     
-    
-      
-    
-    
-    Session Feedback/Content Suggestions
-  
-
-  
-
-]]></description>
-        <pubDate>Wed, 06 Aug 2025 12:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2025/08/06/net_firewall.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/08/06/net_firewall.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title><![CDATA[Rapid Security Deployment: A Hands-On Look at AWS WAF's New Interface]]></title>
-        <description><![CDATA[30 July 2025 Rapid Security Deployment: A Hands-On Look at AWS WAF's New Interface Hosts:Sidhartha Chauhan Guests:Kaustubh Phatak, Sr. Product Manager Idaliz Seymour, Product Marketing Manager 📅 Add to Calendar Abstract:Join us for a practical session where we'll demonstrate how to transform your web security deployment from hours to minutes.We're breaking down AWS WAF's new console experience with real-world examples and live configuration. Watch us set up protection for different workloads, explore automated recommendations, and manage everything from a single dashboard. We'll share tips and tricks we've learned from customer deployments and show you how to make the most of...]]></description>
-        <pubDate>Wed, 30 Jul 2025 12:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2025/07/30/waf_new_interface.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/07/30/waf_new_interface.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title><![CDATA[Intro to Network Security - best practices for securing your network (Continued)]]></title>
-        <description><![CDATA[
-
-  23 July 2025
-
-  Intro to Network Security - best practices for securing your network (Continued)
-
-  Hosts:Matt Lehwess, Jamie Wenzel
-  Guests:
-  
-    📅 
-          Add to Calendar
-       
-  
-  
-    Abstract:Network security is not only about adding a firewall in the data path - join us for a baseline session for network security constructs on AWS, from Network Access Control Lists to Security Groups, zero trust, firewall deployments and more. We'll review best practices for using each tool, scaling options, and latest announcements
-  
-
-  
-  
-     
-    
-      
-    
-    
-    Session Feedback/Content Suggestions
-  
-
-  
-
-]]></description>
-        <pubDate>Wed, 23 Jul 2025 12:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2025/07/23/net_sec_intro_cont.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/07/23/net_sec_intro_cont.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title><![CDATA[Intro to Network Security - best practices for securing your network]]></title>
-        <description><![CDATA[
-
-  9 July 2025
-
-  Intro to Network Security - best practices for securing your network
-
-  Hosts:Matt Lehwess, Jamie Wenzel
-  Guests:
-  
-    📅 
-          Add to Calendar
-       
-  
-  
-    Abstract:Network security is not only about adding a firewall in the data path - join us for a baseline session for network security constructs on AWS, from Network Access Control Lists to Security Groups, zero trust, firewall deployments and more. We'll review best practices for using each tool, scaling options, and latest announcements
-  
-
-  
-  
-     
-    
-      
-    
-    
-    Session Feedback/Content Suggestions
-  
-
-  
-
-]]></description>
-        <pubDate>Wed, 09 Jul 2025 12:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2025/07/09/net_security.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2025/07/09/net_security.html</guid>
         
         
       </item>

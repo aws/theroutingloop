@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "All AWS Networking launches from re:Invent - Recap & Q&A",
+      "hosts"    : "Alexandra Huides, Tom Adamski",
+      "url"      : "/2026/01/14/riv_recap.html",
+      "date"     : "14 Jan 2026",
+      "abstract" : "We shipped a lot of new AWS networking capabilities at and before re:Invent 2025 - and we’re breaking them all down, live. Join The Routing Loop for a rapid walkthrough of every major Networking &amp; Content Delivery launch from re:Invent, what changed, why it matters, and how you can actually use it. This session is fully interactive: bring your questions, challenge assumptions, and ask how these launches fit into real-world architectures. If you missed re:Invent, felt overwhelmed by announcements, or just want the why behind the what, this one’s for you."
+    } ,
+  
+    {
+      "title"    : "The Routing Loop: Intro to Cloud WAN Advanced Routing",
+      "hosts"    : "Matt Lehwess, Sidhartha Chauhan",
+      "url"      : "/2026/01/07/cloud_wan_routing_policy.html",
+      "date"     : "07 Jan 2026",
+      "abstract" : "Managing a global network shouldn&#39;t mean losing control over your traffic. In this episode of The Routing Loop, we&#39;re introducing the latest routing enhancements for AWS Cloud WAN. We&#39;ll explore how new policy-driven features give you more precision over how routes move across your global core network."
+    } ,
+  
+    {
       "title"    : "New Launch - Network Firewall Proxy Walkthrough",
       "hosts"    : "Tom Adamski",
       "url"      : "/2025/12/10/nfw_proxy.html",

@@ -1,6 +1,30 @@
 [
   
     {
+      "title"    : "re:Invent 2025 - Chalk Talk - Solving private IPv4 exhaustion using AWS Cloud WAN and Amazon VPC Lattice ",
+      "hosts"    : "Matt Lehwess",
+      "url"      : "/2026/02/04/chalk_talk_lattice.html",
+      "date"     : "04 Feb 2026",
+      "abstract" : "Enterprises face private IPv4 exhaustion due to limited address planning, architectural shifts, mergers, and IP-hungry technologies like containers. The result - restrictions to cloud scalability and new project deployment. In this session, learn how AWS solutions solve these challenges with a scalable and cost effective approach combining AWS Cloud WAN with service insertion, and Amazon VPC Lattice to centralize private NAT Gateways and AWS PrivateLink. With this setup, discover how to maximize IP space utilization, reduce costs, and simplify network management—offering a durable solution to support evolving infrastructure needs across distributed environments"
+    } ,
+  
+    {
+      "title"    : "re:Invent 2025 - Chalk Talk - I didn't know AWS WAF did this",
+      "hosts"    : "Tom Adamski",
+      "url"      : "/2026/01/28/chalk_talk_waf.html",
+      "date"     : "28 Jan 2026",
+      "abstract" : "Think AWS WAF is just for blocking SQL injection and XSS? Think again. In this interactive chalk talk, we&#39;ll dive into creative, real-world use cases - from deploying honeypots and shedding traffic, to stopping account fraud and mitigating DDoS at scale. We&#39;ll explore advanced configurations, walk through customer-tested patterns, and whiteboard strategies that make WAF a powerful tool in your security arsenal. Bring your questions and experiences - we&#39;re here to break the &#39;WAF does that?&#39; moments together."
+    } ,
+  
+    {
+      "title"    : "re:Invent 2025 - Chalk Talk - Origin management for multi-region applications with Amazon CloudFront ",
+      "hosts"    : "Jamie Wenzel",
+      "url"      : "/2026/01/21/chalk_talk_CloudFront_origin_management.html",
+      "date"     : "21 Jan 2026",
+      "abstract" : "In this session, you&#39;ll learn comprehensive origin management with Amazon CloudFront to build secure, resilient content delivery systems. We will cover automatic failover mechanisms with CloudFront and Route53, configure granular origin routing with CloudFront Functions, and secure origins using S3 with Origin Access Control (OAC) and VPC private origins for enhanced security. We&#39;ll explore integrating on-premises infrastructure through AWS Direct Connect for hybrid architectures, and deploy Origin Shield to further optimize cache performance and reduce origin load."
+    } ,
+  
+    {
       "title"    : "All AWS Networking launches from re:Invent - Recap & Q&A",
       "hosts"    : "Alexandra Huides, Tom Adamski",
       "url"      : "/2026/01/14/riv_recap.html",

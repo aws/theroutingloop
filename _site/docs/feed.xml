@@ -1,273 +1,532 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-12-03T19:48:38-08:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">New Launch - Network Firewall Proxy Walkthrough</title><link href="/2025/12/10/nfw_proxy.html" rel="alternate" type="text/html" title="New Launch - Network Firewall Proxy Walkthrough" /><published>2025-12-10T11:00:00-08:00</published><updated>2025-12-10T11:00:00-08:00</updated><id>/2025/12/10/nfw_proxy</id><content type="html" xml:base="/2025/12/10/nfw_proxy.html"><![CDATA[<div class="content-area">
-  <span class="date">10 December 2025</span>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Routing Loop</title>
+    <description>Weekly AWS Networking Twitch Show</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 13 Jan 2026 08:30:12 -0800</pubDate>
+    <lastBuildDate>Tue, 13 Jan 2026 08:30:12 -0800</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title><![CDATA[All AWS Networking launches from re:Invent - Recap & Q&A]]></title>
+        <description><![CDATA[14 January 2026 All AWS Networking launches from re:Invent - Recap &amp; Q&amp;A Hosts:Alexandra Huides, Tom Adamski Guests: 📅 Add to Calendar Abstract:We shipped a lot of new AWS networking capabilities at and before re:Invent 2025 - and we’re breaking them all down, live. Join The Routing Loop for a rapid walkthrough of every major Networking &amp; Content Delivery launch from re:Invent, what changed, why it matters, and how you can actually use it. This session is fully interactive: bring your questions, challenge assumptions, and ask how these launches fit into real-world architectures. If you missed re:Invent, felt overwhelmed by...]]></description>
+        <pubDate>Wed, 14 Jan 2026 11:00:00 -0800</pubDate>
+        <link>/2026/01/14/riv_recap.html</link>
+        <guid isPermaLink="true">/2026/01/14/riv_recap.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[The Routing Loop: Intro to Cloud WAN Advanced Routing]]></title>
+        <description><![CDATA[
 
-  <h1>New Launch - Network Firewall Proxy Walkthrough</h1>
+  7 January 2026
 
-  <p><b>Hosts:</b><br />Tom Adamski</p>
-  <p><b>Guests:</b><br /></p>
-  <p>
-    📅 <a href="data:text/calendar;charset=utf8,%0ABEGIN:VCALENDAR%0AVERSION:2.0%0APRODID:-//Your%20Website//Event%20Calendar//EN%0ABEGIN:VEVENT%0AUID:New-Launch---Network-Firewall-Proxy-Walkthrough@yourwebsite.com%0ADTSTAMP:20251203T194838Z%0ADTSTART;TZID=America/Los_Angeles:20251210T110000%0ADTEND;TZID=America/Los_Angeles:20251210T120000%0ASUMMARY:New%20Launch%20-%20Network%20Firewall%20Proxy%20Walkthrough%0ADESCRIPTION:Join%20us%20for%20our%20final%20Twitch%20session%20of%202025,%20where%20we%E2%80%99ll%20dive%20into%20the%20newly%20launched%20AWS%20Network%20Firewall%20Proxy.%20We%E2%80%99ll%20whiteboard,%20chat,%20and%20demo%20the%20feature%20to%20show%20how%20it%20enables%20centralized%20controls%20against%20data%20exfiltration%20and%20malware%20injection,%20with%20simple%20setup%20in%20explicit%20mode.%20Network%20Firewall%20Proxy%20helps%20you%20efficiently%20secure%20web%20and%20inter-network%20traffic%20by%20protecting%20against%20domain%20name%20and%20SNI%20spoofing,%20enforcing%20fine-grained%20access%20controls,%20and%20restricting%20application%20traffic%20to%20trusted%20domains%20or%20IPs%20while%20blocking%20unintended%20external%20responses.%20You%20can%20also%20enable%20TLS%20inspection%20and%20apply%20granular%20filtering%20on%20HTTP%20header%20attributes.%20Comprehensive%20logging%20to%20Amazon%20S3%20and%20CloudWatch%20provides%20deep%20visibility%20for%20monitoring,%20analysis,%20and%20audit.%20Join%20us%20to%20explore%20how%20these%20new%20capabilities%20can%20strengthen%20your%20security%20posture%20and%20simplify%20traffic%20governance%20across%20your%20applications.%0ALOCATION:Online%0AEND:VEVENT%0AEND:VCALENDAR%0A" download="new-launch---network-firewall-proxy-walkthrough.ics">
+  The Routing Loop: Intro to Cloud WAN Advanced Routing
+
+  Hosts:Matt Lehwess, Sidhartha Chauhan
+  Guests:
+  
+    📅 
           Add to Calendar
-       </a>
-  </p>
-  <div class="abstract">
-    <b>Abstract:</b><br />Join us for our final Twitch session of 2025, where we’ll dive into the newly launched AWS Network Firewall Proxy. We’ll whiteboard, chat, and demo the feature to show how it enables centralized controls against data exfiltration and malware injection, with simple setup in explicit mode. Network Firewall Proxy helps you efficiently secure web and inter-network traffic by protecting against domain name and SNI spoofing, enforcing fine-grained access controls, and restricting application traffic to trusted domains or IPs while blocking unintended external responses. You can also enable TLS inspection and apply granular filtering on HTTP header attributes. Comprehensive logging to Amazon S3 and CloudWatch provides deep visibility for monitoring, analysis, and audit. Join us to explore how these new capabilities can strengthen your security posture and simplify traffic governance across your applications.
-  </div>
-
+       
   
   
+    Abstract:Managing a global network shouldn't mean losing control over your traffic. In this episode of The Routing Loop, we're introducing the latest routing enhancements for AWS Cloud WAN. We'll explore how new policy-driven features give you more precision over how routes move across your global core network.
   
-    <p>Session hasn't started. Join live on <b>10 December 2025 at 11 AM PT / 2 PM ET / 7 PM UK</b></p>
-    <div class="video-container">
-      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
-    </div>
-  
-
-  
-    <b>Video on demand will become available soon after the livestream</b>
-  
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">re:Invent 2025 - Know before you go</title><link href="/2025/11/19/riv_know_b4_u_go.html" rel="alternate" type="text/html" title="re:Invent 2025 - Know before you go" /><published>2025-11-19T11:00:00-08:00</published><updated>2025-11-19T11:00:00-08:00</updated><id>/2025/11/19/riv_know_b4_u_go</id><content type="html" xml:base="/2025/11/19/riv_know_b4_u_go.html"><![CDATA[<div class="content-area">
-  <span class="date">19 November 2025</span>
-
-  <h1>re:Invent 2025 - Know before you go</h1>
-
-  <p><b>Hosts:</b><br />Alexandra Huides, Jamie Wenzel</p>
-  <p><b>Guests:</b><br />Anusha Jampala, Sr Product Marketing Manager</p>
-  <p>
-    📅 <a href="data:text/calendar;charset=utf8,%0ABEGIN:VCALENDAR%0AVERSION:2.0%0APRODID:-//Your%20Website//Event%20Calendar//EN%0ABEGIN:VEVENT%0AUID:re:Invent-2025---Know-before-you-go@yourwebsite.com%0ADTSTAMP:20251203T194838Z%0ADTSTART;TZID=America/Los_Angeles:20251119T110000%0ADTEND;TZID=America/Los_Angeles:20251119T120000%0ASUMMARY:re:Invent%202025%20-%20Know%20before%20you%20go%0ADESCRIPTION:Learn%20about%20what's%20happening%20in%20the%20Networking%20track%20at%20re:Invent%202025%0ALOCATION:Online%0AEND:VEVENT%0AEND:VCALENDAR%0A" download="reinvent-2025---know-before-you-go.ics">
-          Add to Calendar
-       </a>
-  </p>
-  <div class="abstract">
-    <b>Abstract:</b><br />Learn about what's happening in the Networking track at re:Invent 2025
-  </div>
 
   
   
      
-    <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/VBtqqK66j38?autoplay=0" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+    
+      
+    
+    
+    Session Feedback/Content Suggestions
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">New Launch - Amazon VPC Lattice support for custom DNS for resources</title><link href="/2025/11/12/custom_dns_lattice_resources.html" rel="alternate" type="text/html" title="New Launch - Amazon VPC Lattice support for custom DNS for resources" /><published>2025-11-12T11:00:00-08:00</published><updated>2025-11-12T11:00:00-08:00</updated><id>/2025/11/12/custom_dns_lattice_resources</id><content type="html" xml:base="/2025/11/12/custom_dns_lattice_resources.html"><![CDATA[<div class="content-area">
-  <span class="date">12 November 2025</span>
 
-  <h1>New Launch -  Amazon VPC Lattice support for custom DNS for resources</h1>
+]]></description>
+        <pubDate>Wed, 07 Jan 2026 11:00:00 -0800</pubDate>
+        <link>/2026/01/07/cloud_wan_routing_policy.html</link>
+        <guid isPermaLink="true">/2026/01/07/cloud_wan_routing_policy.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[New Launch - Network Firewall Proxy Walkthrough]]></title>
+        <description><![CDATA[10 December 2025 New Launch - Network Firewall Proxy Walkthrough Hosts:Tom Adamski Guests: 📅 Add to Calendar Abstract:Join us for our final Twitch session of 2025, where we’ll dive into the newly launched AWS Network Firewall Proxy. We’ll whiteboard, chat, and demo the feature to show how it enables centralized controls against data exfiltration and malware injection, with simple setup in explicit mode. Network Firewall Proxy helps you efficiently secure web and inter-network traffic by protecting against domain name and SNI spoofing, enforcing fine-grained access controls, and restricting application traffic to trusted domains or IPs while blocking unintended external responses....]]></description>
+        <pubDate>Wed, 10 Dec 2025 11:00:00 -0800</pubDate>
+        <link>/2025/12/10/nfw_proxy.html</link>
+        <guid isPermaLink="true">/2025/12/10/nfw_proxy.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[re:Invent 2025 - Know before you go]]></title>
+        <description><![CDATA[
 
-  <p><b>Hosts:</b><br />Alexandra Huides, Matt Lehwess</p>
-  <p><b>Guests:</b><br />Mohak Kohli, Sr. SDE, VPC Lattice</p>
-  <p>
-    📅 <a href="data:text/calendar;charset=utf8,%0ABEGIN:VCALENDAR%0AVERSION:2.0%0APRODID:-//Your%20Website//Event%20Calendar//EN%0ABEGIN:VEVENT%0AUID:New-Launch----Amazon-VPC-Lattice-support-for-custom-DNS-for-resources@yourwebsite.com%0ADTSTAMP:20251203T194838Z%0ADTSTART;TZID=America/Los_Angeles:20251112T110000%0ADTEND;TZID=America/Los_Angeles:20251112T120000%0ASUMMARY:New%20Launch%20-%20%20Amazon%20VPC%20Lattice%20support%20for%20custom%20DNS%20for%20resources%0ADESCRIPTION:In%20this%20video,%20we%20explore%20a%20new%20VPC%20Lattice%20enhancement%20that%20lets%20you%20attach%20custom%20domain%20names%20to%20your%20resource%20configurations.%20This%20update%20expands%20how%20teams%20expose%20and%20access%20layer-4%20resources%E2%80%94such%20as%20databases,%20clusters,%20and%20internal%20domains%E2%80%94across%20VPCs%20and%20AWS%20accounts.%0AWith%20this%20release,%20resource%20owners%20can%20assign%20a%20custom%20domain%20to%20a%20resource%20configuration%20and%20share%20it%20with%20consumers,%20who%20can%20then%20access%20the%20resource%20through%20that%20domain.%20VPC%20Lattice%20automatically%20manages%20a%20private%20hosted%20zone%20in%20the%20consumer%E2%80%99s%20VPC,%20making%20cross-VPC%20connectivity%20simpler%20and%20more%20consistent.%0ALOCATION:Online%0AEND:VEVENT%0AEND:VCALENDAR%0A" download="new-launch----amazon-vpc-lattice-support-for-custom-dns-for-resources.ics">
+  19 November 2025
+
+  re:Invent 2025 - Know before you go
+
+  Hosts:Alexandra Huides, Jamie Wenzel
+  Guests:Anusha Jampala, Sr Product Marketing Manager
+  
+    📅 
           Add to Calendar
-       </a>
-  </p>
-  <div class="abstract">
-    <b>Abstract:</b><br />In this video, we explore a new VPC Lattice enhancement that lets you attach custom domain names to your resource configurations. This update expands how teams expose and access layer-4 resources—such as databases, clusters, and internal domains—across VPCs and AWS accounts.
-With this release, resource owners can assign a custom domain to a resource configuration and share it with consumers, who can then access the resource through that domain. VPC Lattice automatically manages a private hosted zone in the consumer’s VPC, making cross-VPC connectivity simpler and more consistent.
-  </div>
+       
+  
+  
+    Abstract:Learn about what's happening in the Networking track at re:Invent 2025
+  
 
   
   
      
-    <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/Aov7zNBExPg?autoplay=0" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+    
+      
+    
+    
+    Session Feedback/Content Suggestions
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Let s chat AWS networking with Jamie and Matt</title><link href="/2025/11/05/Jamie-&-Matt-Discsusion.html" rel="alternate" type="text/html" title="Let s chat AWS networking with Jamie and Matt" /><published>2025-11-05T11:00:00-08:00</published><updated>2025-11-05T11:00:00-08:00</updated><id>/2025/11/05/Jamie%20&amp;%20Matt%20Discsusion</id><content type="html" xml:base="/2025/11/05/Jamie-&amp;-Matt-Discsusion.html"><![CDATA[<div class="content-area">
-  <span class="date">5 November 2025</span>
 
-  <h1>Let s chat AWS networking with Jamie and Matt</h1>
+]]></description>
+        <pubDate>Wed, 19 Nov 2025 11:00:00 -0800</pubDate>
+        <link>/2025/11/19/riv_know_b4_u_go.html</link>
+        <guid isPermaLink="true">/2025/11/19/riv_know_b4_u_go.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[New Launch -  Amazon VPC Lattice support for custom DNS for resources]]></title>
+        <description><![CDATA[12 November 2025 New Launch - Amazon VPC Lattice support for custom DNS for resources Hosts:Alexandra Huides, Matt Lehwess Guests:Mohak Kohli, Sr. SDE, VPC Lattice 📅 Add to Calendar Abstract:In this video, we explore a new VPC Lattice enhancement that lets you attach custom domain names to your resource configurations. This update expands how teams expose and access layer-4 resources—such as databases, clusters, and internal domains—across VPCs and AWS accounts. With this release, resource owners can assign a custom domain to a resource configuration and share it with consumers, who can then access the resource through that domain. VPC Lattice...]]></description>
+        <pubDate>Wed, 12 Nov 2025 11:00:00 -0800</pubDate>
+        <link>/2025/11/12/custom_dns_lattice_resources.html</link>
+        <guid isPermaLink="true">/2025/11/12/custom_dns_lattice_resources.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[Let s chat AWS networking with Jamie and Matt]]></title>
+        <description><![CDATA[
 
-  <p><b>Hosts:</b><br />Jamie Wenzel, Matt Lehwess</p>
-  <p><b>Guests:</b><br /></p>
-  <p>
-    📅 <a href="data:text/calendar;charset=utf8,%0ABEGIN:VCALENDAR%0AVERSION:2.0%0APRODID:-//Your%20Website//Event%20Calendar//EN%0ABEGIN:VEVENT%0AUID:Let-s-chat-AWS-networking-with-Jamie-and-Matt@yourwebsite.com%0ADTSTAMP:20251203T194838Z%0ADTSTART;TZID=America/Los_Angeles:20251105T110000%0ADTEND;TZID=America/Los_Angeles:20251105T120000%0ASUMMARY:Let%20s%20chat%20AWS%20networking%20with%20Jamie%20and%20Matt%0ADESCRIPTION:Open%20discussion%20on%20AWS%20networking%20with%20Jamie%20and%20Matt%0ALOCATION:Online%0AEND:VEVENT%0AEND:VCALENDAR%0A" download="let-s-chat-aws-networking-with-jamie-and-matt.ics">
+  5 November 2025
+
+  Let s chat AWS networking with Jamie and Matt
+
+  Hosts:Jamie Wenzel, Matt Lehwess
+  Guests:
+  
+    📅 
           Add to Calendar
-       </a>
-  </p>
-  <div class="abstract">
-    <b>Abstract:</b><br />Open discussion on AWS networking with Jamie and Matt
-  </div>
+       
+  
+  
+    Abstract:Open discussion on AWS networking with Jamie and Matt
+  
 
   
   
      
-    <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/3Zs5bhiWAow?autoplay=0" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+    
+      
+    
+    
+    Session Feedback/Content Suggestions
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">To do or not to do VPC Sharing: A candid chat about VPC sharing considerations and best practices</title><link href="/2025/10/29/vpc_sharing.html" rel="alternate" type="text/html" title="To do or not to do VPC Sharing: A candid chat about VPC sharing considerations and best practices" /><published>2025-10-29T12:00:00-07:00</published><updated>2025-10-29T12:00:00-07:00</updated><id>/2025/10/29/vpc_sharing</id><content type="html" xml:base="/2025/10/29/vpc_sharing.html"><![CDATA[<div class="content-area">
-  <span class="date">29 October 2025</span>
 
-  <h1>To do or not to do VPC Sharing: A candid chat about VPC sharing considerations and best practices</h1>
+]]></description>
+        <pubDate>Wed, 05 Nov 2025 11:00:00 -0800</pubDate>
+        <link>/2025/11/05/Jamie-&amp;-Matt-Discsusion.html</link>
+        <guid isPermaLink="true">/2025/11/05/Jamie-&amp;-Matt-Discsusion.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[To do or not to do VPC Sharing: A candid chat about VPC sharing considerations and best practices]]></title>
+        <description><![CDATA[29 October 2025 To do or not to do VPC Sharing: A candid chat about VPC sharing considerations and best practices Hosts:Alexandra Huides, Matt Lehwess Guests: 📅 Add to Calendar Abstract:VPC sharing can be a powerful way to simplify network management and enable teams to collaborate securely — but it’s not a one-size-fits-all solution. In this episode of The Routing Loop, we’re having a candid chat about when (and when not) to use Amazon VPC sharing. We’ll unpack real-world pros and cons, from operational efficiency and security boundaries to service ownership, scaling, and governance. Whether you’re a platform team debating...]]></description>
+        <pubDate>Wed, 29 Oct 2025 12:00:00 -0700</pubDate>
+        <link>/2025/10/29/vpc_sharing.html</link>
+        <guid isPermaLink="true">/2025/10/29/vpc_sharing.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[Amazon VPC and dynamic routing with VPC Route Server]]></title>
+        <description><![CDATA[
 
-  <p><b>Hosts:</b><br />Alexandra Huides, Matt Lehwess</p>
-  <p><b>Guests:</b><br /></p>
-  <p>
-    📅 <a href="data:text/calendar;charset=utf8,%0ABEGIN:VCALENDAR%0AVERSION:2.0%0APRODID:-//Your%20Website//Event%20Calendar//EN%0ABEGIN:VEVENT%0AUID:To-do-or-not-to-do-VPC-Sharing:-A-candid-chat-about-VPC-sharing-considerations-and-best-practices@yourwebsite.com%0ADTSTAMP:20251203T194838Z%0ADTSTART;TZID=America/Los_Angeles:20251029T110000%0ADTEND;TZID=America/Los_Angeles:20251029T120000%0ASUMMARY:To%20do%20or%20not%20to%20do%20VPC%20Sharing:%20A%20candid%20chat%20about%20VPC%20sharing%20considerations%20and%20best%20practices%0ADESCRIPTION:VPC%20sharing%20can%20be%20a%20powerful%20way%20to%20simplify%20network%20management%20and%20enable%20teams%20to%20collaborate%20securely%20%E2%80%94%20but%20it%E2%80%99s%20not%20a%20one-size-fits-all%20solution.%20In%20this%20episode%20of%20The%20Routing%20Loop,%20we%E2%80%99re%20having%20a%20candid%20chat%20about%20when%20(and%20when%20not)%20to%20use%20Amazon%20VPC%20sharing.%20We%E2%80%99ll%20unpack%20real-world%20pros%20and%20cons,%20from%20operational%20efficiency%20and%20security%20boundaries%20to%20service%20ownership,%20scaling,%20and%20governance.%20Whether%20you%E2%80%99re%20a%20platform%20team%20debating%20your%20multi-account%20strategy%20or%20an%20application%20team%20wondering%20how%20much%20control%20you%E2%80%99ll%20lose%20(or%20gain),%20this%20discussion%20will%20help%20you%20make%20an%20informed%20decision%20%E2%80%94%20with%20some%20real%20talk%20and%20a%20few%20war%20stories.%0ALOCATION:Online%0AEND:VEVENT%0AEND:VCALENDAR%0A" download="to-do-or-not-to-do-vpc-sharing-a-candid-chat-about-vpc-sharing-considerations-and-best-practices.ics">
+  22 October 2025
+
+  Amazon VPC and dynamic routing with VPC Route Server
+
+  Hosts:Jamie Wenzel
+  Guests:Ammar Latif, Pr. Solutions Architect, Telco, AWS 
+  
+    📅 
           Add to Calendar
-       </a>
-  </p>
-  <div class="abstract">
-    <b>Abstract:</b><br />VPC sharing can be a powerful way to simplify network management and enable teams to collaborate securely — but it’s not a one-size-fits-all solution. In this episode of The Routing Loop, we’re having a candid chat about when (and when not) to use Amazon VPC sharing. We’ll unpack real-world pros and cons, from operational efficiency and security boundaries to service ownership, scaling, and governance. Whether you’re a platform team debating your multi-account strategy or an application team wondering how much control you’ll lose (or gain), this discussion will help you make an informed decision — with some real talk and a few war stories.
-  </div>
+       
+  
+  
+    Abstract:Join us as we explore how AWS Route Server brings dynamic routing to Amazon VPC. See how it enables BGP route exchange between your virtual appliances and AWS networking services, making it easier to build scalable, automated, and flexible cloud networks.
+  
 
   
   
      
-    <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/okLb3Gn2oOU?autoplay=0" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+    
+      
+    
+    
+    Session Feedback/Content Suggestions
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Amazon VPC and dynamic routing with VPC Route Server</title><link href="/2025/10/22/route_server.html" rel="alternate" type="text/html" title="Amazon VPC and dynamic routing with VPC Route Server" /><published>2025-10-22T12:00:00-07:00</published><updated>2025-10-22T12:00:00-07:00</updated><id>/2025/10/22/route_server</id><content type="html" xml:base="/2025/10/22/route_server.html"><![CDATA[<div class="content-area">
-  <span class="date">22 October 2025</span>
 
-  <h1>Amazon VPC and dynamic routing with VPC Route Server</h1>
+]]></description>
+        <pubDate>Wed, 22 Oct 2025 12:00:00 -0700</pubDate>
+        <link>/2025/10/22/route_server.html</link>
+        <guid isPermaLink="true">/2025/10/22/route_server.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[Route 53 Resolver endpoint delegation]]></title>
+        <description><![CDATA[
 
-  <p><b>Hosts:</b><br />Jamie Wenzel</p>
-  <p><b>Guests:</b><br />Ammar Latif, Pr. Solutions Architect, Telco, AWS </p>
-  <p>
-    📅 <a href="data:text/calendar;charset=utf8,%0ABEGIN:VCALENDAR%0AVERSION:2.0%0APRODID:-//Your%20Website//Event%20Calendar//EN%0ABEGIN:VEVENT%0AUID:Amazon-VPC-and-dynamic-routing-with-VPC-Route-Server@yourwebsite.com%0ADTSTAMP:20251203T194838Z%0ADTSTART;TZID=America/Los_Angeles:20251022T110000%0ADTEND;TZID=America/Los_Angeles:20251022T120000%0ASUMMARY:Amazon%20VPC%20and%20dynamic%20routing%20with%20VPC%20Route%20Server%0ADESCRIPTION:Join%20us%20as%20we%20explore%20how%20AWS%20Route%20Server%20brings%20dynamic%20routing%20to%20Amazon%20VPC.%20See%20how%20it%20enables%20BGP%20route%20exchange%20between%20your%20virtual%20appliances%20and%20AWS%20networking%20services,%20making%20it%20easier%20to%20build%20scalable,%20automated,%20and%20flexible%20cloud%20networks.%0ALOCATION:Online%0AEND:VEVENT%0AEND:VCALENDAR%0A" download="amazon-vpc-and-dynamic-routing-with-vpc-route-server.ics">
+  15 October 2025
+
+  Route 53 Resolver endpoint delegation
+
+  Hosts:Tom Adamski
+  Guests:Tekena Orugbani, Sr. Solutions Architect, AWS  Adhish Bhobe, Sr. Product Manager, Route 53, AWS 
+  
+    📅 
           Add to Calendar
-       </a>
-  </p>
-  <div class="abstract">
-    <b>Abstract:</b><br />Join us as we explore how AWS Route Server brings dynamic routing to Amazon VPC. See how it enables BGP route exchange between your virtual appliances and AWS networking services, making it easier to build scalable, automated, and flexible cloud networks.
-  </div>
+       
+  
+  
+    Abstract:A new capability of Route 53 Resolver endpoints, that helps customers make delegations for private hosted zone subdomains using Route 53 inbound and outbound Resolver endpoints. The feature allows customers to delegate the authority for a subdomain from their on-premises infrastructure to the Route 53 Resolver cloud service and vice versa, enabling a simplified cloud experience across namespaces in AWS and on their own local infrastructure.
+  
 
   
   
      
-    <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/jdj-EnTVYMA?autoplay=0" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+    
+      
+    
+    
+    Session Feedback/Content Suggestions
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Route 53 Resolver endpoint delegation</title><link href="/2025/10/15/resolver_delegation.html" rel="alternate" type="text/html" title="Route 53 Resolver endpoint delegation" /><published>2025-10-15T12:00:00-07:00</published><updated>2025-10-15T12:00:00-07:00</updated><id>/2025/10/15/resolver_delegation</id><content type="html" xml:base="/2025/10/15/resolver_delegation.html"><![CDATA[<div class="content-area">
-  <span class="date">15 October 2025</span>
 
-  <h1>Route 53 Resolver endpoint delegation</h1>
+]]></description>
+        <pubDate>Wed, 15 Oct 2025 12:00:00 -0700</pubDate>
+        <link>/2025/10/15/resolver_delegation.html</link>
+        <guid isPermaLink="true">/2025/10/15/resolver_delegation.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[Modern Connectivity Patterns for ISVs on AWS]]></title>
+        <description><![CDATA[
 
-  <p><b>Hosts:</b><br />Tom Adamski</p>
-  <p><b>Guests:</b><br />Tekena Orugbani, Sr. Solutions Architect, AWS <br /> Adhish Bhobe, Sr. Product Manager, Route 53, AWS </p>
-  <p>
-    📅 <a href="data:text/calendar;charset=utf8,%0ABEGIN:VCALENDAR%0AVERSION:2.0%0APRODID:-//Your%20Website//Event%20Calendar//EN%0ABEGIN:VEVENT%0AUID:Route-53-Resolver-endpoint-delegation@yourwebsite.com%0ADTSTAMP:20251203T194838Z%0ADTSTART;TZID=America/Los_Angeles:20251015T110000%0ADTEND;TZID=America/Los_Angeles:20251015T120000%0ASUMMARY:Route%2053%20Resolver%20endpoint%20delegation%0ADESCRIPTION:A%20new%20capability%20of%20Route%2053%20Resolver%20endpoints,%20that%20helps%20customers%20make%20delegations%20for%20private%20hosted%20zone%20subdomains%20using%20Route%2053%20inbound%20and%20outbound%20Resolver%20endpoints.%20The%20feature%20allows%20customers%20to%20delegate%20the%20authority%20for%20a%20subdomain%20from%20their%20on-premises%20infrastructure%20to%20the%20Route%2053%20Resolver%20cloud%20service%20and%20vice%20versa,%20enabling%20a%20simplified%20cloud%20experience%20across%20namespaces%20in%20AWS%20and%20on%20their%20own%20local%20infrastructure.%0ALOCATION:Online%0AEND:VEVENT%0AEND:VCALENDAR%0A" download="route-53-resolver-endpoint-delegation.ics">
+  8 October 2025
+
+  Modern Connectivity Patterns for ISVs on AWS
+
+  Hosts:Alexandra Huides, Tom Adamski
+  Guests:
+  
+    📅 
           Add to Calendar
-       </a>
-  </p>
-  <div class="abstract">
-    <b>Abstract:</b><br />A new capability of Route 53 Resolver endpoints, that helps customers make delegations for private hosted zone subdomains using Route 53 inbound and outbound Resolver endpoints. The feature allows customers to delegate the authority for a subdomain from their on-premises infrastructure to the Route 53 Resolver cloud service and vice versa, enabling a simplified cloud experience across namespaces in AWS and on their own local infrastructure.
-  </div>
+       
+  
+  
+    Abstract:How do Independent Software Vendors build secure, scalable connectivity with their customers on AWS? In this session, we’ll unpack common networking patterns ISVs use to expose their applications to end customers — and how they gain access to customer-owned data sources in the reverse direction. We’ll compare public connectivity approaches with private networking options, from VPC peering and Transit Gateway to application-centric services like AWS PrivateLink and Amazon VPC Lattice.
+  
 
   
   
      
-    <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/jdj-EnTVYMA?autoplay=0" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+    
+      
+    
+    
+    Session Feedback/Content Suggestions
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Modern Connectivity Patterns for ISVs on AWS</title><link href="/2025/10/08/isv_connectivity.html" rel="alternate" type="text/html" title="Modern Connectivity Patterns for ISVs on AWS" /><published>2025-10-08T12:00:00-07:00</published><updated>2025-10-08T12:00:00-07:00</updated><id>/2025/10/08/isv_connectivity</id><content type="html" xml:base="/2025/10/08/isv_connectivity.html"><![CDATA[<div class="content-area">
-  <span class="date">8 October 2025</span>
 
-  <h1>Modern Connectivity Patterns for ISVs on AWS</h1>
+]]></description>
+        <pubDate>Wed, 08 Oct 2025 12:00:00 -0700</pubDate>
+        <link>/2025/10/08/isv_connectivity.html</link>
+        <guid isPermaLink="true">/2025/10/08/isv_connectivity.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[Load Balancer Capacity Units - What are they? Why do I care]]></title>
+        <description><![CDATA[
 
-  <p><b>Hosts:</b><br />Alexandra Huides, Tom Adamski</p>
-  <p><b>Guests:</b><br /></p>
-  <p>
-    📅 <a href="data:text/calendar;charset=utf8,%0ABEGIN:VCALENDAR%0AVERSION:2.0%0APRODID:-//Your%20Website//Event%20Calendar//EN%0ABEGIN:VEVENT%0AUID:Modern-Connectivity-Patterns-for-ISVs-on-AWS@yourwebsite.com%0ADTSTAMP:20251203T194838Z%0ADTSTART;TZID=America/Los_Angeles:20251008T110000%0ADTEND;TZID=America/Los_Angeles:20251008T120000%0ASUMMARY:Modern%20Connectivity%20Patterns%20for%20ISVs%20on%20AWS%0ADESCRIPTION:How%20do%20Independent%20Software%20Vendors%20build%20secure,%20scalable%20connectivity%20with%20their%20customers%20on%20AWS?%20In%20this%20session,%20we%E2%80%99ll%20unpack%20common%20networking%20patterns%20ISVs%20use%20to%20expose%20their%20applications%20to%20end%20customers%20%E2%80%94%20and%20how%20they%20gain%20access%20to%20customer-owned%20data%20sources%20in%20the%20reverse%20direction.%20We%E2%80%99ll%20compare%20public%20connectivity%20approaches%20with%20private%20networking%20options,%20from%20VPC%20peering%20and%20Transit%20Gateway%20to%20application-centric%20services%20like%20AWS%20PrivateLink%20and%20Amazon%20VPC%20Lattice.%0ALOCATION:Online%0AEND:VEVENT%0AEND:VCALENDAR%0A" download="modern-connectivity-patterns-for-isvs-on-aws.ics">
+  1 October 2025
+
+  Load Balancer Capacity Units - What are they? Why do I care
+
+  Hosts:Jamie Wenzel
+  Guests:Hema Halagatti, Sr. Product Manager, Load Balancing, AWS  Jon Zobrist, Head of ELB Customer Success, AWS 
+  
+    📅 
           Add to Calendar
-       </a>
-  </p>
-  <div class="abstract">
-    <b>Abstract:</b><br />How do Independent Software Vendors build secure, scalable connectivity with their customers on AWS? In this session, we’ll unpack common networking patterns ISVs use to expose their applications to end customers — and how they gain access to customer-owned data sources in the reverse direction. We’ll compare public connectivity approaches with private networking options, from VPC peering and Transit Gateway to application-centric services like AWS PrivateLink and Amazon VPC Lattice.
-  </div>
+       
+  
+  
+    Abstract:Load Balancer Capacity Units can feel a little mysterious. Fear not, we’ve got you covered. In this session, we’ll break down what they are, how you can reserve them, and practical ways to keep your costs under control. Join us for a clear, no-nonsense look at making LCU management simple and cost-effective.
+  
 
   
   
      
-    <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/USEsGM3aFTY?autoplay=0" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+    
+      
+    
+    
+    Session Feedback/Content Suggestions
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Load Balancer Capacity Units - What are they? Why do I care</title><link href="/2025/10/01/lcus_walkthrough.html" rel="alternate" type="text/html" title="Load Balancer Capacity Units - What are they? Why do I care" /><published>2025-10-01T12:00:00-07:00</published><updated>2025-10-01T12:00:00-07:00</updated><id>/2025/10/01/lcus_walkthrough</id><content type="html" xml:base="/2025/10/01/lcus_walkthrough.html"><![CDATA[<div class="content-area">
-  <span class="date">1 October 2025</span>
 
-  <h1>Load Balancer Capacity Units - What are they? Why do I care</h1>
+]]></description>
+        <pubDate>Wed, 01 Oct 2025 12:00:00 -0700</pubDate>
+        <link>/2025/10/01/lcus_walkthrough.html</link>
+        <guid isPermaLink="true">/2025/10/01/lcus_walkthrough.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[Using generative AI for building AWS networks]]></title>
+        <description><![CDATA[24 September 2025 Using generative AI for building AWS networks Hosts:Sidhartha Chauhan Guests:Sohaib Tahir, Principal Solutions Architect, AWS 📅 Add to Calendar Abstract:Join us for a deep dive into the transformative potential of generative AI in building and managing AWS networks. This webinar will explore how tools like Amazon Bedrock and Amazon Q can streamline complex network tasks, from initial greenfield deployments to network migration and modernization. We'll demonstrate practical use cases, including using natural language prompts to deploy a global network with AWS Cloud WAN, updating policies, and generating infrastructure as code (IaC) templates. Learn how to accelerate your...]]></description>
+        <pubDate>Wed, 24 Sep 2025 12:00:00 -0700</pubDate>
+        <link>/2025/09/24/build_net_with_ai.html</link>
+        <guid isPermaLink="true">/2025/09/24/build_net_with_ai.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[Finding Network Root Causes in Seconds with Digital Twins and Agentic AI]]></title>
+        <description><![CDATA[
 
-  <p><b>Hosts:</b><br />Jamie Wenzel</p>
-  <p><b>Guests:</b><br />Hema Halagatti, Sr. Product Manager, Load Balancing, AWS <br /> Jon Zobrist, Head of ELB Customer Success, AWS </p>
-  <p>
-    📅 <a href="data:text/calendar;charset=utf8,%0ABEGIN:VCALENDAR%0AVERSION:2.0%0APRODID:-//Your%20Website//Event%20Calendar//EN%0ABEGIN:VEVENT%0AUID:Load-Balancer-Capacity-Units---What-are-they?-Why-do-I-care@yourwebsite.com%0ADTSTAMP:20251203T194838Z%0ADTSTART;TZID=America/Los_Angeles:20251001T110000%0ADTEND;TZID=America/Los_Angeles:20251001T120000%0ASUMMARY:Load%20Balancer%20Capacity%20Units%20-%20What%20are%20they?%20Why%20do%20I%20care%0ADESCRIPTION:Load%20Balancer%20Capacity%20Units%20can%20feel%20a%20little%20mysterious.%20Fear%20not,%20we%E2%80%99ve%20got%20you%20covered.%20In%20this%20session,%20we%E2%80%99ll%20break%20down%20what%20they%20are,%20how%20you%20can%20reserve%20them,%20and%20practical%20ways%20to%20keep%20your%20costs%20under%20control.%20Join%20us%20for%20a%20clear,%20no-nonsense%20look%20at%20making%20LCU%20management%20simple%20and%20cost-effective.%0ALOCATION:Online%0AEND:VEVENT%0AEND:VCALENDAR%0A" download="load-balancer-capacity-units---what-are-they?-why-do-i-care.ics">
+  17 September 2025
+
+  Finding Network Root Causes in Seconds with Digital Twins and Agentic AI
+
+  Hosts:Matt Lehwess, Jamie Wenzel
+  Guests:Imen GRIDA BEN YAHYA, Principal Solutions Architect, Telecom AI/ML, AWS 
+  
+    📅 
           Add to Calendar
-       </a>
-  </p>
-  <div class="abstract">
-    <b>Abstract:</b><br />Load Balancer Capacity Units can feel a little mysterious. Fear not, we’ve got you covered. In this session, we’ll break down what they are, how you can reserve them, and practical ways to keep your costs under control. Join us for a clear, no-nonsense look at making LCU management simple and cost-effective.
-  </div>
+       
+  
+  
+    Abstract:Network failures can often take hours to diagnose. This week on The Routing Loop, we'll show how a network digital twin with graph DB and Agentic AI can find root causes in seconds. Join Jamie, Matt, and Imen for a deep dive into making network operations faster and more reliable.
+  
 
   
   
      
-    <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/C9SB8Ltu4eI?autoplay=0" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+    
+      
+    
+    
+    Session Feedback/Content Suggestions
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Using generative AI for building AWS networks</title><link href="/2025/09/24/build_net_with_ai.html" rel="alternate" type="text/html" title="Using generative AI for building AWS networks" /><published>2025-09-24T12:00:00-07:00</published><updated>2025-09-24T12:00:00-07:00</updated><id>/2025/09/24/build_net_with_ai</id><content type="html" xml:base="/2025/09/24/build_net_with_ai.html"><![CDATA[<div class="content-area">
-  <span class="date">24 September 2025</span>
 
-  <h1>Using generative AI for building AWS networks</h1>
+]]></description>
+        <pubDate>Wed, 17 Sep 2025 12:00:00 -0700</pubDate>
+        <link>/2025/09/17/root_cause_with_ai.html</link>
+        <guid isPermaLink="true">/2025/09/17/root_cause_with_ai.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[Uncover network security issues with AWS Shield network security director]]></title>
+        <description><![CDATA[
 
-  <p><b>Hosts:</b><br />Sidhartha Chauhan</p>
-  <p><b>Guests:</b><br />Sohaib Tahir, Principal Solutions Architect, AWS </p>
-  <p>
-    📅 <a href="data:text/calendar;charset=utf8,%0ABEGIN:VCALENDAR%0AVERSION:2.0%0APRODID:-//Your%20Website//Event%20Calendar//EN%0ABEGIN:VEVENT%0AUID:Using-generative-AI-for-building-AWS-networks@yourwebsite.com%0ADTSTAMP:20251203T194838Z%0ADTSTART;TZID=America/Los_Angeles:20250924T110000%0ADTEND;TZID=America/Los_Angeles:20250924T120000%0ASUMMARY:Using%20generative%20AI%20for%20building%20AWS%20networks%0ADESCRIPTION:Join%20us%20for%20a%20deep%20dive%20into%20the%20transformative%20potential%20of%20generative%20AI%20in%20building%20and%20managing%20AWS%20networks.%20This%20webinar%20will%20explore%20how%20tools%20like%20Amazon%20Bedrock%20and%20Amazon%20Q%20can%20streamline%20complex%20network%20tasks,%20from%20initial%20greenfield%20deployments%20to%20network%20migration%20and%20modernization.%20We'll%20demonstrate%20practical%20use%20cases,%20including%20using%20natural%20language%20prompts%20to%20deploy%20a%20global%20network%20with%20AWS%20Cloud%20WAN,%20updating%20policies,%20and%20generating%20infrastructure%20as%20code%20(IaC)%20templates.%20Learn%20how%20to%20accelerate%20your%20network%20operations,%20identify%20vulnerabilities%20in%20network%20diagrams,%20and%20estimate%20costs%20with%20the%20power%20of%20AI,%20all%20while%20keeping%20security%20and%20human%20oversight%20at%20the%20forefront.%20This%20session%20is%20a%20must-attend%20for%20network%20architects%20and%20cloud%20teams%20looking%20to%20leverage%20AI%20to%20enhance%20their%20productivity%20and%20reshape%20the%20future%20of%20network%20management.%0ALOCATION:Online%0AEND:VEVENT%0AEND:VCALENDAR%0A" download="using-generative-ai-for-building-aws-networks.ics">
+  10 September 2025
+
+  Uncover network security issues with AWS Shield network security director
+
+  Hosts:Tom Adamski
+  Guests:Neil Yajnik, Sr. Product Manager, AWS 
+  
+    📅 
           Add to Calendar
-       </a>
-  </p>
-  <div class="abstract">
-    <b>Abstract:</b><br />Join us for a deep dive into the transformative potential of generative AI in building and managing AWS networks. This webinar will explore how tools like Amazon Bedrock and Amazon Q can streamline complex network tasks, from initial greenfield deployments to network migration and modernization. We'll demonstrate practical use cases, including using natural language prompts to deploy a global network with AWS Cloud WAN, updating policies, and generating infrastructure as code (IaC) templates. Learn how to accelerate your network operations, identify vulnerabilities in network diagrams, and estimate costs with the power of AI, all while keeping security and human oversight at the forefront. This session is a must-attend for network architects and cloud teams looking to leverage AI to enhance their productivity and reshape the future of network management.
-  </div>
+       
+  
+  
+    Abstract:Discover how Shield's Network Security Director transforms network security management. Watch live demonstrations of network topology visualization, security assessment, and AI-assisted investigation. Learn best practices for strengthening your security posture and get your questions answered by AWS experts.
+  
 
   
   
      
-    <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/r59K8xpdOvk?autoplay=0" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+    
+      
+    
+    
+    Session Feedback/Content Suggestions
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry></feed>
+
+]]></description>
+        <pubDate>Wed, 10 Sep 2025 12:00:00 -0700</pubDate>
+        <link>/2025/09/10/net_security_director.html</link>
+        <guid isPermaLink="true">/2025/09/10/net_security_director.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[AWS Network Observability: Deep Dive into Network Reachability and Access Analyzer]]></title>
+        <description><![CDATA[3 September 2025 AWS Network Observability: Deep Dive into Network Reachability and Access Analyzer Hosts:Sidhartha Chauhan Guests:Ankit Chadha, Principal Solutions Architect, Networking 📅 Add to Calendar Abstract:This comprehensive 60-minute webinar explores the powerful combination of AWS Network Reachability Analyzer and Network Access Analyzer for improving both network observability and security. Ideal for cloud architects, DevOps engineers, and security professionals, this session will guide you through the why and when of using these tools, with a primary focus on end-to-end observability use cases that also enhance security.We'll begin with a brief introduction to these analyzers, then delve into real-world scenarios showcasing...]]></description>
+        <pubDate>Wed, 03 Sep 2025 12:00:00 -0700</pubDate>
+        <link>/2025/09/03/reachablity_and_access_analyzer.html</link>
+        <guid isPermaLink="true">/2025/09/03/reachablity_and_access_analyzer.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[CloudWatch Network Flow Monitor Demo]]></title>
+        <description><![CDATA[27 August 2025 CloudWatch Network Flow Monitor Demo Hosts:Alexandra Huides Guests:Vishwas Puttasubbappa, Principal Product Manager, Networking 📅 Add to Calendar Abstract:In this episode we’ll dive into Amazon CloudWatch Network Flow Monitor, introduced at re:Invent 2024, and show how you can use it today to gain deep visibility into your VPC network traffic. Through a live demo, we’ll explore how to configure flow monitoring, build insightful dashboards, and uncover dependencies across your environment. We’ll also highlight how you can use these flow insights to troubleshoot connectivity, detect anomalies, and strengthen security controls. If you’re looking for practical ways to improve network...]]></description>
+        <pubDate>Wed, 27 Aug 2025 12:00:00 -0700</pubDate>
+        <link>/2025/08/27/observability_cloudwatch.html</link>
+        <guid isPermaLink="true">/2025/08/27/observability_cloudwatch.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[Network observability dashboards for AWS Network Firewall and VPC Flow Logs]]></title>
+        <description><![CDATA[
+
+  20 August 2025
+
+  Network observability dashboards for AWS Network Firewall and VPC Flow Logs
+
+  Hosts:Alexandra Huides
+  Guests:Victor Babasanmi, Sr. Specialist Solutions Architect, Networking
+  
+    📅 
+          Add to Calendar
+       
+  
+  
+    Abstract:In this episode we'll dive into network observability tools on AWS and how you can build observability dashboards using VPC Flow Logs, Network Firewall logs, CloudWatch Contributor Insights and AI-powered log analysis. We review how you can leverage these tools to gain deeper insights into you network connectivity on AWS, and understand application dependencies.
+  
+
+  
+  
+     
+    
+      
+    
+    
+    Session Feedback/Content Suggestions
+  
+
+  
+
+]]></description>
+        <pubDate>Wed, 20 Aug 2025 12:00:00 -0700</pubDate>
+        <link>/2025/08/20/observability_anf_dashboard.html</link>
+        <guid isPermaLink="true">/2025/08/20/observability_anf_dashboard.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[Intro on network observability]]></title>
+        <description><![CDATA[13 August 2025 Intro on network observability Hosts:Jamie Wenzel, Matt Lehwess Guests:Vishwas Puttasubbappa, Principal Product Manager, Networking 📅 Add to Calendar Abstract:In this episode of The Routing Loop, we’re diving into network monitoring and observability, and how they differ in the cloud compared to traditional on-prem environments. Cloud networks generate logs and telemetry in ways that require a different approach, and we have a powerful suite of tools to help you make sense of it all.We’ll explore monitoring solutions purpose-built for the cloud and share strategies for working with the variety of logging data available. You’ll learn how to leverage...]]></description>
+        <pubDate>Wed, 13 Aug 2025 12:00:00 -0700</pubDate>
+        <link>/2025/08/13/observability_intro.html</link>
+        <guid isPermaLink="true">/2025/08/13/observability_intro.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[What’s new in AWS Network Firewall - threat intelligence capabilities and new simplified deployment]]></title>
+        <description><![CDATA[
+
+  6 August 2025
+
+  What’s new in AWS Network Firewall - threat intelligence capabilities and new simplified deployment
+
+  Hosts:Tom Adamski
+  Guests:Jesse Lepich, Sr. Security Solutions Architect  Sofia Aluma, Sr. Security Specialist
+  
+    📅 
+          Add to Calendar
+       
+  
+  
+    Abstract:This technical session covers recent AWS Network Firewall enhancements that help improve traffic inspection and management. Learn about active threat defense with AWS threat intelligence, native Transit Gateway integration, automated domain lists, and multiple VPC endpoints, and more. Explore implementation patterns and operational best practices to help maintain consistent security controls while simplifying deployment.
+  
+
+  
+  
+     
+    
+      
+    
+    
+    Session Feedback/Content Suggestions
+  
+
+  
+
+]]></description>
+        <pubDate>Wed, 06 Aug 2025 12:00:00 -0700</pubDate>
+        <link>/2025/08/06/net_firewall.html</link>
+        <guid isPermaLink="true">/2025/08/06/net_firewall.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[Rapid Security Deployment: A Hands-On Look at AWS WAF's New Interface]]></title>
+        <description><![CDATA[30 July 2025 Rapid Security Deployment: A Hands-On Look at AWS WAF's New Interface Hosts:Sidhartha Chauhan Guests:Kaustubh Phatak, Sr. Product Manager Idaliz Seymour, Product Marketing Manager 📅 Add to Calendar Abstract:Join us for a practical session where we'll demonstrate how to transform your web security deployment from hours to minutes.We're breaking down AWS WAF's new console experience with real-world examples and live configuration. Watch us set up protection for different workloads, explore automated recommendations, and manage everything from a single dashboard. We'll share tips and tricks we've learned from customer deployments and show you how to make the most of...]]></description>
+        <pubDate>Wed, 30 Jul 2025 12:00:00 -0700</pubDate>
+        <link>/2025/07/30/waf_new_interface.html</link>
+        <guid isPermaLink="true">/2025/07/30/waf_new_interface.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
