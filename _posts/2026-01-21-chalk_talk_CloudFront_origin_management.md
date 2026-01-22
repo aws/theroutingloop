@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "re:Invent 2025 - Chalk Talk - Origin management for multi-region applications with Amazon CloudFront "
-videoid: 
+videoid: eeTqcc-KHGc
 date:   2026-01-21 11:00:00 -0800
 abstract: "In this session, you'll learn comprehensive origin management with Amazon CloudFront to build secure, resilient content delivery systems. We will cover automatic failover mechanisms with CloudFront and Route53, configure granular origin routing with CloudFront Functions, and secure origins using S3 with Origin Access Control (OAC) and VPC private origins for enhanced security. We'll explore integrating on-premises infrastructure through AWS Direct Connect for hybrid architectures, and deploy Origin Shield to further optimize cache performance and reduce origin load."
 hosts: "Jamie Wenzel"
