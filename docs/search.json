@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Secure Global DNS resolution: Introducing Route 53 Global Resolver",
+      "hosts"    : "Matt Lehwess",
+      "url"      : "/2026/02/11/r53_global_resolver.html",
+      "date"     : "11 Feb 2026",
+      "abstract" : "Join us to learn how Amazon Route 53 Global Resolver delivers secure, consistent, and globally available DNS resolution for distributed clients and hybrid environments. We’ll explore how this internet-reachable, anycast DNS resolver simplifies public and private domain resolution, enforces centralized security and threat filtering, supports encrypted DNS protocols, and reduces operational complexity and infrastructure overhead across remote offices, on-premises sites, and cloud workloads."
+    } ,
+  
+    {
       "title"    : "re:Invent 2025 - Chalk Talk - Solving private IPv4 exhaustion using AWS Cloud WAN and Amazon VPC Lattice ",
       "hosts"    : "Matt Lehwess",
       "url"      : "/2026/02/04/chalk_talk_lattice.html",

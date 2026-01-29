@@ -5,9 +5,19 @@
     <description>Weekly AWS Networking Twitch Show</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Jan 2026 09:01:32 -0800</pubDate>
-    <lastBuildDate>Thu, 22 Jan 2026 09:01:32 -0800</lastBuildDate>
+    <pubDate>Wed, 28 Jan 2026 16:53:31 -0800</pubDate>
+    <lastBuildDate>Wed, 28 Jan 2026 16:53:31 -0800</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title><![CDATA[Secure Global DNS resolution: Introducing Route 53 Global Resolver]]></title>
+        <description><![CDATA[11 February 2026 Secure Global DNS resolution: Introducing Route 53 Global Resolver Hosts:Matt Lehwess Guests:Adhish Bhobe, Senior Product Manager, Route 53 📅 Add to Calendar Abstract:Join us to learn how Amazon Route 53 Global Resolver delivers secure, consistent, and globally available DNS resolution for distributed clients and hybrid environments. We’ll explore how this internet-reachable, anycast DNS resolver simplifies public and private domain resolution, enforces centralized security and threat filtering, supports encrypted DNS protocols, and reduces operational complexity and infrastructure overhead across remote offices, on-premises sites, and cloud workloads. Session hasn't started. Join live on 11 February 2026 at 11 AM...]]></description>
+        <pubDate>Wed, 11 Feb 2026 11:00:00 -0800</pubDate>
+        <link>/2026/02/11/r53_global_resolver.html</link>
+        <guid isPermaLink="true">/2026/02/11/r53_global_resolver.html</guid>
+        
+        
+      </item>
     
       <item>
         <title><![CDATA[re:Invent 2025 - Chalk Talk - Solving private IPv4 exhaustion using AWS Cloud WAN and Amazon VPC Lattice ]]></title>
@@ -456,45 +466,6 @@
         <pubDate>Wed, 27 Aug 2025 12:00:00 -0700</pubDate>
         <link>/2025/08/27/observability_cloudwatch.html</link>
         <guid isPermaLink="true">/2025/08/27/observability_cloudwatch.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title><![CDATA[Network observability dashboards for AWS Network Firewall and VPC Flow Logs]]></title>
-        <description><![CDATA[
-
-  20 August 2025
-
-  Network observability dashboards for AWS Network Firewall and VPC Flow Logs
-
-  Hosts:Alexandra Huides
-  Guests:Victor Babasanmi, Sr. Specialist Solutions Architect, Networking
-  
-    📅 
-          Add to Calendar
-       
-  
-  
-    Abstract:In this episode we'll dive into network observability tools on AWS and how you can build observability dashboards using VPC Flow Logs, Network Firewall logs, CloudWatch Contributor Insights and AI-powered log analysis. We review how you can leverage these tools to gain deeper insights into you network connectivity on AWS, and understand application dependencies.
-  
-
-  
-  
-     
-    
-      
-    
-    
-    Session Feedback/Content Suggestions
-  
-
-  
-
-]]></description>
-        <pubDate>Wed, 20 Aug 2025 12:00:00 -0700</pubDate>
-        <link>/2025/08/20/observability_anf_dashboard.html</link>
-        <guid isPermaLink="true">/2025/08/20/observability_anf_dashboard.html</guid>
         
         
       </item>
