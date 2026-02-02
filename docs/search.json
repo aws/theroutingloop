@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Bridging NetOps and CloudOps with Amazon VPC IPAM and Infoblox",
+      "hosts"    : "Alex Huides",
+      "url"      : "/2026/02/18/ipam_and_infoblox.html",
+      "date"     : "18 Feb 2026",
+      "abstract" : "Managing IP addresses across hybrid environments doesn’t have to be painful. In this joint AWS and Infoblox session, we’ll show how integrating Infoblox Universal IPAM with Amazon VPC IPAM enables centralized visibility, automated allocation, and consistent governance across AWS and on-prem networks. Learn how customers are reducing manual effort, avoiding overlapping address space, and empowering both NetOps and CloudOps teams to move faster with confidence."
+    } ,
+  
+    {
       "title"    : "Secure Global DNS resolution: Introducing Route 53 Global Resolver",
       "hosts"    : "Matt Lehwess",
       "url"      : "/2026/02/11/r53_global_resolver.html",
