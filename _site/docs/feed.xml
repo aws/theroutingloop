@@ -5,9 +5,59 @@
     <description>Weekly AWS Networking Twitch Show</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Jan 2026 08:30:12 -0800</pubDate>
-    <lastBuildDate>Tue, 13 Jan 2026 08:30:12 -0800</lastBuildDate>
+    <pubDate>Mon, 02 Feb 2026 11:20:44 -0800</pubDate>
+    <lastBuildDate>Mon, 02 Feb 2026 11:20:44 -0800</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title><![CDATA[Bridging NetOps and CloudOps with Amazon VPC IPAM and Infoblox]]></title>
+        <description><![CDATA[18 February 2026 Bridging NetOps and CloudOps with Amazon VPC IPAM and Infoblox Hosts:Alex Huides Guests:Raunak Tibrewal, Sr. Product Manager, AWS Rishabh Parmar, Director of Product Management, Infoblox 📅 Add to Calendar Abstract:Managing IP addresses across hybrid environments doesn’t have to be painful. In this joint AWS and Infoblox session, we’ll show how integrating Infoblox Universal IPAM with Amazon VPC IPAM enables centralized visibility, automated allocation, and consistent governance across AWS and on-prem networks. Learn how customers are reducing manual effort, avoiding overlapping address space, and empowering both NetOps and CloudOps teams to move faster with confidence. Session hasn't started....]]></description>
+        <pubDate>Wed, 18 Feb 2026 11:00:00 -0800</pubDate>
+        <link>/2026/02/18/ipam_and_infoblox.html</link>
+        <guid isPermaLink="true">/2026/02/18/ipam_and_infoblox.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[Secure Global DNS resolution: Introducing Route 53 Global Resolver]]></title>
+        <description><![CDATA[11 February 2026 Secure Global DNS resolution: Introducing Route 53 Global Resolver Hosts:Matt Lehwess Guests:Adhish Bhobe, Senior Product Manager, Route 53 📅 Add to Calendar Abstract:Join us to learn how Amazon Route 53 Global Resolver delivers secure, consistent, and globally available DNS resolution for distributed clients and hybrid environments. We’ll explore how this internet-reachable, anycast DNS resolver simplifies public and private domain resolution, enforces centralized security and threat filtering, supports encrypted DNS protocols, and reduces operational complexity and infrastructure overhead across remote offices, on-premises sites, and cloud workloads. Session hasn't started. Join live on 11 February 2026 at 11 AM...]]></description>
+        <pubDate>Wed, 11 Feb 2026 11:00:00 -0800</pubDate>
+        <link>/2026/02/11/r53_global_resolver.html</link>
+        <guid isPermaLink="true">/2026/02/11/r53_global_resolver.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[re:Invent 2025 - Chalk Talk - Solving private IPv4 exhaustion using AWS Cloud WAN and Amazon VPC Lattice ]]></title>
+        <description><![CDATA[4 February 2026 re:Invent 2025 - Chalk Talk - Solving private IPv4 exhaustion using AWS Cloud WAN and Amazon VPC Lattice Hosts:Matt Lehwess Guests:Alexandra Huides, Pr. Solutions Architect Mehdi Dahan, Sr. Solutions Architect 📅 Add to Calendar Abstract:Enterprises face private IPv4 exhaustion due to limited address planning, architectural shifts, mergers, and IP-hungry technologies like containers. The result - restrictions to cloud scalability and new project deployment. In this session, learn how AWS solutions solve these challenges with a scalable and cost effective approach combining AWS Cloud WAN with service insertion, and Amazon VPC Lattice to centralize private NAT Gateways and...]]></description>
+        <pubDate>Wed, 04 Feb 2026 11:00:00 -0800</pubDate>
+        <link>/2026/02/04/chalk_talk_lattice.html</link>
+        <guid isPermaLink="true">/2026/02/04/chalk_talk_lattice.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[re:Invent 2025 - Chalk Talk - I didn't know AWS WAF did this]]></title>
+        <description><![CDATA[28 January 2026 re:Invent 2025 - Chalk Talk - I didn't know AWS WAF did this Hosts:Tom Adamski Guests:Kartik Bheemisetty, Technical Account Manager, AWS 📅 Add to Calendar Abstract:Think AWS WAF is just for blocking SQL injection and XSS? Think again. In this interactive chalk talk, we'll dive into creative, real-world use cases - from deploying honeypots and shedding traffic, to stopping account fraud and mitigating DDoS at scale. We'll explore advanced configurations, walk through customer-tested patterns, and whiteboard strategies that make WAF a powerful tool in your security arsenal. Bring your questions and experiences - we're here to break...]]></description>
+        <pubDate>Wed, 28 Jan 2026 11:00:00 -0800</pubDate>
+        <link>/2026/01/28/chalk_talk_waf.html</link>
+        <guid isPermaLink="true">/2026/01/28/chalk_talk_waf.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[re:Invent 2025 - Chalk Talk - Origin management for multi-region applications with Amazon CloudFront ]]></title>
+        <description><![CDATA[21 January 2026 re:Invent 2025 - Chalk Talk - Origin management for multi-region applications with Amazon CloudFront Hosts:Jamie Wenzel Guests:Vinicius Pedroni, Sr. Solutions Architect Jonathan Woods, Solutions Architect 📅 Add to Calendar Abstract:In this session, you'll learn comprehensive origin management with Amazon CloudFront to build secure, resilient content delivery systems. We will cover automatic failover mechanisms with CloudFront and Route53, configure granular origin routing with CloudFront Functions, and secure origins using S3 with Origin Access Control (OAC) and VPC private origins for enhanced security. We'll explore integrating on-premises infrastructure through AWS Direct Connect for hybrid architectures, and deploy Origin Shield...]]></description>
+        <pubDate>Wed, 21 Jan 2026 11:00:00 -0800</pubDate>
+        <link>/2026/01/21/chalk_talk_CloudFront_origin_management.html</link>
+        <guid isPermaLink="true">/2026/01/21/chalk_talk_CloudFront_origin_management.html</guid>
+        
+        
+      </item>
     
       <item>
         <title><![CDATA[All AWS Networking launches from re:Invent - Recap & Q&A]]></title>
@@ -416,114 +466,6 @@
         <pubDate>Wed, 03 Sep 2025 12:00:00 -0700</pubDate>
         <link>/2025/09/03/reachablity_and_access_analyzer.html</link>
         <guid isPermaLink="true">/2025/09/03/reachablity_and_access_analyzer.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title><![CDATA[CloudWatch Network Flow Monitor Demo]]></title>
-        <description><![CDATA[27 August 2025 CloudWatch Network Flow Monitor Demo Hosts:Alexandra Huides Guests:Vishwas Puttasubbappa, Principal Product Manager, Networking 📅 Add to Calendar Abstract:In this episode we’ll dive into Amazon CloudWatch Network Flow Monitor, introduced at re:Invent 2024, and show how you can use it today to gain deep visibility into your VPC network traffic. Through a live demo, we’ll explore how to configure flow monitoring, build insightful dashboards, and uncover dependencies across your environment. We’ll also highlight how you can use these flow insights to troubleshoot connectivity, detect anomalies, and strengthen security controls. If you’re looking for practical ways to improve network...]]></description>
-        <pubDate>Wed, 27 Aug 2025 12:00:00 -0700</pubDate>
-        <link>/2025/08/27/observability_cloudwatch.html</link>
-        <guid isPermaLink="true">/2025/08/27/observability_cloudwatch.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title><![CDATA[Network observability dashboards for AWS Network Firewall and VPC Flow Logs]]></title>
-        <description><![CDATA[
-
-  20 August 2025
-
-  Network observability dashboards for AWS Network Firewall and VPC Flow Logs
-
-  Hosts:Alexandra Huides
-  Guests:Victor Babasanmi, Sr. Specialist Solutions Architect, Networking
-  
-    📅 
-          Add to Calendar
-       
-  
-  
-    Abstract:In this episode we'll dive into network observability tools on AWS and how you can build observability dashboards using VPC Flow Logs, Network Firewall logs, CloudWatch Contributor Insights and AI-powered log analysis. We review how you can leverage these tools to gain deeper insights into you network connectivity on AWS, and understand application dependencies.
-  
-
-  
-  
-     
-    
-      
-    
-    
-    Session Feedback/Content Suggestions
-  
-
-  
-
-]]></description>
-        <pubDate>Wed, 20 Aug 2025 12:00:00 -0700</pubDate>
-        <link>/2025/08/20/observability_anf_dashboard.html</link>
-        <guid isPermaLink="true">/2025/08/20/observability_anf_dashboard.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title><![CDATA[Intro on network observability]]></title>
-        <description><![CDATA[13 August 2025 Intro on network observability Hosts:Jamie Wenzel, Matt Lehwess Guests:Vishwas Puttasubbappa, Principal Product Manager, Networking 📅 Add to Calendar Abstract:In this episode of The Routing Loop, we’re diving into network monitoring and observability, and how they differ in the cloud compared to traditional on-prem environments. Cloud networks generate logs and telemetry in ways that require a different approach, and we have a powerful suite of tools to help you make sense of it all.We’ll explore monitoring solutions purpose-built for the cloud and share strategies for working with the variety of logging data available. You’ll learn how to leverage...]]></description>
-        <pubDate>Wed, 13 Aug 2025 12:00:00 -0700</pubDate>
-        <link>/2025/08/13/observability_intro.html</link>
-        <guid isPermaLink="true">/2025/08/13/observability_intro.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title><![CDATA[What’s new in AWS Network Firewall - threat intelligence capabilities and new simplified deployment]]></title>
-        <description><![CDATA[
-
-  6 August 2025
-
-  What’s new in AWS Network Firewall - threat intelligence capabilities and new simplified deployment
-
-  Hosts:Tom Adamski
-  Guests:Jesse Lepich, Sr. Security Solutions Architect  Sofia Aluma, Sr. Security Specialist
-  
-    📅 
-          Add to Calendar
-       
-  
-  
-    Abstract:This technical session covers recent AWS Network Firewall enhancements that help improve traffic inspection and management. Learn about active threat defense with AWS threat intelligence, native Transit Gateway integration, automated domain lists, and multiple VPC endpoints, and more. Explore implementation patterns and operational best practices to help maintain consistent security controls while simplifying deployment.
-  
-
-  
-  
-     
-    
-      
-    
-    
-    Session Feedback/Content Suggestions
-  
-
-  
-
-]]></description>
-        <pubDate>Wed, 06 Aug 2025 12:00:00 -0700</pubDate>
-        <link>/2025/08/06/net_firewall.html</link>
-        <guid isPermaLink="true">/2025/08/06/net_firewall.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title><![CDATA[Rapid Security Deployment: A Hands-On Look at AWS WAF's New Interface]]></title>
-        <description><![CDATA[30 July 2025 Rapid Security Deployment: A Hands-On Look at AWS WAF's New Interface Hosts:Sidhartha Chauhan Guests:Kaustubh Phatak, Sr. Product Manager Idaliz Seymour, Product Marketing Manager 📅 Add to Calendar Abstract:Join us for a practical session where we'll demonstrate how to transform your web security deployment from hours to minutes.We're breaking down AWS WAF's new console experience with real-world examples and live configuration. Watch us set up protection for different workloads, explore automated recommendations, and manage everything from a single dashboard. We'll share tips and tricks we've learned from customer deployments and show you how to make the most of...]]></description>
-        <pubDate>Wed, 30 Jul 2025 12:00:00 -0700</pubDate>
-        <link>/2025/07/30/waf_new_interface.html</link>
-        <guid isPermaLink="true">/2025/07/30/waf_new_interface.html</guid>
         
         
       </item>
