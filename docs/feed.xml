@@ -5,14 +5,15 @@
     <description>Weekly AWS Networking Twitch Show</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Feb 2026 16:41:30 -0800</pubDate>
-    <lastBuildDate>Tue, 03 Feb 2026 16:41:30 -0800</lastBuildDate>
+    <pubDate>Tue, 03 Feb 2026 22:33:41 -0600</pubDate>
+    <lastBuildDate>Tue, 03 Feb 2026 22:33:41 -0600</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title><![CDATA[Bridging NetOps and CloudOps with Amazon VPC IPAM and Infoblox]]></title>
-        <description><![CDATA[18 February 2026 Bridging NetOps and CloudOps with Amazon VPC IPAM and Infoblox Hosts:Alex Huides Guests:Raunak Tibrewal, Sr. Product Manager, AWS Rishabh Parmar, Director of Product Management, Infoblox 📅 Add to Calendar Abstract:Managing IP addresses across hybrid-cloud environments presents significant challenges. Join AWS and Infoblox for a technical session exploring how integrating Infoblox Universal IPAM with Amazon VPC IPAM automates IP allocation across AWS and on-premises networks and enables centralized visibility for detecting and avoiding IP overlaps. We will show you how to get started and set up the two tools for automation in the hybrid-cloud. Using this, you can...]]></description>
-        <pubDate>Wed, 18 Feb 2026 11:00:00 -0800</pubDate>
+        <description><![CDATA[
+]]></description>
+        <pubDate>Wed, 18 Feb 2026 13:00:00 -0600</pubDate>
         <link>/2026/02/18/ipam_and_infoblox.html</link>
         <guid isPermaLink="true">/2026/02/18/ipam_and_infoblox.html</guid>
         
@@ -22,7 +23,7 @@
       <item>
         <title><![CDATA[Secure Global DNS resolution: Introducing Route 53 Global Resolver]]></title>
         <description><![CDATA[11 February 2026 Secure Global DNS resolution: Introducing Route 53 Global Resolver Hosts:Matt Lehwess Guests:Adhish Bhobe, Senior Product Manager, Route 53 📅 Add to Calendar Abstract:Join us to learn how Amazon Route 53 Global Resolver delivers secure, consistent, and globally available DNS resolution for distributed clients and hybrid environments. We’ll explore how this internet-reachable, anycast DNS resolver simplifies public and private domain resolution, enforces centralized security and threat filtering, supports encrypted DNS protocols, and reduces operational complexity and infrastructure overhead across remote offices, on-premises sites, and cloud workloads. Session hasn't started. Join live on 11 February 2026 at 11 AM...]]></description>
-        <pubDate>Wed, 11 Feb 2026 11:00:00 -0800</pubDate>
+        <pubDate>Wed, 11 Feb 2026 13:00:00 -0600</pubDate>
         <link>/2026/02/11/r53_global_resolver.html</link>
         <guid isPermaLink="true">/2026/02/11/r53_global_resolver.html</guid>
         
@@ -32,7 +33,7 @@
       <item>
         <title><![CDATA[re:Invent 2025 - Chalk Talk - Solving private IPv4 exhaustion using AWS Cloud WAN and Amazon VPC Lattice ]]></title>
         <description><![CDATA[4 February 2026 re:Invent 2025 - Chalk Talk - Solving private IPv4 exhaustion using AWS Cloud WAN and Amazon VPC Lattice Hosts:Matt Lehwess Guests:Alexandra Huides, Pr. Solutions Architect Mehdi Dahan, Sr. Solutions Architect 📅 Add to Calendar Abstract:Enterprises face private IPv4 exhaustion due to limited address planning, architectural shifts, mergers, and IP-hungry technologies like containers. The result - restrictions to cloud scalability and new project deployment. In this session, learn how AWS solutions solve these challenges with a scalable and cost effective approach combining AWS Cloud WAN with service insertion, and Amazon VPC Lattice to centralize private NAT Gateways and...]]></description>
-        <pubDate>Wed, 04 Feb 2026 11:00:00 -0800</pubDate>
+        <pubDate>Wed, 04 Feb 2026 13:00:00 -0600</pubDate>
         <link>/2026/02/04/chalk_talk_lattice.html</link>
         <guid isPermaLink="true">/2026/02/04/chalk_talk_lattice.html</guid>
         
@@ -42,7 +43,7 @@
       <item>
         <title><![CDATA[re:Invent 2025 - Chalk Talk - I didn't know AWS WAF did this]]></title>
         <description><![CDATA[28 January 2026 re:Invent 2025 - Chalk Talk - I didn't know AWS WAF did this Hosts:Tom Adamski Guests:Kartik Bheemisetty, Technical Account Manager, AWS 📅 Add to Calendar Abstract:Think AWS WAF is just for blocking SQL injection and XSS? Think again. In this interactive chalk talk, we'll dive into creative, real-world use cases - from deploying honeypots and shedding traffic, to stopping account fraud and mitigating DDoS at scale. We'll explore advanced configurations, walk through customer-tested patterns, and whiteboard strategies that make WAF a powerful tool in your security arsenal. Bring your questions and experiences - we're here to break...]]></description>
-        <pubDate>Wed, 28 Jan 2026 11:00:00 -0800</pubDate>
+        <pubDate>Wed, 28 Jan 2026 13:00:00 -0600</pubDate>
         <link>/2026/01/28/chalk_talk_waf.html</link>
         <guid isPermaLink="true">/2026/01/28/chalk_talk_waf.html</guid>
         
@@ -52,7 +53,7 @@
       <item>
         <title><![CDATA[re:Invent 2025 - Chalk Talk - Origin management for multi-region applications with Amazon CloudFront ]]></title>
         <description><![CDATA[21 January 2026 re:Invent 2025 - Chalk Talk - Origin management for multi-region applications with Amazon CloudFront Hosts:Jamie Wenzel Guests:Vinicius Pedroni, Sr. Solutions Architect Jonathan Woods, Solutions Architect 📅 Add to Calendar Abstract:In this session, you'll learn comprehensive origin management with Amazon CloudFront to build secure, resilient content delivery systems. We will cover automatic failover mechanisms with CloudFront and Route53, configure granular origin routing with CloudFront Functions, and secure origins using S3 with Origin Access Control (OAC) and VPC private origins for enhanced security. We'll explore integrating on-premises infrastructure through AWS Direct Connect for hybrid architectures, and deploy Origin Shield...]]></description>
-        <pubDate>Wed, 21 Jan 2026 11:00:00 -0800</pubDate>
+        <pubDate>Wed, 21 Jan 2026 13:00:00 -0600</pubDate>
         <link>/2026/01/21/chalk_talk_CloudFront_origin_management.html</link>
         <guid isPermaLink="true">/2026/01/21/chalk_talk_CloudFront_origin_management.html</guid>
         
@@ -62,7 +63,7 @@
       <item>
         <title><![CDATA[All AWS Networking launches from re:Invent - Recap & Q&A]]></title>
         <description><![CDATA[14 January 2026 All AWS Networking launches from re:Invent - Recap &amp; Q&amp;A Hosts:Alexandra Huides, Tom Adamski Guests: 📅 Add to Calendar Abstract:We shipped a lot of new AWS networking capabilities at and before re:Invent 2025 - and we’re breaking them all down, live. Join The Routing Loop for a rapid walkthrough of every major Networking &amp; Content Delivery launch from re:Invent, what changed, why it matters, and how you can actually use it. This session is fully interactive: bring your questions, challenge assumptions, and ask how these launches fit into real-world architectures. If you missed re:Invent, felt overwhelmed by...]]></description>
-        <pubDate>Wed, 14 Jan 2026 11:00:00 -0800</pubDate>
+        <pubDate>Wed, 14 Jan 2026 13:00:00 -0600</pubDate>
         <link>/2026/01/14/riv_recap.html</link>
         <guid isPermaLink="true">/2026/01/14/riv_recap.html</guid>
         
@@ -101,7 +102,7 @@
   
 
 ]]></description>
-        <pubDate>Wed, 07 Jan 2026 11:00:00 -0800</pubDate>
+        <pubDate>Wed, 07 Jan 2026 13:00:00 -0600</pubDate>
         <link>/2026/01/07/cloud_wan_routing_policy.html</link>
         <guid isPermaLink="true">/2026/01/07/cloud_wan_routing_policy.html</guid>
         
@@ -111,7 +112,7 @@
       <item>
         <title><![CDATA[New Launch - Network Firewall Proxy Walkthrough]]></title>
         <description><![CDATA[10 December 2025 New Launch - Network Firewall Proxy Walkthrough Hosts:Tom Adamski Guests: 📅 Add to Calendar Abstract:Join us for our final Twitch session of 2025, where we’ll dive into the newly launched AWS Network Firewall Proxy. We’ll whiteboard, chat, and demo the feature to show how it enables centralized controls against data exfiltration and malware injection, with simple setup in explicit mode. Network Firewall Proxy helps you efficiently secure web and inter-network traffic by protecting against domain name and SNI spoofing, enforcing fine-grained access controls, and restricting application traffic to trusted domains or IPs while blocking unintended external responses....]]></description>
-        <pubDate>Wed, 10 Dec 2025 11:00:00 -0800</pubDate>
+        <pubDate>Wed, 10 Dec 2025 13:00:00 -0600</pubDate>
         <link>/2025/12/10/nfw_proxy.html</link>
         <guid isPermaLink="true">/2025/12/10/nfw_proxy.html</guid>
         
@@ -150,7 +151,7 @@
   
 
 ]]></description>
-        <pubDate>Wed, 19 Nov 2025 11:00:00 -0800</pubDate>
+        <pubDate>Wed, 19 Nov 2025 13:00:00 -0600</pubDate>
         <link>/2025/11/19/riv_know_b4_u_go.html</link>
         <guid isPermaLink="true">/2025/11/19/riv_know_b4_u_go.html</guid>
         
@@ -160,7 +161,7 @@
       <item>
         <title><![CDATA[New Launch -  Amazon VPC Lattice support for custom DNS for resources]]></title>
         <description><![CDATA[12 November 2025 New Launch - Amazon VPC Lattice support for custom DNS for resources Hosts:Alexandra Huides, Matt Lehwess Guests:Mohak Kohli, Sr. SDE, VPC Lattice 📅 Add to Calendar Abstract:In this video, we explore a new VPC Lattice enhancement that lets you attach custom domain names to your resource configurations. This update expands how teams expose and access layer-4 resources—such as databases, clusters, and internal domains—across VPCs and AWS accounts. With this release, resource owners can assign a custom domain to a resource configuration and share it with consumers, who can then access the resource through that domain. VPC Lattice...]]></description>
-        <pubDate>Wed, 12 Nov 2025 11:00:00 -0800</pubDate>
+        <pubDate>Wed, 12 Nov 2025 13:00:00 -0600</pubDate>
         <link>/2025/11/12/custom_dns_lattice_resources.html</link>
         <guid isPermaLink="true">/2025/11/12/custom_dns_lattice_resources.html</guid>
         
@@ -199,7 +200,7 @@
   
 
 ]]></description>
-        <pubDate>Wed, 05 Nov 2025 11:00:00 -0800</pubDate>
+        <pubDate>Wed, 05 Nov 2025 13:00:00 -0600</pubDate>
         <link>/2025/11/05/Jamie-&amp;-Matt-Discsusion.html</link>
         <guid isPermaLink="true">/2025/11/05/Jamie-&amp;-Matt-Discsusion.html</guid>
         
@@ -209,7 +210,7 @@
       <item>
         <title><![CDATA[To do or not to do VPC Sharing: A candid chat about VPC sharing considerations and best practices]]></title>
         <description><![CDATA[29 October 2025 To do or not to do VPC Sharing: A candid chat about VPC sharing considerations and best practices Hosts:Alexandra Huides, Matt Lehwess Guests: 📅 Add to Calendar Abstract:VPC sharing can be a powerful way to simplify network management and enable teams to collaborate securely — but it’s not a one-size-fits-all solution. In this episode of The Routing Loop, we’re having a candid chat about when (and when not) to use Amazon VPC sharing. We’ll unpack real-world pros and cons, from operational efficiency and security boundaries to service ownership, scaling, and governance. Whether you’re a platform team debating...]]></description>
-        <pubDate>Wed, 29 Oct 2025 12:00:00 -0700</pubDate>
+        <pubDate>Wed, 29 Oct 2025 14:00:00 -0500</pubDate>
         <link>/2025/10/29/vpc_sharing.html</link>
         <guid isPermaLink="true">/2025/10/29/vpc_sharing.html</guid>
         
@@ -248,7 +249,7 @@
   
 
 ]]></description>
-        <pubDate>Wed, 22 Oct 2025 12:00:00 -0700</pubDate>
+        <pubDate>Wed, 22 Oct 2025 14:00:00 -0500</pubDate>
         <link>/2025/10/22/route_server.html</link>
         <guid isPermaLink="true">/2025/10/22/route_server.html</guid>
         
@@ -287,7 +288,7 @@
   
 
 ]]></description>
-        <pubDate>Wed, 15 Oct 2025 12:00:00 -0700</pubDate>
+        <pubDate>Wed, 15 Oct 2025 14:00:00 -0500</pubDate>
         <link>/2025/10/15/resolver_delegation.html</link>
         <guid isPermaLink="true">/2025/10/15/resolver_delegation.html</guid>
         
@@ -326,7 +327,7 @@
   
 
 ]]></description>
-        <pubDate>Wed, 08 Oct 2025 12:00:00 -0700</pubDate>
+        <pubDate>Wed, 08 Oct 2025 14:00:00 -0500</pubDate>
         <link>/2025/10/08/isv_connectivity.html</link>
         <guid isPermaLink="true">/2025/10/08/isv_connectivity.html</guid>
         
@@ -365,7 +366,7 @@
   
 
 ]]></description>
-        <pubDate>Wed, 01 Oct 2025 12:00:00 -0700</pubDate>
+        <pubDate>Wed, 01 Oct 2025 14:00:00 -0500</pubDate>
         <link>/2025/10/01/lcus_walkthrough.html</link>
         <guid isPermaLink="true">/2025/10/01/lcus_walkthrough.html</guid>
         
@@ -375,7 +376,7 @@
       <item>
         <title><![CDATA[Using generative AI for building AWS networks]]></title>
         <description><![CDATA[24 September 2025 Using generative AI for building AWS networks Hosts:Sidhartha Chauhan Guests:Sohaib Tahir, Principal Solutions Architect, AWS 📅 Add to Calendar Abstract:Join us for a deep dive into the transformative potential of generative AI in building and managing AWS networks. This webinar will explore how tools like Amazon Bedrock and Amazon Q can streamline complex network tasks, from initial greenfield deployments to network migration and modernization. We'll demonstrate practical use cases, including using natural language prompts to deploy a global network with AWS Cloud WAN, updating policies, and generating infrastructure as code (IaC) templates. Learn how to accelerate your...]]></description>
-        <pubDate>Wed, 24 Sep 2025 12:00:00 -0700</pubDate>
+        <pubDate>Wed, 24 Sep 2025 14:00:00 -0500</pubDate>
         <link>/2025/09/24/build_net_with_ai.html</link>
         <guid isPermaLink="true">/2025/09/24/build_net_with_ai.html</guid>
         
@@ -414,7 +415,7 @@
   
 
 ]]></description>
-        <pubDate>Wed, 17 Sep 2025 12:00:00 -0700</pubDate>
+        <pubDate>Wed, 17 Sep 2025 14:00:00 -0500</pubDate>
         <link>/2025/09/17/root_cause_with_ai.html</link>
         <guid isPermaLink="true">/2025/09/17/root_cause_with_ai.html</guid>
         
@@ -453,7 +454,7 @@
   
 
 ]]></description>
-        <pubDate>Wed, 10 Sep 2025 12:00:00 -0700</pubDate>
+        <pubDate>Wed, 10 Sep 2025 14:00:00 -0500</pubDate>
         <link>/2025/09/10/net_security_director.html</link>
         <guid isPermaLink="true">/2025/09/10/net_security_director.html</guid>
         
@@ -463,7 +464,7 @@
       <item>
         <title><![CDATA[AWS Network Observability: Deep Dive into Network Reachability and Access Analyzer]]></title>
         <description><![CDATA[3 September 2025 AWS Network Observability: Deep Dive into Network Reachability and Access Analyzer Hosts:Sidhartha Chauhan Guests:Ankit Chadha, Principal Solutions Architect, Networking 📅 Add to Calendar Abstract:This comprehensive 60-minute webinar explores the powerful combination of AWS Network Reachability Analyzer and Network Access Analyzer for improving both network observability and security. Ideal for cloud architects, DevOps engineers, and security professionals, this session will guide you through the why and when of using these tools, with a primary focus on end-to-end observability use cases that also enhance security.We'll begin with a brief introduction to these analyzers, then delve into real-world scenarios showcasing...]]></description>
-        <pubDate>Wed, 03 Sep 2025 12:00:00 -0700</pubDate>
+        <pubDate>Wed, 03 Sep 2025 14:00:00 -0500</pubDate>
         <link>/2025/09/03/reachablity_and_access_analyzer.html</link>
         <guid isPermaLink="true">/2025/09/03/reachablity_and_access_analyzer.html</guid>
         
