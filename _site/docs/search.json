@@ -5,7 +5,7 @@
       "hosts"    : "Alex Huides",
       "url"      : "/2026/02/18/ipam_and_infoblox.html",
       "date"     : "18 Feb 2026",
-      "abstract" : "Managing IP addresses across hybrid environments doesn’t have to be painful. In this joint AWS and Infoblox session, we’ll show how integrating Infoblox Universal IPAM with Amazon VPC IPAM enables centralized visibility, automated allocation, and consistent governance across AWS and on-prem networks. Learn how customers are reducing manual effort, avoiding overlapping address space, and empowering both NetOps and CloudOps teams to move faster with confidence."
+      "abstract" : "Managing IP addresses across hybrid-cloud environments presents significant challenges. Join AWS and Infoblox for a technical session exploring how integrating Infoblox Universal IPAM with Amazon VPC IPAM automates IP allocation across AWS and on-premises networks and enables centralized visibility for detecting and avoiding IP overlaps. We will show you how to get started and set up the two tools for automation in the hybrid-cloud. Using this, you can reduce manual effort and empower your NetOps and CloudOps teams to deploy infrastructure faster with confidence."
     } ,
   
     {

@@ -5,13 +5,14 @@
     <description>Weekly AWS Networking Twitch Show</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Feb 2026 13:04:46 -0800</pubDate>
-    <lastBuildDate>Mon, 02 Feb 2026 13:04:46 -0800</lastBuildDate>
+    <pubDate>Tue, 03 Feb 2026 19:48:50 -0800</pubDate>
+    <lastBuildDate>Tue, 03 Feb 2026 19:48:50 -0800</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title><![CDATA[Bridging NetOps and CloudOps with Amazon VPC IPAM and Infoblox]]></title>
-        <description><![CDATA[18 February 2026 Bridging NetOps and CloudOps with Amazon VPC IPAM and Infoblox Hosts:Alex Huides Guests:Raunak Tibrewal, Sr. Product Manager, AWS Rishabh Parmar, Director of Product Management, Infoblox 📅 Add to Calendar Abstract:Managing IP addresses across hybrid environments doesn’t have to be painful. In this joint AWS and Infoblox session, we’ll show how integrating Infoblox Universal IPAM with Amazon VPC IPAM enables centralized visibility, automated allocation, and consistent governance across AWS and on-prem networks. Learn how customers are reducing manual effort, avoiding overlapping address space, and empowering both NetOps and CloudOps teams to move faster with confidence. Session hasn't started....]]></description>
+        <description><![CDATA[
+]]></description>
         <pubDate>Wed, 18 Feb 2026 11:00:00 -0800</pubDate>
         <link>http://localhost:4000/2026/02/18/ipam_and_infoblox.html</link>
         <guid isPermaLink="true">http://localhost:4000/2026/02/18/ipam_and_infoblox.html</guid>
