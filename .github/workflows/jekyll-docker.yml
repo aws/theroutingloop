@@ -1,0 +1,44 @@
+name: Build Jekyll to docs
+
+on:
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: jekyll-docs
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    # Prevent infinite loop when this workflow commits docs/
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build site with Jekyll (Docker)
+        run: |
+          docker run --rm \
+            -v "${{ github.workspace }}:/srv/jekyll" \
+            jekyll/builder:latest /bin/bash -lc \
+            "chmod -R 777 /srv/jekyll && bundle install && bundle exec jekyll build -d docs --future && touch docs/.nojekyll"
+
+      - name: Commit and push docs/
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add docs
+          if git diff --cached --quiet; then
+            echo "No docs changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Build site to docs [skip ci]"
+          git push
