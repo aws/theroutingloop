@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "re:Invent 2025 - Chalk Talk - I didn't know AWS WAF did this"
+title:  "re:Invent 2025 - Chalk Talk - I didn not know AWS WAF did this"
 videoid: 0J4HN7Qe5K0
 date:   2026-01-28 11:00:00 -0800
 abstract: "Think AWS WAF is just for blocking SQL injection and XSS? Think again. In this interactive chalk talk, we'll dive into creative, real-world use cases - from deploying honeypots and shedding traffic, to stopping account fraud and mitigating DDoS at scale. We'll explore advanced configurations, walk through customer-tested patterns, and whiteboard strategies that make WAF a powerful tool in your security arsenal. Bring your questions and experiences - we're here to break the 'WAF does that?' moments together."
