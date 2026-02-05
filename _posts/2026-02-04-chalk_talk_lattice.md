@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "re:Invent 2025 - Chalk Talk - Solving private IPv4 exhaustion using AWS Cloud WAN and Amazon VPC Lattice "
-videoid: 
+videoid: cng78Z5MztA
 date:   2026-02-04 11:00:00 -0800
 abstract: "Enterprises face private IPv4 exhaustion due to limited address planning, architectural shifts, mergers, and IP-hungry technologies like containers. The result - restrictions to cloud scalability and new project deployment. In this session, learn how AWS solutions solve these challenges with a scalable and cost effective approach combining AWS Cloud WAN with service insertion, and Amazon VPC Lattice to centralize private NAT Gateways and AWS PrivateLink. With this setup, discover how to maximize IP space utilization, reduce costs, and simplify network management—offering a durable solution to support evolving infrastructure needs across distributed environments"
 hosts: "Matt Lehwess"
