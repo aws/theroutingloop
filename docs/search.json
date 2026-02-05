@@ -1,6 +1,30 @@
 [
   
     {
+      "title"    : "Chalk Talk - Deep dive into private DNS with Route 53: From basics to scale",
+      "hosts"    : "Matt Lehwess",
+      "url"      : "/2026/03/11/deep-dive-into-private-dns.html",
+      "date"     : "11 Mar 2026",
+      "abstract" : "Explore private DNS management using Amazon Route 53. In this chalk talk, attendees will discover two key areas: Route 53 Profiles for streamlined DNS management at scale, and best practices for implementing inbound resolver endpoints through forwarding and delegation patterns. Through interactive discussion and real-world examples, participants will learn common architectural patterns and receive practical guidance for building reliable private DNS solutions. Whether managing private DNS for a single VPC or implementing enterprise-wide DNS architectures, attendees will gain valuable insights into Route 53 capabilities for private DNS management."
+    } ,
+  
+    {
+      "title"    : "Chalk Talk - Connect to VPC resources with PrivateLink and VPC Lattice",
+      "hosts"    : "Tom Adamski",
+      "url"      : "/2026/03/04/privatelink-and-lattice.html",
+      "date"     : "04 Mar 2026",
+      "abstract" : "Amazon VPC Lattice is designed to simplify service-to-service connectivity at scale across accounts and VPCs with built-in layer 7 routing and policy . Similarly, AWS PrivateLink is designed to make it easier to connect services and resources across different AWS accounts and VPCs to simplify your network architectures. Recently we added capabilities to PrivateLink and VPC Lattice to simplify access to non-HTTP services helps further by eliminating the need of deploying network load balancers in the target VPCs. We will explore which use cases can be addressed with this feature and discuss how these can be implemented with either PrivateLink or VPC Lattice."
+    } ,
+  
+    {
+      "title"    : "Chalk Talk - The Art of Managing Trade-Offs for your AWS Network Design",
+      "hosts"    : "Jamie Wenzel",
+      "url"      : "/2026/02/25/managing_trade-offs.html",
+      "date"     : "25 Feb 2026",
+      "abstract" : "Every AWS network design decision involves careful trade-off considerations. In this session, master the art of making critical AWS network design decisions through real-world scenarios. Learn how to evaluate key trade-offs between centralized and distributed architectures while balancing security, performance, and cost requirements. Whether you&#39;re building a global network, managing multi-account environments, or implementing hybrid connectivity to on-premises locations, attendees will leave with actionable insights and practical decision-making tools to optimize network infrastructure architecture designs."
+    } ,
+  
+    {
       "title"    : "Bridging NetOps and CloudOps with Amazon VPC IPAM and Infoblox",
       "hosts"    : "Alex Huides",
       "url"      : "/2026/02/18/ipam_and_infoblox.html",

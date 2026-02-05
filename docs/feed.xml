@@ -5,9 +5,42 @@
     <description>Weekly AWS Networking Twitch Show</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Feb 2026 10:38:01 -0600</pubDate>
-    <lastBuildDate>Thu, 05 Feb 2026 10:38:01 -0600</lastBuildDate>
+    <pubDate>Thu, 05 Feb 2026 10:57:27 -0600</pubDate>
+    <lastBuildDate>Thu, 05 Feb 2026 10:57:27 -0600</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title><![CDATA[Chalk Talk - Deep dive into private DNS with Route 53: From basics to scale]]></title>
+        <description><![CDATA[
+]]></description>
+        <pubDate>Wed, 11 Mar 2026 14:00:00 -0500</pubDate>
+        <link>/2026/03/11/deep-dive-into-private-dns.html</link>
+        <guid isPermaLink="true">/2026/03/11/deep-dive-into-private-dns.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[Chalk Talk - Connect to VPC resources with PrivateLink and VPC Lattice]]></title>
+        <description><![CDATA[
+]]></description>
+        <pubDate>Wed, 04 Mar 2026 13:00:00 -0600</pubDate>
+        <link>/2026/03/04/privatelink-and-lattice.html</link>
+        <guid isPermaLink="true">/2026/03/04/privatelink-and-lattice.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title><![CDATA[Chalk Talk - The Art of Managing Trade-Offs for your AWS Network Design]]></title>
+        <description><![CDATA[
+]]></description>
+        <pubDate>Wed, 25 Feb 2026 13:00:00 -0600</pubDate>
+        <link>/2026/02/25/managing_trade-offs.html</link>
+        <guid isPermaLink="true">/2026/02/25/managing_trade-offs.html</guid>
+        
+        
+      </item>
     
       <item>
         <title><![CDATA[Bridging NetOps and CloudOps with Amazon VPC IPAM and Infoblox]]></title>
@@ -379,94 +412,6 @@
         <pubDate>Wed, 24 Sep 2025 14:00:00 -0500</pubDate>
         <link>/2025/09/24/build_net_with_ai.html</link>
         <guid isPermaLink="true">/2025/09/24/build_net_with_ai.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title><![CDATA[Finding Network Root Causes in Seconds with Digital Twins and Agentic AI]]></title>
-        <description><![CDATA[
-
-  17 September 2025
-
-  Finding Network Root Causes in Seconds with Digital Twins and Agentic AI
-
-  Hosts:Matt Lehwess, Jamie Wenzel
-  Guests:Imen GRIDA BEN YAHYA, Principal Solutions Architect, Telecom AI/ML, AWS 
-  
-    📅 
-          Add to Calendar
-       
-  
-  
-    Abstract:Network failures can often take hours to diagnose. This week on The Routing Loop, we'll show how a network digital twin with graph DB and Agentic AI can find root causes in seconds. Join Jamie, Matt, and Imen for a deep dive into making network operations faster and more reliable.
-  
-
-  
-  
-     
-    
-      
-    
-    
-    Session Feedback/Content Suggestions
-  
-
-  
-
-]]></description>
-        <pubDate>Wed, 17 Sep 2025 14:00:00 -0500</pubDate>
-        <link>/2025/09/17/root_cause_with_ai.html</link>
-        <guid isPermaLink="true">/2025/09/17/root_cause_with_ai.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title><![CDATA[Uncover network security issues with AWS Shield network security director]]></title>
-        <description><![CDATA[
-
-  10 September 2025
-
-  Uncover network security issues with AWS Shield network security director
-
-  Hosts:Tom Adamski
-  Guests:Neil Yajnik, Sr. Product Manager, AWS 
-  
-    📅 
-          Add to Calendar
-       
-  
-  
-    Abstract:Discover how Shield's Network Security Director transforms network security management. Watch live demonstrations of network topology visualization, security assessment, and AI-assisted investigation. Learn best practices for strengthening your security posture and get your questions answered by AWS experts.
-  
-
-  
-  
-     
-    
-      
-    
-    
-    Session Feedback/Content Suggestions
-  
-
-  
-
-]]></description>
-        <pubDate>Wed, 10 Sep 2025 14:00:00 -0500</pubDate>
-        <link>/2025/09/10/net_security_director.html</link>
-        <guid isPermaLink="true">/2025/09/10/net_security_director.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title><![CDATA[AWS Network Observability: Deep Dive into Network Reachability and Access Analyzer]]></title>
-        <description><![CDATA[3 September 2025 AWS Network Observability: Deep Dive into Network Reachability and Access Analyzer Hosts:Sidhartha Chauhan Guests:Ankit Chadha, Principal Solutions Architect, Networking 📅 Add to Calendar Abstract:This comprehensive 60-minute webinar explores the powerful combination of AWS Network Reachability Analyzer and Network Access Analyzer for improving both network observability and security. Ideal for cloud architects, DevOps engineers, and security professionals, this session will guide you through the why and when of using these tools, with a primary focus on end-to-end observability use cases that also enhance security.We'll begin with a brief introduction to these analyzers, then delve into real-world scenarios showcasing...]]></description>
-        <pubDate>Wed, 03 Sep 2025 14:00:00 -0500</pubDate>
-        <link>/2025/09/03/reachablity_and_access_analyzer.html</link>
-        <guid isPermaLink="true">/2025/09/03/reachablity_and_access_analyzer.html</guid>
         
         
       </item>
