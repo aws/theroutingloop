@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Secure Global DNS resolution: Introducing Route 53 Global Resolver"
-videoid: 
+videoid: wtRVoKe7bx4
 date:   2026-02-11 11:00:00 -0800
 abstract: "Join us to learn how Amazon Route 53 Global Resolver delivers secure, consistent, and globally available DNS resolution for distributed clients and hybrid environments. We’ll explore how this internet-reachable, anycast DNS resolver simplifies public and private domain resolution, enforces centralized security and threat filtering, supports encrypted DNS protocols, and reduces operational complexity and infrastructure overhead across remote offices, on-premises sites, and cloud workloads."
 hosts: "Matt Lehwess"
