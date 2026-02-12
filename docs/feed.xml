@@ -5,8 +5,8 @@
     <description>Weekly AWS Networking Twitch Show</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 Feb 2026 18:35:51 -0600</pubDate>
-    <lastBuildDate>Tue, 10 Feb 2026 18:35:51 -0600</lastBuildDate>
+    <pubDate>Thu, 12 Feb 2026 17:20:54 -0600</pubDate>
+    <lastBuildDate>Thu, 12 Feb 2026 17:20:54 -0600</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -55,7 +55,36 @@
     
       <item>
         <title><![CDATA[Secure Global DNS resolution: Introducing Route 53 Global Resolver]]></title>
-        <description><![CDATA[11 February 2026 Secure Global DNS resolution: Introducing Route 53 Global Resolver Hosts:Matt Lehwess Guests:Adhish Bhobe, Senior Product Manager, Route 53 📅 Add to Calendar Abstract:Join us to learn how Amazon Route 53 Global Resolver delivers secure, consistent, and globally available DNS resolution for distributed clients and hybrid environments. We’ll explore how this internet-reachable, anycast DNS resolver simplifies public and private domain resolution, enforces centralized security and threat filtering, supports encrypted DNS protocols, and reduces operational complexity and infrastructure overhead across remote offices, on-premises sites, and cloud workloads. Session hasn't started. Join live on 11 February 2026 at 11 AM...]]></description>
+        <description><![CDATA[
+
+  11 February 2026
+
+  Secure Global DNS resolution: Introducing Route 53 Global Resolver
+
+  Hosts:Matt Lehwess
+  Guests:Adhish Bhobe, Senior Product Manager, Route 53  
+  
+    📅 
+          Add to Calendar
+       
+  
+  
+    Abstract:Join us to learn how Amazon Route 53 Global Resolver delivers secure, consistent, and globally available DNS resolution for distributed clients and hybrid environments. We’ll explore how this internet-reachable, anycast DNS resolver simplifies public and private domain resolution, enforces centralized security and threat filtering, supports encrypted DNS protocols, and reduces operational complexity and infrastructure overhead across remote offices, on-premises sites, and cloud workloads.
+  
+
+  
+  
+     
+    
+      
+    
+    
+    Session Feedback/Content Suggestions
+  
+
+  
+
+]]></description>
         <pubDate>Wed, 11 Feb 2026 13:00:00 -0600</pubDate>
         <link>/2026/02/11/r53_global_resolver.html</link>
         <guid isPermaLink="true">/2026/02/11/r53_global_resolver.html</guid>
