@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Amazon VPC and dynamic routing with VPC Route Server"
-videoid: jdj-EnTVYMA
+videoid: uaZ7wZXY-Gk
 date:   2025-10-22 11:00:00 -0800
 abstract: "Join us as we explore how AWS Route Server brings dynamic routing to Amazon VPC. See how it enables BGP route exchange between your virtual appliances and AWS networking services, making it easier to build scalable, automated, and flexible cloud networks."
 hosts: "Jamie Wenzel"
