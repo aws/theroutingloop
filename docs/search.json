@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Chalk Talks - Fast, secure apps at fixed rates - CDN, WAF & DDoS protection",
+      "hosts"    : "Sidhartha Chauhan",
+      "url"      : "/2026/03/18/chal_talk_fixed_rate.html",
+      "date"     : "18 Mar 2026",
+      "abstract" : "Join us for an exclusive preview of AWS’ new fixed-rate pricing model and learn how it lets you deploy enterprise-grade capabilities like Content Delivery Network (CDN), Web Application Firewall (WAF), DNS, and DDoS protection for a fixed monthly price. We’ll demonstrate how to secure your application from direct access, protect against threats, and scale globally with low latency while knowing the exact price you’ll pay each month. Join us to understand this evolution in AWS pricing and how it changes your options for building and securing applications in the cloud."
+    } ,
+  
+    {
       "title"    : "Chalk Talk - Deep dive into private DNS with Route 53: From basics to scale",
       "hosts"    : "Matt Lehwess",
       "url"      : "/2026/03/11/deep-dive-into-private-dns.html",

@@ -5,9 +5,20 @@
     <description>Weekly AWS Networking Twitch Show</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Mar 2026 13:02:04 -0500</pubDate>
-    <lastBuildDate>Fri, 13 Mar 2026 13:02:04 -0500</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 12:41:18 -0500</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2026 12:41:18 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title><![CDATA[Chalk Talks - Fast, secure apps at fixed rates - CDN, WAF & DDoS protection]]></title>
+        <description><![CDATA[
+]]></description>
+        <pubDate>Wed, 18 Mar 2026 14:00:00 -0500</pubDate>
+        <link>/2026/03/18/chal_talk_fixed_rate.html</link>
+        <guid isPermaLink="true">/2026/03/18/chal_talk_fixed_rate.html</guid>
+        
+        
+      </item>
     
       <item>
         <title><![CDATA[Chalk Talk - Deep dive into private DNS with Route 53: From basics to scale]]></title>
@@ -431,16 +442,6 @@
         <pubDate>Wed, 01 Oct 2025 14:00:00 -0500</pubDate>
         <link>/2025/10/01/lcus_walkthrough.html</link>
         <guid isPermaLink="true">/2025/10/01/lcus_walkthrough.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title><![CDATA[Using generative AI for building AWS networks]]></title>
-        <description><![CDATA[24 September 2025 Using generative AI for building AWS networks Hosts:Sidhartha Chauhan Guests:Sohaib Tahir, Principal Solutions Architect, AWS 📅 Add to Calendar Abstract:Join us for a deep dive into the transformative potential of generative AI in building and managing AWS networks. This webinar will explore how tools like Amazon Bedrock and Amazon Q can streamline complex network tasks, from initial greenfield deployments to network migration and modernization. We'll demonstrate practical use cases, including using natural language prompts to deploy a global network with AWS Cloud WAN, updating policies, and generating infrastructure as code (IaC) templates. Learn how to accelerate your...]]></description>
-        <pubDate>Wed, 24 Sep 2025 14:00:00 -0500</pubDate>
-        <link>/2025/09/24/build_net_with_ai.html</link>
-        <guid isPermaLink="true">/2025/09/24/build_net_with_ai.html</guid>
         
         
       </item>
