@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Chalk Talk - Practical Applications of Edge Compute in Amazon CloudFront",
+      "hosts"    : "Jamie Wenzel",
+      "url"      : "/2026/03/25/chalk-talk-practical-applications-of-edge-compute.html",
+      "date"     : "25 Mar 2026",
+      "abstract" : "The last chalk talk on Twitch from re:Invent 2025! We&#39;ll dive into common use cases for using edge compute capabilities on CloudFront."
+    } ,
+  
+    {
       "title"    : "Chalk Talks - Fast, secure apps at fixed rates - CDN, WAF & DDoS protection",
       "hosts"    : "Sidhartha Chauhan",
       "url"      : "/2026/03/18/chal_talk_fixed_rate.html",

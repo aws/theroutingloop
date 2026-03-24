@@ -5,9 +5,20 @@
     <description>Weekly AWS Networking Twitch Show</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 Mar 2026 16:46:57 -0500</pubDate>
-    <lastBuildDate>Thu, 19 Mar 2026 16:46:57 -0500</lastBuildDate>
+    <pubDate>Tue, 24 Mar 2026 11:24:46 -0500</pubDate>
+    <lastBuildDate>Tue, 24 Mar 2026 11:24:46 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title><![CDATA[Chalk Talk - Practical Applications of Edge Compute in Amazon CloudFront]]></title>
+        <description><![CDATA[
+]]></description>
+        <pubDate>Wed, 25 Mar 2026 14:00:00 -0500</pubDate>
+        <link>/2026/03/25/chalk-talk-practical-applications-of-edge-compute.html</link>
+        <guid isPermaLink="true">/2026/03/25/chalk-talk-practical-applications-of-edge-compute.html</guid>
+        
+        
+      </item>
     
       <item>
         <title><![CDATA[Chalk Talks - Fast, secure apps at fixed rates - CDN, WAF & DDoS protection]]></title>
@@ -403,45 +414,6 @@
         <pubDate>Wed, 08 Oct 2025 14:00:00 -0500</pubDate>
         <link>/2025/10/08/isv_connectivity.html</link>
         <guid isPermaLink="true">/2025/10/08/isv_connectivity.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title><![CDATA[Load Balancer Capacity Units - What are they? Why do I care]]></title>
-        <description><![CDATA[
-
-  1 October 2025
-
-  Load Balancer Capacity Units - What are they? Why do I care
-
-  Hosts:Jamie Wenzel
-  Guests:Hema Halagatti, Sr. Product Manager, Load Balancing, AWS  Jon Zobrist, Head of ELB Customer Success, AWS 
-  
-    📅 
-          Add to Calendar
-       
-  
-  
-    Abstract:Load Balancer Capacity Units can feel a little mysterious. Fear not, we’ve got you covered. In this session, we’ll break down what they are, how you can reserve them, and practical ways to keep your costs under control. Join us for a clear, no-nonsense look at making LCU management simple and cost-effective.
-  
-
-  
-  
-     
-    
-      
-    
-    
-    Session Feedback/Content Suggestions
-  
-
-  
-
-]]></description>
-        <pubDate>Wed, 01 Oct 2025 14:00:00 -0500</pubDate>
-        <link>/2025/10/01/lcus_walkthrough.html</link>
-        <guid isPermaLink="true">/2025/10/01/lcus_walkthrough.html</guid>
         
         
       </item>
