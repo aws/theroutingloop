@@ -8,8 +8,8 @@
   />
   <meta name="description" content="Weekly AWS Networking Twitch Show" />
   <meta name="author" content="" />
-  <meta property="og:title" content="Hybrid DNS with Route 53 Resolver: Setup & Whiteboard Live - Part 1" />
-  <meta property="og:description" content="Join us for a hands-on session exploring Route 53 Resolver, inbound/outbound endpoints, and hybrid DNS patterns. We’ll walk through a live setup and whiteboard real-world scenarios to demystify common architectures. Whether you’re bridging AWS with on-prem or just getting started, this session will give you the tools to resolve DNS challenges with confidence." />
+  <meta property="og:title" content="Streamline your EKS application networking with Gateway API" />
+  <meta property="og:description" content="This week on Twitch, we're going deep on aligning Amazon VPC Lattice with the AWS Load Balancer Controller (LBC) through the Kubernetes Gateway API-what it actually looks like to use Gateway API as the contract, with ALB for north-south and Lattice for east-west. We'll break down how the controllers map to the same abstractions, where the boundaries are, and what this unlocks for multi-cluster and multi-VPC designs. If we have time, we'll also touch on migrating from AWS App Mesh to Lattice for ECS workloads-what changes, what simplifies, and where Lattice fits as the longer-term service connectivity layer." />
   <meta property="og:image" content="https://www.theroutingloop.net/assets/image/link_background.jpg" />
   <meta property="og:site_name" content="The Routing Loop" />
 
@@ -111,30 +111,36 @@
   <!-- Page Content -->
   <div class="container mb-5">
     
+
+
+
+
+
+
 <div class="content-area">
-  <span class="date">4 June 2025</span>
+  <span class="date">8 April 2026</span>
 
-  <h1>Hybrid DNS with Route 53 Resolver: Setup &amp; Whiteboard Live - Part 1</h1>
+  <h1>Streamline your EKS application networking with Gateway API</h1>
 
-  <p><b>Hosts:</b><br />Matt Lehwess, Tom Adamski</p>
-  <p><b>Guests:</b><br /></p>
+  <p><b>Hosts:</b><br>Alexandra Huides, Jamie Wenzel</p>
+  <p><b>Guests:</b><br>Satish Katpally</p>
   <p>
-    📅 <a href="data:text/calendar;charset=utf8,%0ABEGIN:VCALENDAR%0AVERSION:2.0%0APRODID:-//Your%20Website//Event%20Calendar//EN%0ABEGIN:VEVENT%0AUID:Hybrid-DNS-with-Route-53-Resolver:-Setup-&amp;-Whiteboard-Live---Part-1@yourwebsite.com%0ADTSTAMP:20260408T110710Z%0ADTSTART;TZID=America/Los_Angeles:20250604T110000%0ADTEND;TZID=America/Los_Angeles:20250604T120000%0ASUMMARY:Hybrid%20DNS%20with%20Route%2053%20Resolver:%20Setup%20&amp;%20Whiteboard%20Live%20-%20Part%201%0ADESCRIPTION:Join%20us%20for%20a%20hands-on%20session%20exploring%20Route%2053%20Resolver,%20inbound/outbound%20endpoints,%20and%20hybrid%20DNS%20patterns.%20We%E2%80%99ll%20walk%20through%20a%20live%20setup%20and%20whiteboard%20real-world%20scenarios%20to%20demystify%20common%20architectures.%20Whether%20you%E2%80%99re%20bridging%20AWS%20with%20on-prem%20or%20just%20getting%20started,%20this%20session%20will%20give%20you%20the%20tools%20to%20resolve%20DNS%20challenges%20with%20confidence.%0ALOCATION:Online%0AEND:VEVENT%0AEND:VCALENDAR%0A" download="hybrid-dns-with-route-53-resolver-setup-&amp;-whiteboard-live---part-1.ics">
+    📅 <a href="data:text/calendar;charset=utf8,%0ABEGIN:VCALENDAR%0AVERSION:2.0%0APRODID:-//Your%20Website//Event%20Calendar//EN%0ABEGIN:VEVENT%0AUID:Streamline-your-EKS-application-networking-with-Gateway-API@yourwebsite.com%0ADTSTAMP:20260408T110710Z%0ADTSTART;TZID=America/Los_Angeles:20260408T110000%0ADTEND;TZID=America/Los_Angeles:20260408T120000%0ASUMMARY:Streamline%20your%20EKS%20application%20networking%20with%20Gateway%20API%0ADESCRIPTION:This%20week%20on%20Twitch,%20we're%20going%20deep%20on%20aligning%20Amazon%20VPC%20Lattice%20with%20the%20AWS%20Load%20Balancer%20Controller%20(LBC)%20through%20the%20Kubernetes%20Gateway%20API-what%20it%20actually%20looks%20like%20to%20use%20Gateway%20API%20as%20the%20contract,%20with%20ALB%20for%20north-south%20and%20Lattice%20for%20east-west.%20We'll%20break%20down%20how%20the%20controllers%20map%20to%20the%20same%20abstractions,%20where%20the%20boundaries%20are,%20and%20what%20this%20unlocks%20for%20multi-cluster%20and%20multi-VPC%20designs.%20If%20we%20have%20time,%20we'll%20also%20touch%20on%20migrating%20from%20AWS%20App%20Mesh%20to%20Lattice%20for%20ECS%20workloads-what%20changes,%20what%20simplifies,%20and%20where%20Lattice%20fits%20as%20the%20longer-term%20service%20connectivity%20layer.%0ALOCATION:Online%0AEND:VEVENT%0AEND:VCALENDAR%0A" 
+          download="streamline-your-eks-application-networking-with-gateway-api.ics">
           Add to Calendar
        </a>
   </p>
   <div class="abstract">
-    <b>Abstract:</b><br />Join us for a hands-on session exploring Route 53 Resolver, inbound/outbound endpoints, and hybrid DNS patterns. We’ll walk through a live setup and whiteboard real-world scenarios to demystify common architectures. Whether you’re bridging AWS with on-prem or just getting started, this session will give you the tools to resolve DNS challenges with confidence.
+    <b>Abstract:</b><br>This week on Twitch, we're going deep on aligning Amazon VPC Lattice with the AWS Load Balancer Controller (LBC) through the Kubernetes Gateway API-what it actually looks like to use Gateway API as the contract, with ALB for north-south and Lattice for east-west. We'll break down how the controllers map to the same abstractions, where the boundaries are, and what this unlocks for multi-cluster and multi-VPC designs. If we have time, we'll also touch on migrating from AWS App Mesh to Lattice for ECS workloads-what changes, what simplifies, and where Lattice fits as the longer-term service connectivity layer.
   </div>
 
   
   
-     
+  
+    <p>Session hasn't started. Join live on <b>8 April 2026 at 11 AM PT / 2 PM ET / 7 PM UK</b></p>
     <div class="video-container">
-      <iframe src="https://www.youtube.com/embed/hrRFxTwFEJU?autoplay=0" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
+      <iframe src="https://player.twitch.tv/?channel=aws&parent=www.theroutingloop.net&parent=127.0.0.1&autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
     </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
   
 
   

@@ -5,9 +5,20 @@
     <description>Weekly AWS Networking Twitch Show</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 Mar 2026 16:02:05 -0500</pubDate>
-    <lastBuildDate>Thu, 26 Mar 2026 16:02:05 -0500</lastBuildDate>
+    <pubDate>Wed, 08 Apr 2026 11:07:09 -0500</pubDate>
+    <lastBuildDate>Wed, 08 Apr 2026 11:07:09 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title><![CDATA[Streamline your EKS application networking with Gateway API]]></title>
+        <description><![CDATA[
+]]></description>
+        <pubDate>Wed, 08 Apr 2026 14:00:00 -0500</pubDate>
+        <link>/2026/04/08/streamline-your-eks-application-networking-with.html</link>
+        <guid isPermaLink="true">/2026/04/08/streamline-your-eks-application-networking-with.html</guid>
+        
+        
+      </item>
     
       <item>
         <title><![CDATA[Chalk Talk - Practical Applications of Edge Compute in Amazon CloudFront]]></title>
@@ -375,45 +386,6 @@
         <pubDate>Wed, 15 Oct 2025 14:00:00 -0500</pubDate>
         <link>/2025/10/15/resolver_delegation.html</link>
         <guid isPermaLink="true">/2025/10/15/resolver_delegation.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title><![CDATA[Modern Connectivity Patterns for ISVs on AWS]]></title>
-        <description><![CDATA[
-
-  8 October 2025
-
-  Modern Connectivity Patterns for ISVs on AWS
-
-  Hosts:Alexandra Huides, Tom Adamski
-  Guests:
-  
-    📅 
-          Add to Calendar
-       
-  
-  
-    Abstract:How do Independent Software Vendors build secure, scalable connectivity with their customers on AWS? In this session, we’ll unpack common networking patterns ISVs use to expose their applications to end customers — and how they gain access to customer-owned data sources in the reverse direction. We’ll compare public connectivity approaches with private networking options, from VPC peering and Transit Gateway to application-centric services like AWS PrivateLink and Amazon VPC Lattice.
-  
-
-  
-  
-     
-    
-      
-    
-    
-    Session Feedback/Content Suggestions
-  
-
-  
-
-]]></description>
-        <pubDate>Wed, 08 Oct 2025 14:00:00 -0500</pubDate>
-        <link>/2025/10/08/isv_connectivity.html</link>
-        <guid isPermaLink="true">/2025/10/08/isv_connectivity.html</guid>
         
         
       </item>

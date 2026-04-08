@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Streamline your EKS application networking with Gateway API",
+      "hosts"    : "Alexandra Huides, Jamie Wenzel",
+      "url"      : "/2026/04/08/streamline-your-eks-application-networking-with.html",
+      "date"     : "08 Apr 2026",
+      "abstract" : "This week on Twitch, we&#39;re going deep on aligning Amazon VPC Lattice with the AWS Load Balancer Controller (LBC) through the Kubernetes Gateway API-what it actually looks like to use Gateway API as the contract, with ALB for north-south and Lattice for east-west. We&#39;ll break down how the controllers map to the same abstractions, where the boundaries are, and what this unlocks for multi-cluster and multi-VPC designs. If we have time, we&#39;ll also touch on migrating from AWS App Mesh to Lattice for ECS workloads-what changes, what simplifies, and where Lattice fits as the longer-term service connectivity layer."
+    } ,
+  
+    {
       "title"    : "Chalk Talk - Practical Applications of Edge Compute in Amazon CloudFront",
       "hosts"    : "Jamie Wenzel",
       "url"      : "/2026/03/25/chalk-talk-practical-applications-of-edge-compute.html",
