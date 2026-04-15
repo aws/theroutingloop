@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Jamie and Matt Ask me Anything (AMA)",
+      "hosts"    : "Jamie Wenzel Matt Lehwess",
+      "url"      : "/2026/04/15/jamie-and-matt-ask-me-anything-ama.html",
+      "date"     : "15 Apr 2026",
+      "abstract" : "Join Matt &amp; Jamie for a live AMA on all things AWS networking - from AI&#39;s impact on the network to the latest releases and trends shaping cloud networking today."
+    } ,
+  
+    {
       "title"    : "Streamline your EKS application networking with Gateway API",
       "hosts"    : "Alexandra Huides, Jamie Wenzel",
       "url"      : "/2026/04/08/streamline-your-eks-application-networking-with.html",
