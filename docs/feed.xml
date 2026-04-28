@@ -5,9 +5,20 @@
     <description>Weekly AWS Networking Twitch Show</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Apr 2026 10:18:27 -0500</pubDate>
-    <lastBuildDate>Mon, 20 Apr 2026 10:18:27 -0500</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 17:22:46 -0500</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 17:22:46 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title><![CDATA[From On-Prem to AWS in Clicks, Not Weeks: AWS Interconnect Last Mile ft. Lumen]]></title>
+        <description><![CDATA[
+]]></description>
+        <pubDate>Wed, 29 Apr 2026 14:00:00 -0500</pubDate>
+        <link>/2026/04/29/from-on-prem-to-aws-in-clicks-not-weeks-aws.html</link>
+        <guid isPermaLink="true">/2026/04/29/from-on-prem-to-aws-in-clicks-not-weeks-aws.html</guid>
+        
+        
+      </item>
     
       <item>
         <title><![CDATA[Jamie and Matt Ask me Anything (AMA)]]></title>
@@ -319,45 +330,6 @@
         <pubDate>Wed, 29 Oct 2025 14:00:00 -0500</pubDate>
         <link>/2025/10/29/vpc_sharing.html</link>
         <guid isPermaLink="true">/2025/10/29/vpc_sharing.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title><![CDATA[Amazon VPC and dynamic routing with VPC Route Server]]></title>
-        <description><![CDATA[
-
-  22 October 2025
-
-  Amazon VPC and dynamic routing with VPC Route Server
-
-  Hosts:Jamie Wenzel
-  Guests:Ammar Latif, Pr. Solutions Architect, Telco, AWS 
-  
-    📅 
-          Add to Calendar
-       
-  
-  
-    Abstract:Join us as we explore how AWS Route Server brings dynamic routing to Amazon VPC. See how it enables BGP route exchange between your virtual appliances and AWS networking services, making it easier to build scalable, automated, and flexible cloud networks.
-  
-
-  
-  
-     
-    
-      
-    
-    
-    Session Feedback/Content Suggestions
-  
-
-  
-
-]]></description>
-        <pubDate>Wed, 22 Oct 2025 14:00:00 -0500</pubDate>
-        <link>/2025/10/22/route_server.html</link>
-        <guid isPermaLink="true">/2025/10/22/route_server.html</guid>
         
         
       </item>
