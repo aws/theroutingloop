@@ -5,9 +5,20 @@
     <description>Weekly AWS Networking Twitch Show</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Apr 2026 22:57:01 -0500</pubDate>
-    <lastBuildDate>Wed, 29 Apr 2026 22:57:01 -0500</lastBuildDate>
+    <pubDate>Fri, 01 May 2026 14:46:14 -0500</pubDate>
+    <lastBuildDate>Fri, 01 May 2026 14:46:14 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title><![CDATA[Network Troubleshooting with AWS DevOps Agent]]></title>
+        <description><![CDATA[
+]]></description>
+        <pubDate>Wed, 06 May 2026 14:00:00 -0500</pubDate>
+        <link>/2026/05/06/network-troubleshooting-with-aws-devops-agent.html</link>
+        <guid isPermaLink="true">/2026/05/06/network-troubleshooting-with-aws-devops-agent.html</guid>
+        
+        
+      </item>
     
       <item>
         <title><![CDATA[From On-Prem to AWS in Clicks, Not Weeks: AWS Interconnect Last Mile ft. Lumen]]></title>
@@ -320,16 +331,6 @@
         <pubDate>Wed, 05 Nov 2025 13:00:00 -0600</pubDate>
         <link>/2025/11/05/Jamie-&amp;-Matt-Discsusion.html</link>
         <guid isPermaLink="true">/2025/11/05/Jamie-&amp;-Matt-Discsusion.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title><![CDATA[To do or not to do VPC Sharing: A candid chat about VPC sharing considerations and best practices]]></title>
-        <description><![CDATA[29 October 2025 To do or not to do VPC Sharing: A candid chat about VPC sharing considerations and best practices Hosts:Alexandra Huides, Matt Lehwess Guests: 📅 Add to Calendar Abstract:VPC sharing can be a powerful way to simplify network management and enable teams to collaborate securely — but it’s not a one-size-fits-all solution. In this episode of The Routing Loop, we’re having a candid chat about when (and when not) to use Amazon VPC sharing. We’ll unpack real-world pros and cons, from operational efficiency and security boundaries to service ownership, scaling, and governance. Whether you’re a platform team debating...]]></description>
-        <pubDate>Wed, 29 Oct 2025 14:00:00 -0500</pubDate>
-        <link>/2025/10/29/vpc_sharing.html</link>
-        <guid isPermaLink="true">/2025/10/29/vpc_sharing.html</guid>
         
         
       </item>

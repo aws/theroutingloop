@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Network Troubleshooting with AWS DevOps Agent",
+      "hosts"    : "Tom Adamski",
+      "url"      : "/2026/05/06/network-troubleshooting-with-aws-devops-agent.html",
+      "date"     : "06 May 2026",
+      "abstract" : "AWS DevOps Agent is your always-available operations teammate that investigates incidents and identifies operational improvements as an experienced DevOps engineer would, by learning your applications and their relationships, working with your observability tools, and correlating telemetry, code, and deployment data across all environments. In this session, we provide an overview of AWS DevOps Agent and then walk through real networking scenarios, demonstrating how the agent autonomously triages incidents, provides root cause analysis, and surfaces actionable findings by correlating CloudWatch alarms, CloudTrail events, VPC Flow Logs, and configuration data."
+    } ,
+  
+    {
       "title"    : "From On-Prem to AWS in Clicks, Not Weeks: AWS Interconnect Last Mile ft. Lumen",
       "hosts"    : "Sidhartha (Sid) Chauhan, AWS Principal SA",
       "url"      : "/2026/04/29/from-on-prem-to-aws-in-clicks-not-weeks-aws.html",
