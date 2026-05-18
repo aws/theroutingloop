@@ -5,9 +5,20 @@
     <description>Weekly AWS Networking Twitch Show</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 May 2026 18:03:45 -0500</pubDate>
-    <lastBuildDate>Thu, 07 May 2026 18:03:45 -0500</lastBuildDate>
+    <pubDate>Mon, 18 May 2026 17:20:56 -0500</pubDate>
+    <lastBuildDate>Mon, 18 May 2026 17:20:56 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title><![CDATA[Back to Basics: Understanding Availability Zones in the Context of Networking]]></title>
+        <description><![CDATA[
+]]></description>
+        <pubDate>Wed, 20 May 2026 14:00:00 -0500</pubDate>
+        <link>/2026/05/20/back-to-basics-understanding-availability-zones.html</link>
+        <guid isPermaLink="true">/2026/05/20/back-to-basics-understanding-availability-zones.html</guid>
+        
+        
+      </item>
     
       <item>
         <title><![CDATA[Network Troubleshooting with AWS DevOps Agent]]></title>
@@ -292,45 +303,6 @@
         <pubDate>Wed, 12 Nov 2025 13:00:00 -0600</pubDate>
         <link>/2025/11/12/custom_dns_lattice_resources.html</link>
         <guid isPermaLink="true">/2025/11/12/custom_dns_lattice_resources.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title><![CDATA[Let s chat AWS networking with Jamie and Matt]]></title>
-        <description><![CDATA[
-
-  5 November 2025
-
-  Let s chat AWS networking with Jamie and Matt
-
-  Hosts:Jamie Wenzel, Matt Lehwess
-  Guests:
-  
-    📅 
-          Add to Calendar
-       
-  
-  
-    Abstract:Open discussion on AWS networking with Jamie and Matt
-  
-
-  
-  
-     
-    
-      
-    
-    
-    Session Feedback/Content Suggestions
-  
-
-  
-
-]]></description>
-        <pubDate>Wed, 05 Nov 2025 13:00:00 -0600</pubDate>
-        <link>/2025/11/05/Jamie-&amp;-Matt-Discsusion.html</link>
-        <guid isPermaLink="true">/2025/11/05/Jamie-&amp;-Matt-Discsusion.html</guid>
         
         
       </item>

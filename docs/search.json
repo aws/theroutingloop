@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Back to Basics: Understanding Availability Zones in the Context of Networking",
+      "hosts"    : "Alex Huides Tom Adamski",
+      "url"      : "/2026/05/20/back-to-basics-understanding-availability-zones.html",
+      "date"     : "20 May 2026",
+      "abstract" : "In this episode of The Routing Loop, we go back to basics and take a closer look at Availability Zones from a networking perspective. We&#39;ll discuss the different implications of AZ placement, explore how AZ affinity affects traffic flow, and break down the cost and latency trade-offs of cross-AZ communication. We&#39;ll also dive into how services like Transit Gateway, PrivateLink, and Elastic Load Balancers handle AZ configurations and what they require from your architecture. Whether you&#39;re optimizing for resilience, performance, or cost, this one&#39;s for you."
+    } ,
+  
+    {
       "title"    : "Network Troubleshooting with AWS DevOps Agent",
       "hosts"    : "Tom Adamski",
       "url"      : "/2026/05/06/network-troubleshooting-with-aws-devops-agent.html",
