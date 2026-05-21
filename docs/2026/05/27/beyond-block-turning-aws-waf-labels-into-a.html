@@ -8,8 +8,8 @@
   />
   <meta name="description" content="Weekly AWS Networking Twitch Show" />
   <meta name="author" content="" />
-  <meta property="og:title" content="Chalk Talk - The Art of Managing Trade-Offs for your AWS Network Design" />
-  <meta property="og:description" content="Every AWS network design decision involves careful trade-off considerations. In this session, master the art of making critical AWS network design decisions through real-world scenarios. Learn how to evaluate key trade-offs between centralized and distributed architectures while balancing security, performance, and cost requirements. Whether you're building a global network, managing multi-account environments, or implementing hybrid connectivity to on-premises locations, attendees will leave with actionable insights and practical decision-making tools to optimize network infrastructure architecture designs." />
+  <meta property="og:title" content="Beyond Block: Turning AWS WAF Labels Into a Control Plane for Your Origin" />
+  <meta property="og:description" content="AWS WAF labels gave us granular detection - Bot Control alone emits dozens - but acting on each combination used to mean a rule per outcome, and rule lists grew faster than detection improved. Dynamic label interpolation flips that: one rule resolves a label namespace at evaluation time and produces a value into a response body, response header, or request header to origin. In this session we walk through four live demos that compose into a real pattern - a WAF that doesn't just block, but tells your block page why it fired, redirects challenged users with full context, forwards Bot Control signals to your origin without lookup tables, and drives CloudFront cache identity from custom labels signals. We'll close with an aws-samples repo already using this pattern to serve different content to AI agents, heavy users, and humans from the same URL." />
   <meta property="og:image" content="https://www.theroutingloop.net/assets/image/link_background.jpg" />
   <meta property="og:site_name" content="The Routing Loop" />
 
@@ -118,35 +118,29 @@
 
 
 <div class="content-area">
-  <span class="date">25 February 2026</span>
+  <span class="date">27 May 2026</span>
 
-  <h1>Chalk Talk - The Art of Managing Trade-Offs for your AWS Network Design</h1>
+  <h1>Beyond Block: Turning AWS WAF Labels Into a Control Plane for Your Origin</h1>
 
-  <p><b>Hosts:</b><br>Jamie Wenzel</p>
-  <p><b>Guests:</b><br>Yashar Araghi, Sr. Solutions Architect, AWS <br> Yusraa Djaafer, Solutions Architect, AWS </p>
+  <p><b>Hosts:</b><br>Tom Adamski</p>
+  <p><b>Guests:</b><br>Eitav Arditti, Sr. Specialist Solutions Architect, Edge</p>
   <p>
-    📅 <a href="data:text/calendar;charset=utf8,%0ABEGIN:VCALENDAR%0AVERSION:2.0%0APRODID:-//Your%20Website//Event%20Calendar//EN%0ABEGIN:VEVENT%0AUID:Chalk-Talk---The-Art-of-Managing-Trade-Offs-for-your-AWS-Network-Design@yourwebsite.com%0ADTSTAMP:20260521T145226Z%0ADTSTART;TZID=America/Los_Angeles:20260225T110000%0ADTEND;TZID=America/Los_Angeles:20260225T120000%0ASUMMARY:Chalk%20Talk%20-%20The%20Art%20of%20Managing%20Trade-Offs%20for%20your%20AWS%20Network%20Design%0ADESCRIPTION:Every%20AWS%20network%20design%20decision%20involves%20careful%20trade-off%20considerations.%20In%20this%20session,%20master%20the%20art%20of%20making%20critical%20AWS%20network%20design%20decisions%20through%20real-world%20scenarios.%20Learn%20how%20to%20evaluate%20key%20trade-offs%20between%20centralized%20and%20distributed%20architectures%20while%20balancing%20security,%20performance,%20and%20cost%20requirements.%20Whether%20you're%20building%20a%20global%20network,%20managing%20multi-account%20environments,%20or%20implementing%20hybrid%20connectivity%20to%20on-premises%20locations,%20attendees%20will%20leave%20with%20actionable%20insights%20and%20practical%20decision-making%20tools%20to%20optimize%20network%20infrastructure%20architecture%20designs.%0ALOCATION:Online%0AEND:VEVENT%0AEND:VCALENDAR%0A" 
-          download="chalk-talk---the-art-of-managing-trade-offs-for-your-aws-network-design.ics">
+    📅 <a href="data:text/calendar;charset=utf8,%0ABEGIN:VCALENDAR%0AVERSION:2.0%0APRODID:-//Your%20Website//Event%20Calendar//EN%0ABEGIN:VEVENT%0AUID:Beyond-Block:-Turning-AWS-WAF-Labels-Into-a-Control-Plane-for-Your-Origin@yourwebsite.com%0ADTSTAMP:20260521T145226Z%0ADTSTART;TZID=America/Los_Angeles:20260527T110000%0ADTEND;TZID=America/Los_Angeles:20260527T120000%0ASUMMARY:Beyond%20Block:%20Turning%20AWS%20WAF%20Labels%20Into%20a%20Control%20Plane%20for%20Your%20Origin%0ADESCRIPTION:AWS%20WAF%20labels%20gave%20us%20granular%20detection%20-%20Bot%20Control%20alone%20emits%20dozens%20-%20but%20acting%20on%20each%20combination%20used%20to%20mean%20a%20rule%20per%20outcome,%20and%20rule%20lists%20grew%20faster%20than%20detection%20improved.%20Dynamic%20label%20interpolation%20flips%20that:%20one%20rule%20resolves%20a%20label%20namespace%20at%20evaluation%20time%20and%20produces%20a%20value%20into%20a%20response%20body,%20response%20header,%20or%20request%20header%20to%20origin.%20In%20this%20session%20we%20walk%20through%20four%20live%20demos%20that%20compose%20into%20a%20real%20pattern%20-%20a%20WAF%20that%20doesn't%20just%20block,%20but%20tells%20your%20block%20page%20why%20it%20fired,%20redirects%20challenged%20users%20with%20full%20context,%20forwards%20Bot%20Control%20signals%20to%20your%20origin%20without%20lookup%20tables,%20and%20drives%20CloudFront%20cache%20identity%20from%20custom%20labels%20signals.%20We'll%20close%20with%20an%20aws-samples%20repo%20already%20using%20this%20pattern%20to%20serve%20different%20content%20to%20AI%20agents,%20heavy%20users,%20and%20humans%20from%20the%20same%20URL.%0ALOCATION:Online%0AEND:VEVENT%0AEND:VCALENDAR%0A" 
+          download="beyond-block-turning-aws-waf-labels-into-a-control-plane-for-your-origin.ics">
           Add to Calendar
        </a>
   </p>
   <div class="abstract">
-    <b>Abstract:</b><br>Every AWS network design decision involves careful trade-off considerations. In this session, master the art of making critical AWS network design decisions through real-world scenarios. Learn how to evaluate key trade-offs between centralized and distributed architectures while balancing security, performance, and cost requirements. Whether you're building a global network, managing multi-account environments, or implementing hybrid connectivity to on-premises locations, attendees will leave with actionable insights and practical decision-making tools to optimize network infrastructure architecture designs.
+    <b>Abstract:</b><br>AWS WAF labels gave us granular detection - Bot Control alone emits dozens - but acting on each combination used to mean a rule per outcome, and rule lists grew faster than detection improved. Dynamic label interpolation flips that: one rule resolves a label namespace at evaluation time and produces a value into a response body, response header, or request header to origin. In this session we walk through four live demos that compose into a real pattern - a WAF that doesn't just block, but tells your block page why it fired, redirects challenged users with full context, forwards Bot Control signals to your origin without lookup tables, and drives CloudFront cache identity from custom labels signals. We'll close with an aws-samples repo already using this pattern to serve different content to AI agents, heavy users, and humans from the same URL.
   </div>
 
   
   
-     
+  
+    <p>Session hasn't started. Join live on <b>27 May 2026 at 11 AM PT / 2 PM ET / 7 PM UK</b></p>
     <div class="video-container">
-      <iframe 
-        src="https://www.youtube.com/embed/OQA36P4sWLA?autoplay=0" 
-        height="315" 
-        width="560" 
-        allowfullscreen 
-        frameborder="0">
-    </iframe>
+      <iframe src="https://player.twitch.tv/?channel=aws&parent=www.theroutingloop.net&parent=127.0.0.1&autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
     </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
   
 
   

@@ -5,9 +5,20 @@
     <description>Weekly AWS Networking Twitch Show</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 May 2026 10:04:42 -0500</pubDate>
-    <lastBuildDate>Thu, 21 May 2026 10:04:42 -0500</lastBuildDate>
+    <pubDate>Thu, 21 May 2026 14:52:25 -0500</pubDate>
+    <lastBuildDate>Thu, 21 May 2026 14:52:25 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title><![CDATA[Beyond Block: Turning AWS WAF Labels Into a Control Plane for Your Origin]]></title>
+        <description><![CDATA[
+]]></description>
+        <pubDate>Wed, 27 May 2026 14:00:00 -0500</pubDate>
+        <link>/2026/05/27/beyond-block-turning-aws-waf-labels-into-a.html</link>
+        <guid isPermaLink="true">/2026/05/27/beyond-block-turning-aws-waf-labels-into-a.html</guid>
+        
+        
+      </item>
     
       <item>
         <title><![CDATA[Back to Basics: Understanding Availability Zones in the Context of Networking]]></title>
@@ -293,16 +304,6 @@
         <pubDate>Wed, 19 Nov 2025 13:00:00 -0600</pubDate>
         <link>/2025/11/19/riv_know_b4_u_go.html</link>
         <guid isPermaLink="true">/2025/11/19/riv_know_b4_u_go.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title><![CDATA[New Launch -  Amazon VPC Lattice support for custom DNS for resources]]></title>
-        <description><![CDATA[12 November 2025 New Launch - Amazon VPC Lattice support for custom DNS for resources Hosts:Alexandra Huides, Matt Lehwess Guests:Mohak Kohli, Sr. SDE, VPC Lattice 📅 Add to Calendar Abstract:In this video, we explore a new VPC Lattice enhancement that lets you attach custom domain names to your resource configurations. This update expands how teams expose and access layer-4 resources—such as databases, clusters, and internal domains—across VPCs and AWS accounts. With this release, resource owners can assign a custom domain to a resource configuration and share it with consumers, who can then access the resource through that domain. VPC Lattice...]]></description>
-        <pubDate>Wed, 12 Nov 2025 13:00:00 -0600</pubDate>
-        <link>/2025/11/12/custom_dns_lattice_resources.html</link>
-        <guid isPermaLink="true">/2025/11/12/custom_dns_lattice_resources.html</guid>
         
         
       </item>
