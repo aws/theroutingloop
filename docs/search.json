@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Back to basics Part 2: VPCs, IP addressing and dealing with overlapping IPs",
+      "hosts"    : "Alexandra Huides Tom Adamski",
+      "url"      : "/2026/07/01/back-to-basics-part-2-vpcs-ip-addressing-and.html",
+      "date"     : "01 Jul 2026",
+      "abstract" : "In this session, we go back to networking basics, and dive into foundational VPC design and connectivity"
+    } ,
+  
+    {
       "title"    : "Beyond Block: Turning AWS WAF Labels Into a Control Plane for Your Origin",
       "hosts"    : "Tom Adamski",
       "url"      : "/2026/05/27/beyond-block-turning-aws-waf-labels-into-a.html",

@@ -5,9 +5,20 @@
     <description>Weekly AWS Networking Twitch Show</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 May 2026 14:52:08 -0500</pubDate>
-    <lastBuildDate>Thu, 28 May 2026 14:52:08 -0500</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 12:04:29 -0500</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 12:04:29 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title><![CDATA[Back to basics Part 2: VPCs, IP addressing and dealing with overlapping IPs]]></title>
+        <description><![CDATA[
+]]></description>
+        <pubDate>Wed, 01 Jul 2026 14:00:00 -0500</pubDate>
+        <link>/2026/07/01/back-to-basics-part-2-vpcs-ip-addressing-and.html</link>
+        <guid isPermaLink="true">/2026/07/01/back-to-basics-part-2-vpcs-ip-addressing-and.html</guid>
+        
+        
+      </item>
     
       <item>
         <title><![CDATA[Beyond Block: Turning AWS WAF Labels Into a Control Plane for Your Origin]]></title>
@@ -265,45 +276,6 @@
         <pubDate>Wed, 10 Dec 2025 13:00:00 -0600</pubDate>
         <link>/2025/12/10/nfw_proxy.html</link>
         <guid isPermaLink="true">/2025/12/10/nfw_proxy.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title><![CDATA[re:Invent 2025 - Know before you go]]></title>
-        <description><![CDATA[
-
-  19 November 2025
-
-  re:Invent 2025 - Know before you go
-
-  Hosts:Alexandra Huides, Jamie Wenzel
-  Guests:Anusha Jampala, Sr Product Marketing Manager
-  
-    📅 
-          Add to Calendar
-       
-  
-  
-    Abstract:Learn about what's happening in the Networking track at re:Invent 2025
-  
-
-  
-  
-     
-    
-      
-    
-    
-    Session Feedback/Content Suggestions
-  
-
-  
-
-]]></description>
-        <pubDate>Wed, 19 Nov 2025 13:00:00 -0600</pubDate>
-        <link>/2025/11/19/riv_know_b4_u_go.html</link>
-        <guid isPermaLink="true">/2025/11/19/riv_know_b4_u_go.html</guid>
         
         
       </item>
